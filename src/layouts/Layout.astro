@@ -1,0 +1,73 @@
+---
+import "../styles/global.css";
+import "@fontsource/special-gothic-expanded-one";
+import "@fontsource-variable/inter";
+import { ClientRouter } from "astro:transitions";
+
+interface Props {
+	title?: string;
+	description?: string;
+}
+
+const currentLang = Astro.currentLocale || "en";
+const { href, origin } = Astro.url;
+const { title, description } = Astro.props;
+
+const siteTitle = "PH";
+const pageTitle = [siteTitle, title].filter(Boolean).join(" | ");
+---
+
+<!doctype html>
+<html lang={currentLang}>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="generator" content={Astro.generator} />
+    <meta name="description" content={description} />
+    <link rel="sitemap" href="/sitemap-index.xml" />
+    <link rel="canonical" href={href} />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+    <link rel="manifest" href="/site.webmanifest" />
+    <title>{pageTitle}</title>
+    <ClientRouter />
+    <script
+      type="application/ld+json"
+      is:inline
+      set:html={JSON.stringify({
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        name: pageTitle,
+        description: description,
+        url: href,
+        publisher: {
+          "@type": "Organization",
+          name: siteTitle,
+          logo: {
+            "@type": "ImageObject",
+            url: `${origin}/favicon.ico`,
+          },
+        },
+      })}
+    />
+    <script is:inline data-astro-rerun>
+      (() => {
+        const stored = localStorage.getItem("theme");
+        const prefersDark = window.matchMedia(
+          "(prefers-color-scheme: dark)",
+        ).matches;
+        const theme = stored || (prefersDark ? "dark" : "light");
+
+        if (theme === "dark") {
+          document.documentElement.classList.add("dark");
+        } else {
+          document.documentElement.classList.remove("dark");
+        }
+      })();
+    </script>
+  </head>
+  <body>
+    <slot />
+  </body>
+</html>

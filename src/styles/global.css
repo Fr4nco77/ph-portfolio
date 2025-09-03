@@ -1,0 +1,33 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+:root {
+  --color-primary: #ebf3ee;
+  --color-secondary: #31373a;
+}
+
+.dark {
+  --color-primary: #31373a;
+  --color-secondary: #ebf3ee;
+}
+
+@theme inline {
+  --font-title: "Special Gothic Expanded One", sans-serif;
+  --color-primary: var(--color-primary);
+  --color-secondary: var(--color-secondary);
+}
+
+@layer base {
+  html,
+  body {
+    @apply bg-primary text-secondary;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    min-height: 100vh;
+    font-family: "Inter Variable", sans-serif;
+    scroll-behavior: smooth;
+  }
+}
