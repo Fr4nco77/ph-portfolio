@@ -1,0 +1,83 @@
+---
+import Link from "./Link.astro";
+import type { NavTexts } from "@lib/types";
+
+interface Props {
+  lang: string;
+  navTexts: NavTexts;
+}
+
+const { lang, navTexts } = Astro.props;
+---
+
+<button
+  id="open-menu"
+  aria-label="Open menu"
+  class="flex cursor-pointer flex-col items-center justify-center gap-1"
+>
+  <span class="bg-secondary h-0.5 w-7 transition-all duration-300"></span>
+  <span class="bg-secondary h-0.5 w-7 transition-all duration-300"></span>
+</button>
+
+<div
+  id="mobilMenu"
+  class="bg-primary invisible absolute inset-0 z-11 opacity-0 transition-all duration-300 ease-in-out"
+>
+  <div class="flex items-center justify-between px-6 py-4">
+    <nav>
+      <ul class="flex items-center gap-4 sm:gap-8">
+        <li>
+          <Link to="/catalog" label={navTexts.catalog} lang={lang}
+            >{navTexts.catalog}</Link
+          >
+        </li>
+        <li>
+          <Link to="/blog" label={navTexts.blog} lang={lang}
+            >{navTexts.blog}</Link
+          >
+        </li>
+        <li>
+          <Link to="/contact" label={navTexts.contact} lang={lang}
+            >{navTexts.contact}</Link
+          >
+        </li>
+      </ul>
+    </nav>
+    <button
+      id="close-menu"
+      class="flex cursor-pointer flex-col items-center justify-center"
+      aria-label="Close menu"
+    >
+      <span class="bg-secondary h-0.5 w-7 rotate-45"></span>
+      <span class="bg-secondary h-0.5 w-7 -translate-y-0.5 -rotate-45"></span>
+    </button>
+  </div>
+</div>
+
+<script is:inline data-astro-rerun>
+  (function () {
+    const menu = document.getElementById("mobilMenu");
+    const btnOpen = document.getElementById("open-menu");
+    const btnClose = document.getElementById("close-menu");
+    const [span1, span2] = btnOpen.querySelectorAll("span");
+    const menuLinks = menu.querySelectorAll("a");
+
+    function toggleMenu() {
+      span1.classList.toggle("rotate-45");
+      span1.classList.toggle("translate-y-1.5");
+      span2.classList.toggle("-rotate-45");
+      span2.classList.toggle("-translate-y-1.5");
+
+      menu.classList.toggle("opacity-0");
+      menu.classList.toggle("invisible");
+
+      menuLinks.forEach((link, i) => {
+        link.classList.toggle("animate-slideUp");
+        link.style.animationDelay = `${i * 0.1}s`;
+      });
+    }
+
+    btnOpen.addEventListener("click", toggleMenu);
+    btnClose.addEventListener("click", toggleMenu);
+  })();
+</script>

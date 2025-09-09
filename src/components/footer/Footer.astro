@@ -1,0 +1,57 @@
+---
+import Dribble from "@assets/icons/Dribble.astro";
+import Instagram from "@assets/icons/Instagram.astro";
+import Linkedin from "@assets/icons/Linkedin.astro";
+import Twitter from "@assets/icons/Twitter.astro";
+import Network from "./Network.astro";
+import I18nToggle from "./I18nToggle.astro";
+
+interface Props {
+  lang: string;
+  copyright: string;
+}
+
+const { lang, copyright } = Astro.props;
+---
+
+<footer
+  aria-label="Footer"
+  class="border-secondary mx-auto max-w-7xl border-t px-6 py-4"
+>
+  <div
+    class="flex flex-col-reverse items-center justify-between gap-2 sm:flex-row"
+  >
+    <div class="flex items-end gap-2">
+      <h3
+        class="font-title hidden text-6xl tracking-wider underline sm:block"
+        aria-label="Logo PH"
+      >
+        PH
+      </h3>
+      <div class="flex flex-col gap-2 sm:gap-0">
+        <div class="flex items-center justify-center gap-2 sm:justify-start">
+          <Network
+            to="https://www.instagram.com/tu-perfil"
+            label="Instagram link"
+          >
+            <Instagram styles="size-4.5" />
+          </Network>
+          <Network to="https://twitter.com/tu-perfil" label="Twitter link">
+            <Twitter styles="size-4.5" />
+          </Network>
+          <Network
+            to="https://www.linkedin.com/in/tu-perfil"
+            label="LinkedIn link"
+          >
+            <Linkedin styles="size-4.5" />
+          </Network>
+          <Network to="https://dribble.com/tu-perfil" label="Dribble link">
+            <Dribble styles="size-4.5" />
+          </Network>
+        </div>
+        <span class="text-center opacity-70">{copyright}</span>
+      </div>
+    </div>
+    <I18nToggle lang={lang} />
+  </div>
+</footer>

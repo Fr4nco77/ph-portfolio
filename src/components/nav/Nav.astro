@@ -1,0 +1,27 @@
+---
+import { getRelativeLocaleUrl } from "astro:i18n";
+import Menu from "./Menu.astro";
+import ThemeToggle from "./ThemeToggle.astro";
+import type { NavTexts } from "@lib/types";
+
+interface Props {
+  lang: string;
+  navTexts: NavTexts;
+}
+
+const { lang, navTexts } = Astro.props;
+---
+
+<header class="fixed top-0 right-0 left-0 z-10">
+  <div
+    class="border-secondary relative mx-auto flex max-w-7xl items-center justify-between overflow-hidden border-b px-6 py-4"
+  >
+    <ThemeToggle />
+    <a
+      href={getRelativeLocaleUrl(lang, "/")}
+      class="font-title text-lg tracking-wider underline underline-offset-6 transition-all duration-300 ease-in-out hover:underline-offset-2 sm:text-xl"
+      >PH</a
+    >
+    <Menu lang={lang} navTexts={navTexts} />
+  </div>
+</header>

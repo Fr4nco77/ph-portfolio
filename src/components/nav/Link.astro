@@ -1,0 +1,19 @@
+---
+import { getRelativeLocaleUrl } from "astro:i18n";
+
+interface Props {
+  lang: string;
+  to: string;
+  label: string;
+}
+
+const { lang, to, label } = Astro.props;
+---
+
+<a
+  aria-label={label}
+  href={getRelativeLocaleUrl(lang, to)}
+  class="font-title inline-block tracking-wide underline underline-offset-6 opacity-0 transition-all duration-300 ease-in-out hover:underline-offset-4 sm:text-xl"
+>
+  <slot />
+</a>
