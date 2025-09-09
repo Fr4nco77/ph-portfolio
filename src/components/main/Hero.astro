@@ -1,0 +1,75 @@
+---
+import type { MainHero } from "@lib/types";
+import { Image } from "astro:assets";
+
+interface Props {
+  texts: MainHero;
+}
+
+const { texts } = Astro.props;
+---
+
+<main class="mx-auto max-w-7xl px-6 pt-24 pb-16">
+  <div class="mb-8 flex flex-col items-center justify-center">
+    <h1 class="sr-only">
+      {texts.h1}
+    </h1>
+    <div
+      class="animate-slideLeft flex w-full items-center justify-center gap-8 md:justify-start lg:justify-between xl:gap-10"
+    >
+      <span class="font-title text-4xl sm:text-7xl lg:text-8xl xl:text-9xl"
+        >{texts.title1}</span
+      >
+      <div
+        class="hidden h-14 w-auto flex-1 overflow-hidden rounded md:block lg:h-18 xl:h-22"
+      >
+        <Image
+          src="/images/main/hero.webp"
+          alt="decoration title"
+          height={56}
+          width={273}
+          widths={[273, 390, 453]}
+          sizes="(max-width: 720px) 273px, (max-width: 1024px) 390px, 453px"
+          loading="eager"
+          class="size-full object-none object-top-left"
+        />
+      </div>
+    </div>
+    <div
+      class="animate-slideRight flex w-full flex-col items-center md:flex-row md:items-end md:gap-2"
+    >
+      <span
+        class="font-title text-2xl leading-snug sm:text-4xl lg:text-5xl xl:text-6xl"
+        >{texts.title2}</span
+      >
+      <span class="font-title text-4xl sm:text-7xl lg:text-8xl xl:text-9xl"
+        >{texts.title3}</span
+      >
+    </div>
+  </div>
+
+  {/* Hero Image */}
+  <Image
+    src="/images/main/hero.webp"
+    alt="Surreal digital illustration of a girl with long turquoise hair on a colorful cosmic path — hero artwork for an illustrator portfolio."
+    height={400}
+    width={272}
+    widths={[272, 976, 1232]}
+    sizes="(max-width: 720px) 272px, (max-width: 1024px) 976px, 1232px"
+    loading="eager"
+    class="animate-slideUp mb-4 h-[400px] w-full rounded object-cover md:h-auto"
+  />
+
+  {/* Bottom Text Section */}
+  <div class="grid grid-cols-1 gap-4 md:grid-cols-2">
+    <div
+      class="flex flex-col gap-1 text-sm font-medium tracking-wider uppercase"
+    >
+      <span>{texts.subtitle1}</span>
+      <span>{texts.subtitle2}</span>
+    </div>
+    <p class="leading-relaxed">
+      {texts.detail}
+    </p>
+  </div>
+</main>
