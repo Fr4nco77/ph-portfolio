@@ -1,0 +1,73 @@
+---
+import Separator from "@components/Separator.astro";
+import CardProject from "@components/CardProyect.astro";
+
+const projects = [
+  {
+    id: "1",
+    image: "/images/1.webp",
+    title: "ICELAND STATIONS",
+    description:
+      "Montañista entre glaciares con carpa naranja en paisaje ártico",
+    category: "PHOTOGRAPHY",
+  },
+  {
+    id: "2",
+    image: "/images/2.webp",
+    title: "INFRARED NATURE",
+    description:
+      "Ciervo capturado en técnica infrarroja mostrando paisaje surrealista",
+    category: "PHOTOGRAPHY",
+  },
+  {
+    id: "3",
+    image: "/images/3.webp",
+    title: "WILD PORTRAITS",
+    description:
+      "Tigre blanco entre árboles escarlata en composición artística",
+    category: "PHOTOGRAPHY",
+  },
+];
+---
+
+<section class="mx-auto max-w-7xl px-6 pb-16" aria-label="Recent projects">
+  {/* Section Header */}
+  <Separator>
+    <h2
+      class="font-title text-3xl tracking-tight uppercase sm:text-5xl lg:text-7xl"
+    >
+      RECENT PROJECTS
+    </h2>
+  </Separator>
+
+  {/* Projects Grid */}
+  <div class="mt-10 grid grid-cols-1 gap-8 sm:mt-12 sm:grid-cols-3 md:gap-10">
+    {
+      projects.map(({ id, title, category, description, image }, index) => (
+        <div
+          data-animate="slideUp"
+          class:list={[
+            "flex flex-col gap-4 opacity-0",
+            index === 1 && "sm:flex-col-reverse",
+          ]}
+        >
+          <CardProject
+            id={id}
+            title={title}
+            category={category}
+            description={description}
+            image={image}
+          />
+          <div>
+            <span class="text-xs tracking-widest uppercase">{category}</span>
+            <div class="bg-secondary mt-1 h-px" />
+            <h3 class="mt-2 text-xl tracking-wide uppercase md:text-2xl lg:text-3xl">
+              {title}
+            </h3>
+            <div class="bg-secondary mt-1 h-px" />
+          </div>
+        </div>
+      ))
+    }
+  </div>
+</section>
