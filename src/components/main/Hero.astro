@@ -15,7 +15,8 @@ const { texts } = Astro.props;
       {texts.h1}
     </h1>
     <div
-      class="animate-slideLeft flex w-full items-center justify-center gap-8 md:justify-start lg:justify-between xl:gap-10"
+      data-animate="slideLeft"
+      class="flex w-full items-center justify-center gap-8 opacity-0 md:justify-start lg:justify-between xl:gap-10"
     >
       <span class="font-title text-4xl sm:text-7xl lg:text-8xl xl:text-9xl"
         >{texts.title1}</span
@@ -36,7 +37,8 @@ const { texts } = Astro.props;
       </div>
     </div>
     <div
-      class="animate-slideRight flex w-full flex-col items-center md:flex-row md:items-end md:gap-2"
+    data-animate="slideRight"
+      class="flex w-full opacity-0 flex-col items-center md:flex-row md:items-end md:gap-2"
     >
       <span
         class="font-title text-2xl leading-snug sm:text-4xl lg:text-5xl xl:text-6xl"
@@ -57,7 +59,8 @@ const { texts } = Astro.props;
     widths={[272, 976, 1232]}
     sizes="(max-width: 720px) 272px, (max-width: 1024px) 976px, 1232px"
     loading="eager"
-    class="animate-slideUp mb-4 h-[400px] w-full rounded object-cover md:h-auto"
+    data-animate="slideUp"
+    class="mb-4 h-[400px] w-full opacity-0 rounded object-cover md:h-auto"
   />
 
   {/* Bottom Text Section */}
