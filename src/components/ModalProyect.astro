@@ -1,0 +1,141 @@
+---
+import Close from "@assets/icons/Close.astro";
+import Download from "@assets/icons/Download.astro";
+import Mail from "@assets/icons/Mail.astro";
+import { getRelativeLocaleUrl } from "astro:i18n";
+
+interface Props {
+  lang: string;
+}
+
+const { lang } = Astro.props;
+---
+
+<div
+  id="global-modal"
+  class="invisible fixed inset-0 z-50 flex items-center justify-center opacity-0 backdrop-blur-md transition-opacity duration-300"
+>
+  <div
+    class="modal-content bg-secondary text-primary relative mx-4 flex max-h-[95vh] w-full max-w-5xl scale-95 transform flex-col gap-6 overflow-y-auto rounded-lg p-8 opacity-0 shadow-2xl transition-all duration-300 md:p-12"
+  >
+    {/* Close */}
+    <button
+      id="close-modal"
+      class="absolute top-2 right-2 size-6 cursor-pointer transition-transform duration-300 hover:scale-110"
+      aria-label="Close modal"
+    >
+      <Close styles="size-5" />
+    </button>
+
+    {/* Dynamic content */}
+    <div class="grid gap-8 sm:grid-cols-3">
+      <img
+        id="modal-image"
+        decoding="async"
+        class="w-full rounded object-cover shadow-md sm:col-span-2"
+      />
+      <div class="flex flex-col justify-between gap-6">
+        <div>
+          <span
+            id="modal-category"
+            aria-label="category"
+            class="mb-2 text-sm tracking-wider uppercase"
+          >
+          </span>
+          <h2
+            id="modal-title"
+            aria-label="title"
+            class="mb-4 text-3xl uppercase md:text-4xl"
+          >
+          </h2>
+          <p
+            id="modal-description"
+            aria-label="description"
+            class="leading-relaxed"
+          >
+          </p>
+        </div>
+
+        <div class="mt-4 flex flex-col gap-4">
+          <a
+            id="modal-download"
+            href="/"
+            aria-label="download project"
+            class="bg-primary text-secondary flex items-center justify-center gap-2 rounded-full px-6 py-2 font-medium transition-transform duration-300 hover:scale-105"
+          >
+            <Download styles="size-4" />
+            Download
+          </a>
+          <a
+            aria-label="contact me"
+            href={getRelativeLocaleUrl(lang, "contact")}
+            class="bg-primary text-secondary flex items-center justify-center gap-2 rounded-full px-6 py-2 font-medium transition-transform duration-300 hover:scale-105"
+          >
+            <Mail styles="size-4" />
+            Contact Me
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script is:inline data-astro-rerun>
+  (function () {
+    const modal = document.getElementById("global-modal");
+    const modalContent = modal.querySelector(".modal-content");
+    const modalImage = document.getElementById("modal-image");
+    const modalTitle = document.getElementById("modal-title");
+    const modalCategory = document.getElementById("modal-category");
+    const modalDescription = document.getElementById("modal-description");
+    const downloadBtn = document.getElementById("modal-download");
+    const closeBtn = document.getElementById("close-modal");
+
+    function openModal(card) {
+      const { title, category, description, image } = card.dataset;
+
+      modalImage.src = image;
+      modalImage.alt = title;
+      modalTitle.textContent = title;
+      modalCategory.textContent = category;
+      modalDescription.textContent = description;
+      downloadBtn.href = image;
+      downloadBtn.download = `${title}.webp`;
+
+      modal.classList.remove("invisible", "opacity-0");
+      modal.classList.add("opacity-100");
+
+      // animación del contenedor
+      setTimeout(() => {
+        modalContent.classList.remove("scale-95", "opacity-0");
+        modalContent.classList.add("scale-100", "opacity-100");
+      }, 10);
+    }
+
+    function closeModal() {
+      // animar el contenedor primero
+      modalContent.classList.remove("scale-100", "opacity-100");
+      modalContent.classList.add("scale-95", "opacity-0");
+
+      modal.classList.remove("opacity-100");
+      modal.classList.add("opacity-0");
+
+      setTimeout(() => {
+        modal.classList.add("invisible");
+      }, 300);
+    }
+
+    // Delegación de eventos para todas las cards
+    document.addEventListener("click", (e) => {
+      const card = e.target.closest(".card");
+      if (card) openModal(card);
+    });
+
+    closeBtn.addEventListener("click", closeModal);
+
+    // Cerrar al hacer click fuera
+    modal.addEventListener("click", (e) => {
+      if (e.target === modal) closeModal();
+    });
+  })();
+</script>
