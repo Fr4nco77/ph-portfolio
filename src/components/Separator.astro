@@ -1,0 +1,28 @@
+<div class="flex flex-col">
+  <div class="separator">
+    <span data-animate="separatorLine"></span>
+    <span data-animate="separatorLine"></span>
+  </div>
+  <div data-animate="slideRight" class="opacity-0">
+    <slot />
+  </div>
+  <div class="separator">
+    <span data-animate="separatorLine"></span>
+    <span data-animate="separatorLine"></span>
+  </div>
+</div>
+
+<style>
+  .separator {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    margin: 16px 0;
+  }
+
+  .separator span {
+    width: 0;
+    height: 1px;
+    background-color: var(--color-secondary);
+  }
+</style>
