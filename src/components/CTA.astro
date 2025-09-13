@@ -1,0 +1,28 @@
+---
+import type { CTATexts } from "@lib/types";
+import Button from "./main/Button.astro";
+
+interface Props {
+  lang: string;
+  texts: CTATexts;
+}
+
+const { lang, texts } = Astro.props;
+---
+
+<section
+  class="bg-secondary text-primary my-8 space-y-8 py-16 text-center lg:my-12 xl:rounded"
+  aria-label="Contact Call to Action"
+>
+  <div class="mx-auto max-w-4xl space-y-4 px-6">
+    <h2 class="font-title text-4xl uppercase md:text-6xl">
+      {texts.title}
+    </h2>
+    <p class="opacity-80 md:text-lg">
+      {texts.subtitle}
+    </p>
+  </div>
+  <Button lang={lang} to="contact" styles="bg-primary text-secondary">
+    {texts.button}
+  </Button>
+</section>
