@@ -1,7 +1,31 @@
 ---
 import Layout from "@layouts/Layout.astro";
-import { localPaths} from "@i18n/utils";
+import ModalProject from "@components/ui/ModalProyect.astro";
+import Hero from "@components/main/Hero.astro";
+import RecentProjects from "@components/main/RecentProjects.astro";
+import About from "@components/main/About.astro";
+import FeaturedProjects from "@components/main/FeaturedProjects.astro";
+import CTA from "@components/CTA.astro";
+import { locales, localPaths } from "@i18n/utils";
+import en from "@i18n/ui/en";
+import es from "@i18n/ui/es";
 export const getStaticPaths = localPaths;
+
+const currentLocale = Astro.currentLocale as keyof typeof locales;
+const translations = { en, es };
+const t = translations[currentLocale];
 ---
 
-<Layout></Layout>
+<Layout description={t.main.description}>
+  <Hero texts={t.main.hero} />
+  <RecentProjects lang={currentLocale} texts={t.main.recentProjects} />
+  <About lang={currentLocale} texts={t.main.about} />
+  <FeaturedProjects lang={currentLocale} texts={t.main.featuredProjects} />
+  <CTA lang={currentLocale} texts={t.cta}/>
+
+  <!-- Modal Global -->
+  <ModalProject lang={currentLocale} />
+</Layout>
+
+<!-- Setup Animations -->
+<script src="@lib/scripts/setupAnimations.js"></script>

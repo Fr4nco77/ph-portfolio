@@ -1,0 +1,30 @@
+---
+import { locales } from "@i18n/utils";
+
+interface Props {
+  lang: string;
+}
+
+const { lang } = Astro.props;
+const { origin, pathname } = Astro.url;
+
+function buildHref(language: string) {
+  const cleanPath = pathname.replace(/^\/[a-z]{2}/, "");
+  return `${origin}/${language}${cleanPath}`;
+}
+---
+
+{
+  Object.entries(locales).map(([language, label]) =>
+    language === lang ? null : (
+      <a
+        href={buildHref(language)}
+        aria-label={`Change language to ${label}`}
+        aria-current={language === lang}
+        class="font-title hidden tracking-wide underline underline-offset-4 opacity-0 transition-all duration-300 ease-in-out hover:underline-offset-1 min-[425px]:inline-block sm:text-xl"
+      >
+        {label}
+      </a>
+    ),
+  )
+}

@@ -1,6 +1,6 @@
 ---
-import type { MainHero } from "@lib/types";
 import { Image } from "astro:assets";
+import type { MainHero } from "@lib/types";
 
 interface Props {
   texts: MainHero;
@@ -9,7 +9,7 @@ interface Props {
 const { texts } = Astro.props;
 ---
 
-<main class="px-6 pt-24 pb-16">
+<main class="px-6 pt-24 pb-8 lg:pb-12">
   <div class="mb-8 flex flex-col items-center justify-center">
     <h1 class="sr-only">
       {texts.h1}
@@ -37,11 +37,11 @@ const { texts } = Astro.props;
       </div>
     </div>
     <div
-    data-animate="slideRight"
-      class="flex w-full opacity-0 flex-col items-center md:flex-row md:items-end md:gap-2"
+      data-animate="slideRight"
+      class="flex w-full flex-col items-center opacity-0 md:flex-row md:items-end md:gap-2"
     >
       <span
-        class="font-title text-2xl leading-snug sm:text-4xl lg:text-5xl xl:text-6xl"
+        class="font-title text-accent text-2xl leading-snug sm:text-4xl lg:text-5xl xl:text-6xl"
         >{texts.title2}</span
       >
       <span class="font-title text-4xl sm:text-7xl lg:text-8xl xl:text-9xl"
@@ -49,8 +49,6 @@ const { texts } = Astro.props;
       >
     </div>
   </div>
-
-  {/* Hero Image */}
   <Image
     src="/images/main/hero.webp"
     alt="Surreal digital illustration of a girl with long turquoise hair on a colorful cosmic path — hero artwork for an illustrator portfolio."
@@ -60,19 +58,18 @@ const { texts } = Astro.props;
     sizes="(max-width: 720px) 272px, (max-width: 1024px) 976px, 1232px"
     loading="eager"
     data-animate="slideUp"
-    class="mb-4 h-[400px] w-full opacity-0 rounded object-cover md:h-auto"
+    class="mb-4 h-[400px] w-full rounded object-cover opacity-0 md:h-auto"
   />
-
-  {/* Bottom Text Section */}
   <div class="grid grid-cols-1 gap-4 md:grid-cols-2">
-    <div
-      class="flex flex-col gap-1 text-sm font-medium tracking-wider uppercase"
+    <span
+      data-animate="fadeIn"
+      class="text-accent font-title text-2xl tracking-widest uppercase opacity-0 md:text-3xl lg:text-4xl xl:text-5xl"
     >
-      <span>{texts.subtitle1}</span>
-      <span>{texts.subtitle2}</span>
-    </div>
-    <p class="leading-relaxed">
-      {texts.detail}
+      {texts.subtitle}
+    </span>
+
+    <p class="text-accent leading-relaxed font-medium md:text-end">
+      {texts.tags}
     </p>
   </div>
 </main>

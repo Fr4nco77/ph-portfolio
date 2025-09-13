@@ -1,0 +1,70 @@
+---
+import Arrow from "@assets/icons/Arrow.astro";
+import Separator from "@components/ui/Separator.astro";
+import type { MainAbout } from "@lib/types";
+import { Image } from "astro:assets";
+import Button from "./Button.astro";
+
+interface Props {
+  lang: string;
+  texts: MainAbout;
+}
+
+const { lang, texts } = Astro.props;
+---
+
+<section
+  class="space-y-8 px-6 py-8 lg:space-y-12 lg:py-12"
+  aria-label={texts.title}
+>
+  <Separator>
+    <h2
+      class="font-title text-3xl tracking-tight uppercase sm:text-5xl lg:text-7xl"
+    >
+      {texts.title}
+    </h2>
+  </Separator>
+
+  <div class="grid gap-8 lg:grid-cols-3 lg:gap-10">
+    <Image
+      src="/images/1.webp"
+      alt="Explorador frente a un glaciar con carpa naranja en primer plano"
+      height={272}
+      width={272}
+      widths={[272, 720, 300, 384]}
+      sizes="(max-width: 320px) 272px, (max-width: 720px) 720px, (max-width: 1024px) 300px, 384px"
+      loading="lazy"
+      class="size-full rounded object-cover opacity-0 shadow-md"
+      data-animate="fadeIn"
+    />
+
+    <div class="flex flex-col justify-between space-y-12 lg:col-span-2">
+      <div class="space-y-1 md:text-lg">
+        <p class="leading-relaxed" set:html={texts.text1} />
+        <p class="leading-relaxed" set:html={texts.text2} />
+      </div>
+
+      <div
+        class="text-accent flex flex-col items-center justify-evenly gap-4 sm:flex-row"
+      >
+        {
+          texts.stats.map(({ data, label }) => (
+            <div class="flex w-[200px] flex-col items-center justify-center text-center">
+              <div class="font-title text-5xl md:text-6xl">{data}</div>
+              <p class="mt-2 text-sm font-medium tracking-wide uppercase md:text-base">
+                {label}
+              </p>
+            </div>
+          ))
+        }
+      </div>
+
+      <Button lang={lang} to="about">
+        {texts.button}
+        <Arrow
+          styles="size-5 md:size-6 group-hover:-rotate-45 transition-tranform ease-in-out duration-300"
+        />
+      </Button>
+    </div>
+  </div>
+</section>

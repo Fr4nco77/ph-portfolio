@@ -1,0 +1,21 @@
+---
+import { getRelativeLocaleUrl } from "astro:i18n";
+
+interface Props {
+  lang: string;
+  to: string;
+  styles?: string;
+}
+
+const { lang, to, styles } = Astro.props;
+---
+
+<a
+  href={getRelativeLocaleUrl(lang, to)}
+  class:list={[
+    "group bg-accent text-primary mx-auto flex w-full max-w-xs items-center justify-center gap-2 rounded-full py-4 font-semibold transition-transform duration-300 hover:scale-105 md:text-lg",
+    styles,
+  ]}
+>
+  <slot />
+</a>

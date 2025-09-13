@@ -1,6 +1,14 @@
 ---
-import Separator from "@components/Separator.astro";
-import CardProject from "@components/CardProyect.astro";
+import Separator from "@components/ui/Separator.astro";
+import CardProject from "@components/ui/CardProyect.astro";
+import Compass from "@assets/icons/Compass.astro";
+import type { MainRecent } from "@lib/types";
+import Button from "./Button.astro";
+
+interface Props {
+  lang: string;
+  texts: MainRecent;
+}
 
 const projects = [
   {
@@ -28,29 +36,41 @@ const projects = [
     category: "PHOTOGRAPHY",
   },
 ];
+
+const { lang, texts } = Astro.props;
 ---
 
-<section class="px-6 pb-16" aria-label="Recent projects">
-  {/* Section Header */}
+<section
+  class="space-y-8 px-6 py-8 lg:space-y-12 lg:py-12"
+  aria-label={texts.title}
+>
   <Separator>
     <h2
       class="font-title text-3xl tracking-tight uppercase sm:text-5xl lg:text-7xl"
     >
-      RECENT PROJECTS
+      {texts.title}
     </h2>
   </Separator>
-
-  {/* Projects Grid */}
-  <div class="mt-10 grid grid-cols-1 gap-8 sm:mt-12 sm:grid-cols-3 md:gap-10">
+  <div class="grid gap-8 sm:grid-cols-3 lg:gap-10">
     {
       projects.map(({ id, title, category, description, image }, index) => (
         <div
           data-animate="slideUp"
           class:list={[
-            "flex flex-col gap-4 opacity-0",
+            "group flex flex-col gap-2 opacity-0",
             index === 1 && "sm:flex-col-reverse",
           ]}
         >
+          <div>
+            <span class="block text-xs tracking-widest uppercase lg:text-sm">
+              {category}
+            </span>
+            <div class="bg-secondary h-px" />
+            <h3 class="text-accent my-2 origin-left text-xl font-semibold tracking-wide uppercase transition-transform duration-300 ease-in-out group-hover:scale-110 lg:text-3xl">
+              {title}
+            </h3>
+            <div class="bg-secondary h-px" />
+          </div>
           <CardProject
             id={id}
             title={title}
@@ -58,16 +78,16 @@ const projects = [
             description={description}
             image={image}
           />
-          <div>
-            <span class="text-xs tracking-widest uppercase">{category}</span>
-            <div class="bg-secondary mt-1 h-px" />
-            <h3 class="mt-2 text-xl tracking-wide uppercase md:text-2xl lg:text-3xl">
-              {title}
-            </h3>
-            <div class="bg-secondary mt-1 h-px" />
-          </div>
         </div>
       ))
     }
+  </div>
+  <div class="flex items-center justify-center sm:col-span-3">
+    <Button lang={lang} to="catalog">
+      {texts.button}
+      <Compass
+        styles="size-5 md:size-6 group-hover:animate-spin transition-tranform ease-in-out duration-300"
+      />
+    </Button>
   </div>
 </section>
