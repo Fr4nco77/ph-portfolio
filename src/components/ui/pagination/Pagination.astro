@@ -1,0 +1,102 @@
+---
+import  Arrow  from "@assets/icons/Arrow.astro";
+import ArrowPagination from "./ButtonPagination.astro";
+import { getRelativeLocaleUrl } from "astro:i18n";
+
+interface Urls {
+  current: string;
+  next?: string;
+  prev?: string;
+  first?: string;
+  last?: string;
+}
+
+interface Props {
+  lang: string;
+  currentPage: number;
+  lastPage: number;
+  url: Urls;
+  delta?: number;
+}
+
+const { lang, currentPage, lastPage, url, delta = 1 } = Astro.props;
+
+function getPages(current: number, last: number, delta: number) {
+  const range: (number | string)[] = [];
+  const rangeWithDots: (number | string)[] = [];
+  let l: number | undefined;
+
+  for (let i = 1; i <= last; i++) {
+    if (
+      i === 1 ||
+      i === last ||
+      (i >= current - delta && i <= current + delta)
+    ) {
+      range.push(i);
+    }
+  }
+
+  for (let i of range) {
+    if (l) {
+      if (typeof i === "number" && i - l === 2) {
+        rangeWithDots.push(l + 1);
+      } else if (typeof i === "number" && i - l > 2) {
+        rangeWithDots.push("...");
+      }
+    }
+    rangeWithDots.push(i);
+    if (typeof i === "number") l = i;
+  }
+
+  return rangeWithDots;
+}
+
+const pages = getPages(currentPage, lastPage, delta);
+---
+
+{
+  lastPage > 1 && (
+    <nav aria-label="Pagination" class="flex justify-center">
+      <ul class="flex flex-wrap items-center justify-end gap-1 text-2xl sm:gap-2 ">
+        <ArrowPagination url={url.prev} label="Prev Page">
+          <Arrow styles="size-8 rotate-180" />
+        </ArrowPagination>
+
+        {pages.map((page) => (
+          <li
+            class:list={[
+              "size-10",
+              page !== currentPage &&
+                page !== "..." &&
+                "hidden text-center sm:flex",
+            ]}
+          >
+            {page === "..." ? (
+              <span class="flex size-full items-end justify-center text-secondary/50">
+                …
+              </span>
+            ) : page === currentPage ? (
+              <span
+                aria-current="page"
+                class="flex size-full items-center justify-center rounded-full border border-accent bg-accent/20 p-1 text-accent"
+              >
+                {page}
+              </span>
+            ) : (
+              <a
+                href={getRelativeLocaleUrl(lang, `catalog/${page}`)}
+                class="flex items-center justify-center size-full rounded-full border border-accent/50 bg-transparent p-1 text-accent hover:bg-accent/20 hover:text-white"
+              >
+                {page}
+              </a>
+            )}
+          </li>
+        ))}
+
+        <ArrowPagination url={url.next} label="Siguiente Pagina">
+          <Arrow styles="size-8"  />
+        </ArrowPagination>
+      </ul>
+    </nav>
+  )
+}

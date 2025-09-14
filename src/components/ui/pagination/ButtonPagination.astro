@@ -1,0 +1,24 @@
+---
+interface Props {
+  url?: string;
+  style?: string;
+  label: string;
+}
+
+const { url, style, label } = Astro.props;
+---
+
+<li>
+  <a
+    aria-disabled={!url}
+    aria-label={label}
+    href={`${url}` || "/en"}
+    class:list={[
+      "border-accent/50 text-accent hover:bg-accent/20 flex aspect-square items-center justify-center gap-2 rounded-full border bg-transparent p-1 hover:text-white aria-disabled:pointer-events-none aria-disabled:opacity-50",
+      !url && "pointer-events-none",
+      style,
+    ]}
+  >
+    <slot />
+  </a>
+</li>
