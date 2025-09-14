@@ -56,4 +56,14 @@ export default {
       button: "Ver Todos",
     },
   },
+  catalog: {
+    title: "Catálogo",
+    description:
+      "Explora el catálogo completo de obras e ilustraciones. Descubre proyectos creativos, ilustración digital y arte visual que transmiten estilo, innovación y carácter único.",
+    top: {
+      title: "Catálogo",
+      subtitle:
+        "Explora la colección completa de relatos visuales y obras creativas",
+    },
+  },
 };

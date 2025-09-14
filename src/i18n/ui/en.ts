@@ -56,4 +56,14 @@ export default {
       button: "View All",
     },
   },
+  catalog: {
+    title: "Catalog",
+    description:
+      "Explore the complete catalog of artworks and illustrations. Discover creative projects, digital illustration, and visual art that convey style, innovation, and unique character.",
+    top: {
+      title: "Catalog",
+      subtitle:
+        "Explore the complete collection of visual stories and creative works",
+    },
+  },
 };
