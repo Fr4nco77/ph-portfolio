@@ -12,6 +12,10 @@ export default {
     subtitle: "Get in touch to collaborate on your next big project",
     button: "GET IN TOUCH",
   },
+  modal: {
+    download: "Download",
+    contact: "Contact Me",
+  },
   main: {
     description:
       "Discover a unique portfolio of digital illustration and contemporary art. Works full of style, editorial collage, and creative projects that transform ideas into unforgettable images.",

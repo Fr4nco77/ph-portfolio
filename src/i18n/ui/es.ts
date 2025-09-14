@@ -12,6 +12,10 @@ export default {
     subtitle: "Ponte en contacto para colaborar en tu próximo gran proyecto",
     button: "CONTACTARME",
   },
+  modal: {
+    download: "Descargar",
+    contact: "Contáctame",
+  },
   main: {
     description:
       "Descubre un portafolio único de ilustración digital y arte contemporáneo. Obras cargadas de estilo, collage editorial y proyectos creativos que transforman ideas en imágenes inolvidables.",
