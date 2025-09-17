@@ -13,13 +13,14 @@ interface Urls {
 
 interface Props {
   lang: string;
+  base: string;
   currentPage: number;
   lastPage: number;
   url: Urls;
   delta?: number;
 }
 
-const { lang, currentPage, lastPage, url, delta = 1 } = Astro.props;
+const { lang, base, currentPage, lastPage, url, delta = 1 } = Astro.props;
 
 function getPages(current: number, last: number, delta: number) {
   const range: (number | string)[] = [];
@@ -84,7 +85,7 @@ const pages = getPages(currentPage, lastPage, delta);
               </span>
             ) : (
               <a
-                href={getRelativeLocaleUrl(lang, `catalog/${page}`)}
+                href={getRelativeLocaleUrl(lang, `${base}/${page}`)}
                 class="flex items-center justify-center size-full rounded-full border border-accent/50 bg-transparent p-1 text-accent hover:bg-accent/20 hover:text-white"
               >
                 {page}
