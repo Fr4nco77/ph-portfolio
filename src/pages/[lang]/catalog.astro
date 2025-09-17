@@ -7,7 +7,7 @@ import { localPaths, type locales } from "@i18n/utils";
 import CardProyect from "@components/ui/CardProyect.astro";
 import CTA from "@components/CTA.astro";
 import Pagination from "@components/ui/pagination/Pagination.astro";
-import Header from "@components/ui/pagination/Header.astro";
+import Header from "@components/ui/Header.astro";
 export const getStaticPaths = localPaths;
 
 const currentLang = Astro.currentLocale as keyof typeof locales;
@@ -141,7 +141,7 @@ const url = { current: "", next: "", prev: "", first: "", last: "" };
         )
       }
     </div>
-    <Pagination lang={currentLang} currentPage={1} lastPage={3} url={url} />
+    <Pagination lang={currentLang} base="catalog" currentPage={1} lastPage={3} url={url} />
   </main>
   <CTA lang={currentLang} texts={t.cta} />
   <ModalProject lang={currentLang} texts={t.modal} />

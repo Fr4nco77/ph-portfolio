@@ -5,7 +5,7 @@ import { localPaths, type locales } from "@i18n/utils";
 import Layout from "@layouts/Layout.astro";
 import Form from "@components/contact/Form.astro";
 import Contacts from "@components/contact/Contacts.astro";
-import Header from "@components/ui/pagination/Header.astro";
+import Header from "@components/ui/Header.astro";
 export const getStaticPaths = localPaths;
 
 const currentLang = Astro.currentLocale as keyof typeof locales;
