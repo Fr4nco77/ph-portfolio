@@ -7,6 +7,7 @@ import { localPaths, type locales } from "@i18n/utils";
 import CardProyect from "@components/ui/CardProyect.astro";
 import CTA from "@components/CTA.astro";
 import Pagination from "@components/ui/pagination/Pagination.astro";
+import Header from "@components/ui/pagination/Header.astro";
 export const getStaticPaths = localPaths;
 
 const currentLang = Astro.currentLocale as keyof typeof locales;
@@ -117,17 +118,7 @@ const url = { current: "", next: "", prev: "", first: "", last: "" };
 
 <Layout title={t.catalog.title} description={t.catalog.description}>
   <main class="space-y-8 px-6 pt-24 pb-8 lg:pb-12">
-    <div class="border-secondary/18 border-b py-6 text-center">
-      <h1
-        class="font-title text-5xl tracking-tight uppercase sm:text-6xl lg:text-7xl"
-      >
-        {t.catalog.top.title}
-      </h1>
-      <p class="mt-4 opacity-80 md:text-lg">
-        {t.catalog.top.subtitle}
-      </p>
-    </div>
-
+    <Header title={t.catalog.top.title} subtitle={t.catalog.top.subtitle} />
     <div
       class="grid auto-rows-auto gap-6 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5"
     >
