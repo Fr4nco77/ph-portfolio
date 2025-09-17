@@ -66,4 +66,29 @@ export default {
         "Explore the complete collection of visual stories and creative works",
     },
   },
+  contact: {
+    title: "Contact",
+    description:
+      "Get in touch to bring your ideas to life with unique, custom illustrations. Send your project, question, or collaboration request and receive a quick response to transform your concept into professional visual art.",
+    header: {
+      title: "CONTACT",
+      subtitle: "Tell me your idea — we turn it into an image",
+    },
+    form: {
+      name: "Name",
+      email: "Email",
+      subject: "Subject",
+      message: "Message",
+      button: "Send",
+    },
+    contacts: {
+      title: "Contact Information",
+      email: "Email:",
+      phone: "Phone:",
+      schedule: "Schedule:",
+      ubication: "Location:",
+      socialIcons: "Follow me:",
+      download: " Download Press Kit (PDF)",
+    },
+  },
 };

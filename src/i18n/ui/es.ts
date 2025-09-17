@@ -66,4 +66,29 @@ export default {
         "Explora la colección completa de relatos visuales y obras creativas",
     },
   },
+  contact: {
+    title: "Contacto",
+    description:
+      "Contacta para dar vida a tus ideas con ilustraciones únicas y personalizadas. Envía tu proyecto, pregunta o solicitud de colaboración y recibe una respuesta rápida para transformar tu concepto en arte visual profesional.",
+    header: {
+      title: "CONTACTO",
+      subtitle: "Cuéntame tu idea — la transformamos en imagen",
+    },
+    form: {
+      name: "Nombre",
+      email: "Correo electrónico",
+      subject: "Asunto",
+      message: "Mensaje",
+      button: "Enviar",
+    },
+    contacts: {
+      title: "Información de contacto",
+      email: "Email:",
+      phone: "Teléfono:",
+      schedule: "Horario:",
+      ubication: "Ubicación:",
+      socialIcons: "Sígueme:",
+      download: " Descargar Press Kit (PDF)",
+    },
+  },
 };

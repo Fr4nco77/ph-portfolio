@@ -39,3 +39,21 @@ export interface MainFeatured {
   title: string;
   button: string;
 }
+
+export interface ContactForm {
+  name: string;
+  email: string;
+  subject: string;
+  message: string;
+  button: string;
+}
+
+export interface Contacts {
+  title: string;
+  email: string;
+  phone: string;
+  schedule: string;
+  ubication: string;
+  socialIcons: string;
+  download: string;
+}
