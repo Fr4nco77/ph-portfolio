@@ -116,8 +116,8 @@ const url = { current: "", next: "", prev: "", first: "", last: "" };
 ---
 
 <Layout title={t.catalog.title} description={t.catalog.description}>
-  <main class="space-y-12 px-6 pt-24 pb-8 lg:pb-12">
-    <div class="text-center">
+  <main class="space-y-8 px-6 pt-24 pb-8 lg:pb-12">
+    <div class="border-secondary/18 border-b py-6 text-center">
       <h1
         class="font-title text-5xl tracking-tight uppercase sm:text-6xl lg:text-7xl"
       >
@@ -140,13 +140,11 @@ const url = { current: "", next: "", prev: "", first: "", last: "" };
               title={title}
               category={category}
               description={description}
-              styles={
-                index % 7 === 0
-                  ? "md:col-span-2 md:row-span-2"
-                  : index % 5 === 0
-                    ? "md:row-span-2"
-                    : ""
-              }
+              styles={`
+                ${index % 7 === 0 && "md:col-span-2 md:row-span-2"}
+                ${index % 5 === 0 && "md:row-span-2"}
+                animate-slideUp
+              `}
             />
           ),
         )
