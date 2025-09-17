@@ -1,0 +1,32 @@
+---
+import en from "@i18n/ui/en";
+import es from "@i18n/ui/es";
+import { localPaths, type locales } from "@i18n/utils";
+import Layout from "@layouts/Layout.astro";
+import Form from "@components/contact/Form.astro";
+import Contacts from "@components/contact/Contacts.astro";
+export const getStaticPaths = localPaths;
+
+const currentLang = Astro.currentLocale as keyof typeof locales;
+const translations = { en, es };
+const t = translations[currentLang]["contact"];
+---
+
+<Layout title={t.title} description={t.description}>
+  <main class="space-y-8 px-6 pt-24 pb-8 lg:pb-12">
+    <div class="border-secondary/18 border-b py-6 text-center">
+      <h1
+        class="font-title text-5xl tracking-tight uppercase sm:text-6xl lg:text-7xl"
+      >
+        {t.header.title}
+      </h1>
+      <p class="mt-4 opacity-80 md:text-lg">
+        {t.header.subtitle}
+      </p>
+    </div>
+    <div class="grid gap-8 md:grid-cols-2">
+      <Contacts texts={t.contacts} />
+      <Form texts={t.form} />
+    </div>
+  </main>
+</Layout>
