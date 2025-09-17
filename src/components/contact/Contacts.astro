@@ -1,0 +1,119 @@
+---
+import Mail from "@assets/icons/Mail.astro";
+import Phone from "@assets/icons/Phone.astro";
+import Compass from "@assets/icons/Compass.astro";
+import MapPin from "@assets/icons/MapPin.astro";
+import Instagram from "@assets/icons/Instagram.astro";
+import Twitter from "@assets/icons/Twitter.astro";
+import Linkedin from "@assets/icons/Linkedin.astro";
+import Dribble from "@assets/icons/Dribble.astro";
+import Download from "@assets/icons/Download.astro";
+import type { Contacts } from "@lib/types";
+
+interface Props {
+  texts: Contacts;
+}
+
+const { texts } = Astro.props;
+---
+
+<div class="p-4">
+  <h3 class="font-title mb-4 text-2xl tracking-tight uppercase">
+    {texts.title}
+  </h3>
+  <div class="text- flex flex-col gap-3 font-bold">
+    <div>
+      <div class="flex items-center gap-2">
+        <Mail styles="size-6" />
+        <span>{texts.email}</span>
+      </div>
+      <span class="font-normal opacity-80">hello@photographer.com</span>
+    </div>
+
+    <div>
+      <div class="flex items-center gap-2">
+        <Phone styles="size-6" />
+        <span>{texts.phone}</span>
+      </div>
+      <span class="font-normal opacity-80">+54 9 11 1234 5678</span>
+    </div>
+
+    <div>
+      <div class="flex items-center gap-2">
+        <Compass styles="size-6" />
+        <span>{texts.schedule}</span>
+      </div>
+      <span class="font-normal opacity-80"
+        >Lun: Vie: 9:00 - 18:00
+        <br />
+        Sáb: 10:00 - 14:00</span
+      >
+    </div>
+
+    <div>
+      <div class="flex items-center gap-2">
+        <MapPin styles="size-6" />
+        <span>{texts.ubication}</span>
+      </div>
+      <span class="font-normal opacity-80"> Buenos Aires, Argentina</span>
+    </div>
+
+    {/* Social Icons */}
+    <div class="mt-4">
+      <strong class="mb-2 block opacity-100">{texts.socialIcons}</strong>
+      <div class="text-secondary/80 flex gap-3">
+        <a
+          href="https://www.instagram.com/"
+          target="_blank"
+          rel="noopener noreferrer"
+          aria-label="Visit my Instagram profile"
+        >
+          <Instagram
+            styles="size-6 transition-all duration-300 hover:text-accent hover:scale-110 ease-in-out"
+          />
+        </a>
+        <a
+          href="https://twitter.com/"
+          target="_blank"
+          rel="noopener noreferrer"
+          aria-label="Visit my Twitter profile"
+        >
+          <Twitter
+            styles="size-6 transition-all duration-300 hover:text-accent hover:scale-110 ease-in-out"
+          />
+        </a>
+        <a
+          href="https://www.linkedin.com/"
+          target="_blank"
+          rel="noopener noreferrer"
+          aria-label="Visit my LinkedIn profile"
+        >
+          <Linkedin
+            styles="size-6 transition-all duration-300 hover:text-accent hover:scale-110 ease-in-out"
+          />
+        </a>
+        <a
+          href="https://dribbble.com/"
+          target="_blank"
+          rel="noopener noreferrer"
+          aria-label="Visit my Dribbble profile"
+        >
+          <Dribble
+            styles="size-6 transition-all duration-300 hover:text-accent hover:scale-110 ease-in-out"
+          />
+        </a>
+      </div>
+    </div>
+
+    <div class="border-secondary/20 mt-4 border-t pt-4">
+      <a
+        href="/presskit.txt"
+        download="Press_Kit.txt"
+        class="hover:text-accent inline-flex items-center gap-2 transition-colors duration-300"
+      >
+        <Download styles="size-6" />
+        {texts.download}
+      </a>
+    </div>
+  </div>
+</div>
