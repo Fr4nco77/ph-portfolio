@@ -1,0 +1,197 @@
+---
+import type { ContactForm } from "@lib/types";
+
+interface Props {
+  texts: ContactForm;
+}
+
+const { texts } = Astro.props;
+---
+
+<form class="w-full bg-transparent">
+  <div class="grid gap-4">
+    {/* Name */}
+    <div class="flex flex-col">
+      <label for="name" class="mb-2 text-sm transition-colors duration-300">
+        {texts.name}
+      </label>
+      <input
+        id="name"
+        name="name"
+        type="text"
+        placeholder="John Doe"
+        aria-label="name"
+        class="border-secondary/80 focus:ring-secondary w-full rounded-md border px-4 py-3 transition-colors duration-300 focus:border-transparent focus:ring-2 focus:outline-none"
+        required
+      />
+    </div>
+
+    {/* Email */}
+    <div class="flex flex-col">
+      <label for="email" class="mb-2 text-sm">{texts.email}</label>
+      <input
+        id="email"
+        name="email"
+        type="email"
+        placeholder="john@ejemplo.com"
+        aria-label="email"
+        class="border-secondary/80 focus:ring-secondary w-full rounded-md border px-4 py-3 transition-colors duration-300 focus:border-transparent focus:ring-2 focus:outline-none"
+        required
+      />
+    </div>
+
+    {/* Subject */}
+    <div class="flex flex-col">
+      <label for="subject" class="mb-2 text-sm">{texts.subject}</label>
+      <input
+        id="subject"
+        name="subject"
+        type="text"
+        placeholder="Services"
+        aria-label="subject"
+        class="border-secondary/80 focus:ring-secondary w-full rounded-md border px-4 py-3 transition-colors duration-300 focus:border-transparent focus:ring-2 focus:outline-none"
+        required
+      />
+    </div>
+
+    {/* Message */}
+    <div class="flex flex-col">
+      <label for="message" class="mb-2 text-sm">{texts.message}</label>
+      <textarea
+        id="message"
+        name="message"
+        placeholder="..."
+        rows={6}
+        aria-label="message"
+        class="resize-vertical border-secondary/80 focus:ring-secondary h-40 w-full rounded-md border px-4 py-3 transition-colors duration-300 focus:border-transparent focus:ring-2 focus:outline-none"
+        required></textarea>
+    </div>
+
+    {/* Submit Button */}
+    <div class="mt-6 flex items-center justify-center">
+      <button
+        type="submit"
+        class="bg-secondary text-primary hover:border-secondary hover:bg-primary hover:text-secondary inline-flex w-full max-w-xs cursor-pointer items-center justify-center rounded-full border border-transparent px-8 py-3 transition-colors duration-300 disabled:cursor-not-allowed disabled:opacity-50"
+      >
+        {texts.button}
+      </button>
+    </div>
+  </div>
+</form>
+
+<script>
+  import { actions, isInputError } from "astro:actions";
+  const form = document.querySelector("form");
+  const btn = document.querySelector("button[type=submit]")!;
+
+  type FieldKey = "name" | "subject" | "email" | "message";
+
+  const fields: Record<FieldKey, { input: HTMLElement; label: Element }> = {
+    name: {
+      input: document.getElementById("name")!,
+      label: document.querySelector('label[for="name"]')!,
+    },
+    subject: {
+      input: document.getElementById("subject")!,
+      label: document.querySelector('label[for="subject"]')!,
+    },
+    email: {
+      input: document.getElementById("email")!,
+      label: document.querySelector('label[for="email"]')!,
+    },
+    message: {
+      input: document.getElementById("message")!,
+      label: document.querySelector('label[for="message"]')!,
+    },
+  };
+
+  form?.addEventListener("submit", async (e) => {
+    e.preventDefault();
+    btn.setAttribute("disabled", "true");
+
+    const formData = new FormData(form);
+    const { data, error } = await actions.contactAction(formData);
+
+    btn.removeAttribute("disabled");
+
+    if (isInputError(error)) {
+      const errors = Object.entries(error.fields);
+
+      Object.values(fields).forEach(({ input, label }) => {
+        input.classList.remove("border-red-500");
+        input.classList.add("border-secondary/80");
+
+        label.classList.remove("text-red-500");
+        label.classList.add("text-secondary");
+      });
+
+      const [, firstMessage] = errors[0];
+      showToast({
+        message: firstMessage[0],
+        icon: "❌",
+        textColor: "text-red-500",
+      });
+
+      errors.forEach(([key]) => {
+        const fieldKey = key as FieldKey;
+        if (fields[fieldKey]) {
+          fields[fieldKey].input.classList.remove("border-secondary/80");
+          fields[fieldKey].input.classList.add("border-red-500");
+
+          fields[fieldKey].label.classList.remove("text-secondary");
+          fields[fieldKey].label.classList.add("text-red-500");
+        }
+      });
+    } else {
+      Object.values(fields).forEach(({ input, label }) => {
+        input.classList.remove("border-red-500");
+        input.classList.add("border-secondary/80");
+
+        label.classList.remove("text-red-500");
+        label.classList.add("text-secondary");
+      });
+
+      showToast({
+        message: data?.message || "Enviado con éxito",
+        icon: "✅",
+        textColor: "text-primary",
+      });
+
+      form.reset();
+    }
+  });
+
+  function showToast({
+    message,
+    icon,
+    textColor,
+  }: {
+    message: string;
+    icon: string;
+    textColor: string;
+  }) {
+    const toast = document.createElement("div");
+
+    toast.innerHTML = `
+      <div class="fixed top-4 right-4 lg:top-8 lg:right-8 flex items-center font-semibold gap-2 px-4 py-2 rounded-[10px] border-2 border-primary bg-secondary/90 p-8 shadow-2xl transform transition-transform duration-500 ease-in-out opacity-0 -translate-y-12 z-20 ${textColor}">
+        <span>${icon}</span>
+        <span>${message}</span>
+      </div>
+    `;
+    document.body.appendChild(toast);
+
+    const toastEl = toast.firstElementChild;
+    if (!toastEl) return;
+
+    requestAnimationFrame(() => {
+      toastEl.classList.remove("opacity-0", "-translate-y-12");
+      toastEl.classList.add("opacity-100", "translate-y-0");
+    });
+
+    setTimeout(() => {
+      toastEl.classList.remove("opacity-100", "translate-y-0");
+      toastEl.classList.add("opacity-0", "-translate-y-12");
+      setTimeout(() => toast.remove(), 300);
+    }, 3000);
+  }
+</script>
