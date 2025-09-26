@@ -91,4 +91,12 @@ export default {
       download: " Download Press Kit (PDF)",
     },
   },
+  blog: {
+    title: "Blog",
+    description:
+      "Discover articles, ideas, and reflections on illustration, digital art, and creativity. Get inspired by visual resources and graphic design trends.",
+    featuredProjects: {
+      more: "READ MORE"
+    }
+  },
 };

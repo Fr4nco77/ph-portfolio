@@ -91,4 +91,12 @@ export default {
       download: " Descargar Press Kit (PDF)",
     },
   },
+  blog: {
+    title: "Blog",
+    description:
+      "Descubre artículos, ideas y reflexiones sobre ilustración, arte digital y creatividad. Inspírate con recursos visuales y tendencias del diseño gráfico.",
+    featuredProjects: {
+      more: "LEER MÁS",
+    },
+  },
 };

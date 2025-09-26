@@ -1,0 +1,86 @@
+---
+import Header from "@components/ui/Header.astro";
+import Featured from "@components/blog/Featured.astro";
+import en from "@i18n/ui/en";
+import es from "@i18n/ui/es";
+import { locales, localPaths } from "@i18n/utils";
+import Layout from "@layouts/Layout.astro";
+import Toolbar from "@components/blog/Toolbar.astro";
+import Posts from "@components/blog/Posts.astro";
+export const getStaticPaths = localPaths;
+
+const currentLang = Astro.currentLocale as keyof typeof locales;
+const translations = { en, es };
+const t = translations[currentLang]["blog"];
+
+const blogPosts = [
+  {
+    id: 1,
+    title: "Capturing the Essence of Wild Landscapes",
+    category: "Photography",
+    excerpt:
+      "Exploring the untamed beauty of nature through the lens, where every frame tells a story of wilderness and wonder.",
+    image: "/images/1.webp",
+    date: "2024-01-15",
+    featured: true,
+  },
+  {
+    id: 2,
+    title: "The Art of Digital Composition",
+    category: "Process",
+    excerpt:
+      "Behind the scenes of creating surreal digital artworks that blend reality with imagination.",
+    image: "/images/2.webp",
+    date: "2024-01-10",
+    featured: true,
+  },
+  {
+    id: 3,
+    title: "Color Theory in Visual Storytelling",
+    category: "Theory",
+    excerpt:
+      "How color palettes shape emotions and narrative in contemporary visual art.",
+    image: "/images/3.webp",
+    date: "2024-01-05",
+  },
+  {
+    id: 4,
+    title: "Minimalism in Modern Photography",
+    category: "Photography",
+    excerpt:
+      "The power of negative space and simplicity in creating impactful imagery.",
+    image: "/images/1.webp",
+    date: "2024-01-01",
+  },
+  {
+    id: 5,
+    title: "Studio Workflow Optimization",
+    category: "Process",
+    excerpt:
+      "Streamlining creative processes for maximum efficiency and artistic output.",
+    image: "/images/2.webp",
+    date: "2023-12-28",
+  },
+  {
+    id: 6,
+    title: "Light and Shadow Dynamics",
+    category: "Theory",
+    excerpt:
+      "Understanding the interplay between light and shadow in visual composition.",
+    image: "/images/3.webp",
+    date: "2023-12-25",
+  },
+];
+const categories = ["All", "Photography", "Process", "Theory"]
+const featuredPosts = blogPosts.filter((post) => post.featured);
+---
+
+<Layout title={t.title} description={t.description}>
+  <main class="space-y-8 px-6 pt-24 pb-8 lg:pb-12">
+    <Header title={"BLOG"} subtitle={"Stories, processes & reflections from the studio"} />
+    <Featured lang={currentLang} texts={t.featuredProjects} blogs={featuredPosts}/>
+    <Toolbar categories={categories} />
+    <Posts posts={blogPosts} />
+
+  </main>
+</Layout>

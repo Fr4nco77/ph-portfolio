@@ -1,0 +1,51 @@
+---
+import { Image } from 'astro:assets';
+
+interface Props {
+  posts: any;
+}
+
+const { posts } = Astro.props;
+---
+
+<section>
+  <div class="grid gap-10 sm:grid-cols-2 lg:grid-cols-3">
+    {
+      posts.map((post, index) => (
+        <article
+          class="postItem group flex translate-y-4 animate-slideUp flex-col opacity-0"
+          style={{ animationDelay: `${index * 0.1}s` }}
+          data-title={post.title}
+          data-category={post.category}
+        >
+          <div class="overflow-hidden">
+            <Image
+              src={post.image}
+              alt={`Featured image for ${post.title}`}
+              height={1}
+              width={1}
+              class="h-56 w-full object-cover transition-transform duration-300 group-hover:scale-105 group-hover:shadow-lg md:h-64"
+            />
+          </div>
+          <div class="mt-4">
+            <span class="mb-2 block font-sans text-[11px] tracking-[0.15em] text-[#31373A] uppercase">
+              {post.category}
+            </span>
+            <h3 class="mb-2 font-mono text-xl font-bold text-[#31373A] uppercase md:text-2xl">
+              {post.title}
+            </h3>
+            <p class="mb-4 font-sans text-base text-[rgba(49,55,58,0.75)]">
+              {post.excerpt}
+            </p>
+            <button class="font-sans text-xs tracking-wide text-[#31373A] uppercase transition-opacity hover:opacity-75">
+              READ MORE →
+            </button>
+          </div>
+        </article>
+      ))
+    }
+  </div>
+
+  {/* Pagination */}
+  <!-- <Pagination base="blog"/> -->
+</section>
