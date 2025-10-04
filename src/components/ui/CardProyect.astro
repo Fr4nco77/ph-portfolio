@@ -3,13 +3,15 @@ import { Image } from "astro:assets";
 
 interface Props {
   id: string;
-  image: string;
+  image: ImageMetadata;
   title: string;
-  category: string;
   description: string;
+  lazy: boolean;
   styles?: string;
+  animationDelay?: string;
 }
-const { id, image, title, category, description, styles } = Astro.props;
+const { id, image, title, description, styles, lazy, animationDelay } =
+  Astro.props;
 ---
 
 <div
@@ -17,20 +19,17 @@ const { id, image, title, category, description, styles } = Astro.props;
     "card group relative cursor-pointer transition-transform duration-300 ease-in-out will-change-transform hover:scale-105",
     styles,
   ]}
+  style={animationDelay && `animation-delay: ${animationDelay}`}
   data-id={id}
-  data-image={image}
+  data-image={image.src}
   data-title={title}
-  data-category={category}
   data-description={description}
 >
   <Image
     src={image}
     alt={title}
-    height={272}
-    width={272}
-    widths={[272, 299, 384]}
-    sizes="(max-width: 720px) 272px, (max-width: 1024px) 299px, 384px"
-    loading="lazy"
+    loading={lazy ? "lazy" : "eager"}
+    quality={"mid"}
     class="size-full rounded object-cover transition-shadow duration-300 ease-out group-hover:shadow-lg"
   />
   <div
