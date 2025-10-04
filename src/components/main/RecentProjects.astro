@@ -1,49 +1,21 @@
 ---
 import Separator from "@components/ui/Separator.astro";
-import CardProject from "@components/ui/CardProyect.astro";
 import Compass from "@assets/icons/Compass.astro";
 import type { MainRecent } from "@lib/types";
 import Button from "./Button.astro";
+import type { CollectionEntry } from "astro:content";
+import SliderProjects from "@components/ui/SliderProjects.astro";
 
 interface Props {
   lang: string;
   texts: MainRecent;
+  projects: CollectionEntry<"projects">[];
 }
 
-const projects = [
-  {
-    id: "1",
-    image: "/images/1.webp",
-    title: "ICELAND STATIONS",
-    description:
-      "Montañista entre glaciares con carpa naranja en paisaje ártico",
-    category: "PHOTOGRAPHY",
-  },
-  {
-    id: "2",
-    image: "/images/2.webp",
-    title: "INFRARED NATURE",
-    description:
-      "Ciervo capturado en técnica infrarroja mostrando paisaje surrealista",
-    category: "PHOTOGRAPHY",
-  },
-  {
-    id: "3",
-    image: "/images/3.webp",
-    title: "WILD PORTRAITS",
-    description:
-      "Tigre blanco entre árboles escarlata en composición artística",
-    category: "PHOTOGRAPHY",
-  },
-];
-
-const { lang, texts } = Astro.props;
+const { lang, texts, projects } = Astro.props;
 ---
 
-<section
-  class="space-y-8 px-6 py-8 lg:space-y-12 lg:py-12"
-  aria-label={texts.title}
->
+<section class="space-y-8 px-6 py-8 lg:py-12" aria-label={texts.title}>
   <Separator>
     <h2
       class="font-title text-3xl tracking-tight uppercase sm:text-5xl lg:text-7xl"
@@ -51,42 +23,12 @@ const { lang, texts } = Astro.props;
       {texts.title}
     </h2>
   </Separator>
-  <div class="grid gap-8 sm:grid-cols-3 lg:gap-10">
-    {
-      projects.map(({ id, title, category, description, image }, index) => (
-        <div
-          data-animate="slideUp"
-          class:list={[
-            "group flex flex-col gap-2 opacity-0",
-            index === 1 && "sm:flex-col-reverse",
-          ]}
-        >
-          <div>
-            <span class="block text-xs tracking-widest uppercase lg:text-sm">
-              {category}
-            </span>
-            <div class="bg-secondary h-px" />
-            <h3 class="text-accent my-2 origin-left text-xl font-semibold tracking-wide uppercase transition-transform duration-300 ease-in-out group-hover:scale-110 lg:text-3xl">
-              {title}
-            </h3>
-            <div class="bg-secondary h-px" />
-          </div>
-          <CardProject
-            id={id}
-            title={title}
-            category={category}
-            description={description}
-            image={image}
-          />
-        </div>
-      ))
-    }
-  </div>
+  <SliderProjects items={projects} />
   <div class="flex items-center justify-center sm:col-span-3">
     <Button lang={lang} to="catalog">
       {texts.button}
       <Compass
-        styles="size-5 md:size-6 group-hover:animate-spin transition-tranform ease-in-out duration-300"
+        styles="size-5 md:size-6 group-hover:rotate-180 transition-tranform ease-in-out duration-300"
       />
     </Button>
   </div>

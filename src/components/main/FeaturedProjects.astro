@@ -1,65 +1,21 @@
 ---
-import CardProyect from "@components/ui/CardProyect.astro";
 import Separator from "@components/ui/Separator.astro";
 import Button from "./Button.astro";
 import Arrow from "@assets/icons/Arrow.astro";
 import type { MainFeatured } from "@lib/types";
+import type { CollectionEntry } from "astro:content";
+import SliderProjects from "@components/ui/SliderProjects.astro";
 
 interface Props {
   lang: string;
   texts: MainFeatured;
+  projects: CollectionEntry<"projects">[];
 }
 
-const projects = [
-  {
-    id: "1",
-    image: "/images/1.webp",
-    title: "ICELAND STATIONS",
-    description:
-      "Montañista entre glaciares con carpa naranja en paisaje ártico",
-    category: "PHOTOGRAPHY",
-  },
-  {
-    id: "2",
-    image: "/images/2.webp",
-    title: "INFRARED NATURE",
-    description:
-      "Ciervo capturado en técnica infrarroja mostrando paisaje surrealista",
-    category: "PHOTOGRAPHY",
-  },
-  {
-    id: "3",
-    image: "/images/3.webp",
-    title: "WILD PORTRAITS",
-    description:
-      "Tigre blanco entre árboles escarlata en composición artística",
-    category: "PHOTOGRAPHY",
-  },
-  {
-    id: "4",
-    image: "/images/3.webp",
-    title: "WILD PORTRAITS",
-    description:
-      "Tigre blanco entre árboles escarlata en composición artística",
-    category: "PHOTOGRAPHY",
-  },
-  {
-    id: "5",
-    image: "/images/2.webp",
-    title: "INFRARED NATURE",
-    description:
-      "Ciervo capturado en técnica infrarroja mostrando paisaje surrealista",
-    category: "PHOTOGRAPHY",
-  },
-];
-
-const { lang, texts } = Astro.props;
+const { lang, texts, projects } = Astro.props;
 ---
 
-<section
-  class="space-y-8 px-6 py-8 lg:space-y-12 lg:py-12"
-  aria-label={texts.title}
->
+<section class="space-y-8 px-6 py-8 lg:py-12" aria-label={texts.title}>
   <Separator>
     <h2
       class="font-title text-3xl tracking-tight uppercase sm:text-5xl lg:text-7xl"
@@ -67,23 +23,7 @@ const { lang, texts } = Astro.props;
       {texts.title}
     </h2>
   </Separator>
-  <div
-    data-animate="slideUp"
-    class="grid auto-rows-[220px] gap-4 opacity-0 sm:auto-rows-[250px] sm:grid-cols-2 lg:grid-cols-4 lg:gap-6"
-  >
-    {
-      projects.map(({ id, title, category, image, description }, index) => (
-        <CardProyect
-          id={id}
-          title={title}
-          category={category}
-          image={image}
-          description={description}
-          styles={index === 0 ? "sm:col-span-2 lg:row-span-2" : undefined}
-        />
-      ))
-    }
-  </div>
+  <SliderProjects items={projects} />
   <div>
     <Button lang={lang} to="catalog">
       {texts.button}
