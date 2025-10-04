@@ -14,19 +14,31 @@ const { lang, navTexts } = Astro.props;
 <button
   id="open-menu"
   aria-label="Open menu"
-  class="flex cursor-pointer flex-col items-center justify-center gap-1"
+  class="group flex cursor-pointer flex-col items-center justify-center gap-1"
 >
-  <span class="bg-secondary h-0.5 w-7 transition-all duration-300"></span>
-  <span class="bg-secondary h-0.5 w-7 transition-all duration-300"></span>
+  <span
+    class="group-hover:bg-accent bg-secondary h-0.5 w-7 transition-all duration-300"
+  ></span>
+  <span
+    class="group-hover:bg-accent bg-secondary h-0.5 w-7 transition-all duration-300"
+  ></span>
 </button>
 
 <div
   id="mobilMenu"
   class="bg-primary invisible absolute inset-0 z-11 opacity-0 transition-all duration-300 ease-in-out"
 >
-  <div class="flex items-center justify-between px-6 py-4">
+  <div class="flex items-center justify-between px-1 py-4 min-[375px]:px-6">
     <nav>
-      <ul class="flex items-center gap-4 sm:gap-8">
+      <ul class="flex items-center gap-3 sm:gap-8">
+        <li class="hidden sm:block">
+          <Link to="/" label={navTexts.home} lang={lang}>{navTexts.home}</Link>
+        </li>
+        <li>
+          <Link to="/about" label={navTexts.about} lang={lang}
+            >{navTexts.about}</Link
+          >
+        </li>
         <li>
           <Link to="/catalog" label={navTexts.catalog} lang={lang}
             >{navTexts.catalog}</Link
@@ -51,8 +63,8 @@ const { lang, navTexts } = Astro.props;
         class="flex cursor-pointer flex-col items-end justify-center"
         aria-label="Close menu"
       >
-        <span class="bg-secondary h-0.5 w-7 rotate-45"></span>
-        <span class="bg-secondary h-0.5 w-7 -translate-y-0.5 -rotate-45"></span>
+        <span class="bg-accent h-0.5 w-7 rotate-45"></span>
+        <span class="bg-accent h-0.5 w-7 -translate-y-0.5 -rotate-45"></span>
       </button>
     </div>
   </div>
