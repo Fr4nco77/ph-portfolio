@@ -1,6 +1,8 @@
 ---
 import { Image } from "astro:assets";
 import type { MainHero } from "@lib/types";
+import smallMosail from "@assets/images/small_mosaic.png";
+import bigMosaic from "@assets/images/big_mosaic.png";
 
 interface Props {
   texts: MainHero;
@@ -25,14 +27,11 @@ const { texts } = Astro.props;
         class="hidden h-14 w-auto flex-1 overflow-hidden rounded md:block lg:h-18 xl:h-22"
       >
         <Image
-          src="/images/main/hero.webp"
+          src={smallMosail}
           alt="decoration title"
-          height={56}
-          width={273}
-          widths={[273, 390, 453]}
-          sizes="(max-width: 720px) 273px, (max-width: 1024px) 390px, 453px"
           loading="eager"
-          class="size-full object-none object-top-left"
+          quality={"mid"}
+          class="size-full object-cover object-bottom"
         />
       </div>
     </div>
@@ -50,15 +49,12 @@ const { texts } = Astro.props;
     </div>
   </div>
   <Image
-    src="/images/main/hero.webp"
-    alt="Surreal digital illustration of a girl with long turquoise hair on a colorful cosmic path — hero artwork for an illustrator portfolio."
-    height={400}
-    width={272}
-    widths={[272, 976, 1232]}
-    sizes="(max-width: 720px) 272px, (max-width: 1024px) 976px, 1232px"
+    src={bigMosaic}
+    alt="Collage of twelve painterly illustrations arranged in a 3x4 grid, featuring nature scenes, whimsical characters, portraits, futuristic cityscapes, and everyday moments, blending warm and cool tones in a variety of artistic styles."
     loading="eager"
+    quality={"mid"}
     data-animate="slideUp"
-    class="mb-4 h-[400px] w-full rounded object-cover opacity-0 md:h-auto"
+    class="mb-4 h-[400px] w-full rounded object-cover opacity-0 sm:h-[40vh] md:h-[50vh] lg:h-[60vh] xl:h-[70vh]"
   />
   <div class="grid grid-cols-1 gap-4 md:grid-cols-2">
     <span
