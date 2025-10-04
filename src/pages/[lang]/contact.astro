@@ -1,12 +1,22 @@
 ---
 import en from "@i18n/ui/en";
 import es from "@i18n/ui/es";
-import { localPaths, type locales } from "@i18n/utils";
+import { locales } from "@i18n/utils";
 import Layout from "@layouts/Layout.astro";
 import Form from "@components/contact/Form.astro";
 import Contacts from "@components/contact/Contacts.astro";
 import Header from "@components/ui/Header.astro";
-export const getStaticPaths = localPaths;
+import type { GetStaticPaths } from "astro";
+
+export const getStaticPaths = (() => {
+  return Object.keys(locales).map((key) => {
+    return {
+      params: {
+        lang: key,
+      },
+    };
+  });
+}) satisfies GetStaticPaths;
 
 const currentLang = Astro.currentLocale as keyof typeof locales;
 const translations = { en, es };
