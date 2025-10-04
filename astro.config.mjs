@@ -19,4 +19,7 @@ export default defineConfig({
       prefixDefaultLocale: true,
     },
   },
+  redirects: {
+    "/[lang]/catalog": "/[lang]/catalog/1",
+  },
 });
