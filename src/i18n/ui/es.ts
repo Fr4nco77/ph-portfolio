@@ -1,5 +1,7 @@
 export default {
   nav: {
+    home: "Inicio",
+    about: "Acerca de",
     catalog: "Catálogo",
     blog: "Blog",
     contact: "Contacto",
@@ -33,7 +35,7 @@ export default {
     },
     about: {
       title: "Conóceme",
-      text1: `“Desde pequeño descubrí que un lápiz era una brújula capaz de llevarme a mundos imposibles. Hoy, <span class="text-accent font-semibold">mis ilustraciones son la manera en que traduzco emociones, paisajes internos y fragmentos de historias</span> en imágenes que cobran vida en el papel y en la pantalla.`,
+      text1: `“Desde pequeña descubrí que un lápiz era una brújula capaz de llevarme a mundos imposibles. Hoy, <span class="text-accent font-semibold">mis ilustraciones son la manera en que traduzco emociones, paisajes internos y fragmentos de historias</span> en imágenes que cobran vida en el papel y en la pantalla.`,
       text2: `Cada trazo es un diálogo entre lo real y lo imaginado, entre la observación atenta de lo cotidiano y el impulso de reinventarlo. Aquí comparto una parte de ese viaje, <span class="text-accent font-semibold">invitándote a conocer no solo mi trabajo, sino también la mirada que lo hace posible</span>.”`,
       stats: [
         {

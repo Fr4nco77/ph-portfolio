@@ -1,4 +1,6 @@
 export interface NavTexts {
+  home: string;
+  about: string;
   catalog: string;
   blog: string;
   contact: string;

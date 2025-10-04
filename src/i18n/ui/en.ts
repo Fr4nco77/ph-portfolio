@@ -1,5 +1,7 @@
 export default {
   nav: {
+    home: "Home",
+    about: "About",
     catalog: "Catalog",
     blog: "Blog",
     contact: "Contact",
