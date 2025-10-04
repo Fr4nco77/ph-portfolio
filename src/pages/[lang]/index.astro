@@ -6,25 +6,42 @@ import RecentProjects from "@components/main/RecentProjects.astro";
 import About from "@components/main/About.astro";
 import FeaturedProjects from "@components/main/FeaturedProjects.astro";
 import CTA from "@components/CTA.astro";
-import { locales, localPaths } from "@i18n/utils";
+import { locales } from "@i18n/utils";
 import en from "@i18n/ui/en";
 import es from "@i18n/ui/es";
-export const getStaticPaths = localPaths;
+import type { GetStaticPaths } from "astro";
+import { getCollection } from "astro:content";
+
+export const getStaticPaths = (async() => {
+  const projects = await getCollection("projects");
+  
+  return Object.keys(locales).flatMap((lang) => {
+    const filtered = projects.filter((project) =>
+      project.id.startsWith(`${lang}/`),
+    );
+
+    return { params: { lang }, props: { projects: filtered } };
+  });
+}) satisfies GetStaticPaths;
 
 const currentLocale = Astro.currentLocale as keyof typeof locales;
 const translations = { en, es };
 const t = translations[currentLocale];
+
+const { projects } = Astro.props;
+const recentProjects = projects.slice(0, 9);
+const featuredProjects = projects.slice(13, 22);
 ---
 
 <Layout description={t.main.description}>
   <Hero texts={t.main.hero} />
-  <RecentProjects lang={currentLocale} texts={t.main.recentProjects} />
+  <RecentProjects lang={currentLocale} texts={t.main.recentProjects} projects={recentProjects}/>
   <About lang={currentLocale} texts={t.main.about} />
-  <FeaturedProjects lang={currentLocale} texts={t.main.featuredProjects} />
+  <FeaturedProjects lang={currentLocale} texts={t.main.featuredProjects} projects={featuredProjects}/>
   <CTA lang={currentLocale} texts={t.cta} />
 
   <!-- Modal Global -->
-  <ModalProject lang={currentLocale} texts={t.modal} />
+  <ModalProject lang={currentLocale}/>
 </Layout>
 
 <!-- Setup Animations -->
