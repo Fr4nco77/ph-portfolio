@@ -14,7 +14,7 @@ const { url, style, label } = Astro.props;
     aria-label={label}
     href={`${url}` || "/en"}
     class:list={[
-      "border-accent/50 text-accent hover:bg-accent/20 flex aspect-square items-center justify-center gap-2 rounded-full border bg-transparent p-1 hover:text-white aria-disabled:pointer-events-none aria-disabled:opacity-50",
+      "border-secondary/50 text-secondary hover:bg-secondary/20 flex aspect-square items-center justify-center gap-2 rounded-full border bg-transparent p-1 hover:text-white aria-disabled:pointer-events-none aria-disabled:opacity-50",
       !url && "pointer-events-none",
       style,
     ]}

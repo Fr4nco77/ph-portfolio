@@ -21,7 +21,7 @@ function buildHref(language: string) {
         href={buildHref(language)}
         aria-label={`Change language to ${label}`}
         aria-current={language === lang}
-        class="font-title hidden tracking-wide underline underline-offset-4 opacity-0 transition-all duration-300 ease-in-out hover:underline-offset-1 min-[425px]:inline-block sm:text-xl"
+        class="font-title hover:text-accent hidden text-sm tracking-wide opacity-0 transition-colors duration-300 ease-in-out min-[425px]:inline-block sm:text-lg"
       >
         {label}
       </a>

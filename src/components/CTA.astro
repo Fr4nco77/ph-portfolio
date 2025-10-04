@@ -1,6 +1,6 @@
 ---
 import type { CTATexts } from "@lib/types";
-import Button from "./main/Button.astro";
+import { getRelativeLocaleUrl } from "astro:i18n";
 
 interface Props {
   lang: string;
@@ -22,7 +22,11 @@ const { lang, texts } = Astro.props;
       {texts.subtitle}
     </p>
   </div>
-  <Button lang={lang} to="contact" styles="bg-primary text-secondary">
+  <a
+    href={getRelativeLocaleUrl(lang, "contact")}
+    class="group hover:bg-accent text-primary border-3 border-primary hover:border-accent font-title mx-auto flex w-full max-w-xs items-center justify-center gap-2 rounded-full py-4 transition-transform duration-300 hover:scale-105 md:text-lg"
+    ,
+  >
     {texts.button}
-  </Button>
+  </a>
 </section>

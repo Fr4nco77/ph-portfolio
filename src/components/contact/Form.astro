@@ -8,7 +8,7 @@ interface Props {
 const { texts } = Astro.props;
 ---
 
-<form class="w-full bg-transparent">
+<form class="w-full">
   <div class="grid gap-4">
     {/* Name */}
     <div class="flex flex-col">
@@ -61,9 +61,8 @@ const { texts } = Astro.props;
         id="message"
         name="message"
         placeholder="..."
-        rows={6}
         aria-label="message"
-        class="resize-vertical border-secondary/80 focus:ring-secondary h-40 w-full rounded-md border px-4 py-3 transition-colors duration-300 focus:border-transparent focus:ring-2 focus:outline-none"
+        class="resize-vertical border-secondary/80 focus:ring-secondary h-28 w-full rounded-md border px-4 py-3 transition-colors duration-300 focus:border-transparent focus:ring-2 focus:outline-none"
         required></textarea>
     </div>
 
@@ -71,7 +70,7 @@ const { texts } = Astro.props;
     <div class="mt-6 flex items-center justify-center">
       <button
         type="submit"
-        class="bg-secondary text-primary hover:border-secondary hover:bg-primary hover:text-secondary inline-flex w-full max-w-xs cursor-pointer items-center justify-center rounded-full border border-transparent px-8 py-3 transition-colors duration-300 disabled:cursor-not-allowed disabled:opacity-50"
+        class="bg-secondary text-primary font-title hover:bg-accent inline-flex w-full max-w-sm cursor-pointer items-center justify-center rounded-full px-8 py-3 transition-colors duration-300 disabled:cursor-not-allowed disabled:opacity-50"
       >
         {texts.button}
       </button>

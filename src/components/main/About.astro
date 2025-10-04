@@ -3,6 +3,7 @@ import Arrow from "@assets/icons/Arrow.astro";
 import Separator from "@components/ui/Separator.astro";
 import type { MainAbout } from "@lib/types";
 import { Image } from "astro:assets";
+import portrait from "@assets/images/portrait.png";
 import Button from "./Button.astro";
 
 interface Props {
@@ -13,10 +14,7 @@ interface Props {
 const { lang, texts } = Astro.props;
 ---
 
-<section
-  class="space-y-8 px-6 py-8 lg:space-y-12 lg:py-12"
-  aria-label={texts.title}
->
+<section class="space-y-8 px-6 py-8 lg:py-12" aria-label={texts.title}>
   <Separator>
     <h2
       class="font-title text-3xl tracking-tight uppercase sm:text-5xl lg:text-7xl"
@@ -25,27 +23,25 @@ const { lang, texts } = Astro.props;
     </h2>
   </Separator>
 
-  <div class="grid gap-8 lg:grid-cols-3 lg:gap-10">
+  <div class="grid gap-8 sm:grid-cols-3 lg:grid-cols-4 lg:gap-10">
     <Image
-      src="/images/1.webp"
-      alt="Explorador frente a un glaciar con carpa naranja en primer plano"
-      height={272}
-      width={272}
-      widths={[272, 720, 300, 384]}
-      sizes="(max-width: 320px) 272px, (max-width: 720px) 720px, (max-width: 1024px) 300px, 384px"
+      src={portrait}
+      alt="Vertical pencil sketch of a young person with short, slightly wavy hair framing their face. The subject has a calm, introspective expression and looks slightly to the side. Soft shading and detailed linework highlight the contours of the face, eyes, and hair, set against a lightly textured background."
       loading="lazy"
       class="size-full rounded object-cover opacity-0 shadow-md"
       data-animate="fadeIn"
     />
 
-    <div class="flex flex-col justify-between space-y-12 lg:col-span-2">
+    <div
+      class="flex flex-col justify-evenly space-y-8 sm:col-span-2 lg:col-span-3"
+    >
       <div class="space-y-1 md:text-lg">
         <p class="leading-relaxed" set:html={texts.text1} />
         <p class="leading-relaxed" set:html={texts.text2} />
       </div>
 
       <div
-        class="text-accent flex flex-col items-center justify-evenly gap-4 sm:flex-row"
+        class="text-accent flex flex-row flex-wrap items-center justify-evenly gap-4"
       >
         {
           texts.stats.map(({ data, label }) => (

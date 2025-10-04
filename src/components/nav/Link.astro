@@ -13,7 +13,7 @@ const { lang, to, label } = Astro.props;
 <a
   aria-label={label}
   href={getRelativeLocaleUrl(lang, to)}
-  class="font-title inline-block tracking-wide underline underline-offset-4 opacity-0 transition-all duration-300 ease-in-out hover:underline-offset-1 sm:text-xl"
+  class="font-title hover:text-accent inline-block text-sm tracking-wide opacity-0 transition-colors duration-300 ease-in-out sm:text-lg"
 >
   <slot />
 </a>

@@ -19,7 +19,7 @@ const { lang, navTexts } = Astro.props;
     <ThemeToggle />
     <a
       href={getRelativeLocaleUrl(lang, "/")}
-      class="font-title text-lg tracking-wider underline underline-offset-6 transition-all duration-300 ease-in-out hover:underline-offset-2 sm:text-xl"
+      class="font-title hover:text-accent text-lg tracking-wider underline underline-offset-6 transition-all duration-300 ease-in-out hover:underline-offset-2 sm:text-xl"
       >PH</a
     >
     <Menu lang={lang} navTexts={navTexts} />

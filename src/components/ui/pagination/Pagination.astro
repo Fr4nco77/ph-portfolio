@@ -1,5 +1,5 @@
 ---
-import  Arrow  from "@assets/icons/Arrow.astro";
+import Arrow from "@assets/icons/Arrow.astro";
 import ArrowPagination from "./ButtonPagination.astro";
 import { getRelativeLocaleUrl } from "astro:i18n";
 
@@ -58,7 +58,7 @@ const pages = getPages(currentPage, lastPage, delta);
 {
   lastPage > 1 && (
     <nav aria-label="Pagination" class="flex justify-center">
-      <ul class="flex flex-wrap items-center justify-end gap-1 text-2xl sm:gap-2 ">
+      <ul class="flex flex-wrap items-center justify-end gap-1 text-2xl sm:gap-2">
         <ArrowPagination url={url.prev} label="Prev Page">
           <Arrow styles="size-8 rotate-180" />
         </ArrowPagination>
@@ -73,20 +73,20 @@ const pages = getPages(currentPage, lastPage, delta);
             ]}
           >
             {page === "..." ? (
-              <span class="flex size-full items-end justify-center text-secondary/50">
+              <span class="text-secondary/50 flex size-full items-end justify-center">
                 …
               </span>
             ) : page === currentPage ? (
               <span
                 aria-current="page"
-                class="flex size-full items-center justify-center rounded-full border border-accent bg-accent/20 p-1 text-accent"
+                class="border-secondary bg-secondary/20 text-secondary flex size-full items-center justify-center rounded-full border p-1"
               >
                 {page}
               </span>
             ) : (
               <a
                 href={getRelativeLocaleUrl(lang, `${base}/${page}`)}
-                class="flex items-center justify-center size-full rounded-full border border-accent/50 bg-transparent p-1 text-accent hover:bg-accent/20 hover:text-white"
+                class="border-secondary/50 text-secondary hover:bg-secondary/20 flex size-full items-center justify-center rounded-full border bg-transparent p-1 hover:text-white"
               >
                 {page}
               </a>
@@ -95,7 +95,7 @@ const pages = getPages(currentPage, lastPage, delta);
         ))}
 
         <ArrowPagination url={url.next} label="Siguiente Pagina">
-          <Arrow styles="size-8"  />
+          <Arrow styles="size-8" />
         </ArrowPagination>
       </ul>
     </nav>
