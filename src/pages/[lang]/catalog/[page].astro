@@ -1,0 +1,75 @@
+---
+import type { GetStaticPaths } from "astro";
+import Layout from "@layouts/Layout.astro";
+import ModalProject from "@components/ui/ModalProyect.astro";
+import en from "@i18n/ui/en";
+import es from "@i18n/ui/es";
+import { locales } from "@i18n/utils";
+import CardProyect from "@components/ui/CardProyect.astro";
+import CTA from "@components/CTA.astro";
+import Pagination from "@components/ui/pagination/Pagination.astro";
+import Header from "@components/ui/Header.astro";
+import { getCollection } from "astro:content";
+
+export const getStaticPaths = (async ({ paginate }) => {
+  const projects = await getCollection("projects");
+
+  return Object.keys(locales).flatMap((lang) => {
+    const filtered = projects.filter((project) =>
+      project.id.startsWith(`${lang}/`),
+    );
+
+    return paginate(filtered, {
+      params: { lang },
+      pageSize: 15,
+    });
+  });
+}) satisfies GetStaticPaths;
+
+const currentLang = Astro.currentLocale as keyof typeof locales;
+const translations = { en, es };
+const t = translations[currentLang];
+const { catalog, cta } = t;
+
+const { page } = Astro.props;
+const { data, currentPage, lastPage, url } = page;
+---
+
+<Layout title={catalog.title} description={catalog.description}>
+  <main class="space-y-8 px-6 pt-24 pb-8 lg:pb-12">
+    <Header title={catalog.top.title} subtitle={catalog.top.subtitle} />
+    <div
+      class="grid auto-rows-auto gap-6 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5"
+    >
+      {
+        data.map(({ id, data }, index) => {
+          const { title, description, image } = data;
+          return (
+            <CardProyect
+              id={id}
+              image={image}
+              title={title}
+              description={description}
+              styles={`
+                ${index === 0 && "md:col-span-2 md:row-span-2"}
+                ${(index === 4 || index === 9) && "md:row-span-2"}
+                animate-slideUp opacity-0
+              `}
+              animationDelay={`${index * 125}ms`}
+              lazy={index > 3}
+            />
+          );
+        })
+      }
+    </div>
+    <Pagination
+      lang={currentLang}
+      base="catalog"
+      currentPage={currentPage}
+      lastPage={lastPage}
+      url={url}
+    />
+  </main>
+  <CTA lang={currentLang} texts={cta} />
+  <ModalProject lang={currentLang} />
+</Layout>
