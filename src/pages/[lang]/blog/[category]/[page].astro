@@ -1,0 +1,55 @@
+---
+import type { GetStaticPaths } from "astro";
+import en from "@i18n/ui/en";
+import es from "@i18n/ui/es";
+import { locales } from "@i18n/utils";
+import { getCollection } from "astro:content";
+import BlogLayout from "@layouts/BlogLayout.astro";
+
+export const getStaticPaths = (async ({ paginate }) => {
+  const blogs = await getCollection("blogs");
+
+  return Object.keys(locales).flatMap((lang) => {
+    const filteredByLang = blogs.filter((post) =>
+      post.id.startsWith(`${lang}/`),
+    );
+    const categories = Array.from(
+      new Set(filteredByLang.flatMap((post) => post.data.tag)),
+    );
+
+    return categories.flatMap((category) => {
+      const filteredByTag = filteredByLang.filter((post) =>
+        post.data.tag.includes(category),
+      );
+      return paginate(filteredByTag, {
+        params: { lang, category: category.toLowerCase() },
+        props: { categories },
+        pageSize: 8,
+      });
+    });
+  });
+}) satisfies GetStaticPaths;
+
+const currentLang = Astro.currentLocale as keyof typeof locales;
+const translations = { en, es };
+const t = translations[currentLang]["blog"];
+
+const { pathname } = Astro.url;
+const { category } = Astro.params;
+const { page, categories } = Astro.props;
+
+const { data, currentPage, lastPage, url } = page;
+const featuredBlogs = data.slice(0, 2);
+const blogs = data.slice(2);
+---
+
+<BlogLayout
+  t={t}
+  currentLocale={currentLang}
+  pathname={pathname}
+  currentCategory={category}
+  categories={categories}
+  featuredBlogs={featuredBlogs}
+  blogs={blogs}
+  page={{ currentPage, lastPage, url }}
+/>
