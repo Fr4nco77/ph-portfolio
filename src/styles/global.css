@@ -1,4 +1,5 @@
 @import "tailwindcss";
+@plugin "@tailwindcss/typography";
 @source inline("animate-slideUp animate-slideDown animate-slideLeft animate-slideRight animate-fadeIn animate-separatorLine animate-marquee");
 @custom-variant dark (&:where(.dark, .dark *));
 
