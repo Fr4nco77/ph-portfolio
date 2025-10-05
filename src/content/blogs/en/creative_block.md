@@ -124,3 +124,5 @@ Day 7: Document the process and plan next steps.
 Creative block is not a moral failure; it is a symptom of concrete variables that can be diagnosed and adjusted. Use immediate tactics to regain movement, long blocks for depth, and routines that protect energy in the medium term. Implement one or two changes this week — daily micro-sketches and one protected deep block — and you'll see flow return sooner than you think.
 
 ![studio with several sketch sheets, an illustration in progress and a cup of tea; warm realistic style.](/src/assets/blogs/creative_block/8.webp)
+
+---

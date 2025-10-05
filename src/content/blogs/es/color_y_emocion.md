@@ -138,4 +138,7 @@ Plan de acción 7 días:
 - Día 5: Añade texturas y prueba versiones limpia/manual.
 - Día 6: Valida en thumbnail y mockup de uso.
 - Día 7: Documenta el proceso en una entrada de portafolio con swatches y notas de intención.
-  ![calendario semanal con tareas y mini‑resultados ilustrativos; estilo minimalista y colorido.](/src/assets/blogs/color/10.webp)
+
+![calendario semanal con tareas y mini‑resultados ilustrativos; estilo minimalista y colorido.](/src/assets/blogs/color/10.webp)
+
+---

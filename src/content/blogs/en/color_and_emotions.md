@@ -106,3 +106,5 @@ Presentation checklist:
 - Mini mockups in real contexts.
 - Intention note (1–2 lines) per palette.
 - Black-and-white variant to verify reading
+
+---

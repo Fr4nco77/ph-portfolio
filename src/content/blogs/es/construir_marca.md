@@ -47,6 +47,7 @@ Incluí una sección de "Trabajos destacados" con piezas que demuestren el tipo 
 La forma en que hablás con clientes vende tanto como tu trabajo. Resumí propuestas en frases claras, proponé alternativas y marcá límites de revisión desde el inicio. Usa una plantilla breve para presupuestos que incluya entregables, tiempos, revisiones y condiciones de uso de la imagen.
 
 Respondé con rapidez y claridad: una respuesta profesional en 24–48 horas genera confianza. Cuando el cliente solicita cambios, traducí esas solicitudes a tareas concretas y enviá una nueva versión con notas de qué se ajustó.
+
 ![bandeja de correo con un presupuesto abierto y notas a mano; estilo realista y profesional.](/src/assets/blogs/branding/4.webp)
 
 ---

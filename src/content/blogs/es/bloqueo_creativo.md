@@ -123,6 +123,6 @@ Día 7: Documentar proceso y planificar siguientes pasos.
 
 El bloqueo creativo no es un fallo moral; es un síntoma de variables concretas que se pueden diagnosticar y ajustar. Usá tácticas inmediatas para recuperar movimiento, bloques largos para profundidad y rutinas que protejan energía a mediano plazo. Implementá uno o dos cambios esta semana —microbocetos diarios y un bloque profundo protegido— y verás cómo el flujo vuelve antes de lo que pensás.
 
-! [estudio con varias hojas de bocetos, una ilustración en progreso y una taza de té; estilo cálido y realista.](/src/assets/blogs/creative_block/8.webp)
+![estudio con varias hojas de bocetos, una ilustración en progreso y una taza de té; estilo cálido y realista.](/src/assets/blogs/creative_block/8.webp)
 
 ---
