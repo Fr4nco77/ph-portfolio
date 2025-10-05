@@ -3,7 +3,7 @@ title: "Ilustrador viajero"
 description: "Cómo planificar, documentar y convertir experiencias de viaje en series de ilustraciones vendibles y significativas."
 cover: "@assets/blogs/travel/cover.png"
 date: 2025-10-04
-tag: "Viaje"
+tag: "Productividad"
 ---
 
 # Ilustrador viajero: transformar viajes en proyectos de ilustración

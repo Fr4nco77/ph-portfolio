@@ -3,7 +3,7 @@ title: "Traveling Illustrator"
 description: "How to plan, document and turn travel experiences into sellable, meaningful illustration series."
 cover: "@assets/blogs/travel/cover.png"
 date: 2025-10-04
-tag: "Travel"
+tag: "Productivity"
 ---
 
 # Traveling Illustrator: Turn Trips into Illustration Projects
