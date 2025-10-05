@@ -97,8 +97,15 @@ export default {
     title: "Blog",
     description:
       "Discover articles, ideas, and reflections on illustration, digital art, and creativity. Get inspired by visual resources and graphic design trends.",
+    header: {
+      title: "BLOG",
+      subtitle: "Stories, processes & reflections from the studio",
+    },
     featuredProjects: {
-      more: "READ MORE"
-    }
+      more: "READ MORE",
+    },
+    category: {
+      all: "All",
+    },
   },
 };

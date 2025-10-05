@@ -97,8 +97,15 @@ export default {
     title: "Blog",
     description:
       "Descubre artículos, ideas y reflexiones sobre ilustración, arte digital y creatividad. Inspírate con recursos visuales y tendencias del diseño gráfico.",
+    header: {
+      title: "BLOG",
+      subtitle: "Historias, procesos y reflexiones desde el estudio",
+    },
     featuredProjects: {
       more: "LEER MÁS",
+    },
+    category: {
+      all: "Todos",
     },
   },
 };

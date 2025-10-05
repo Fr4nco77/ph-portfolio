@@ -59,3 +59,26 @@ export interface Contacts {
   socialIcons: string;
   download: string;
 }
+
+export interface Blog {
+  title: string;
+  description: string;
+  header: {
+    title: string;
+    subtitle: string;
+  };
+  featuredProjects: {
+    more: string;
+  };
+  category: {
+    all: string;
+  };
+}
+
+export interface Urls {
+  current: string;
+  next?: string;
+  prev?: string;
+  first?: string;
+  last?: string;
+}
