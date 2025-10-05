@@ -1,0 +1,187 @@
+---
+title: "Ilustración para packaging"
+description: "Estrategias visuales, decisiones técnicas y flujo de trabajo para crear ilustraciones eficaces en envases y etiquetas."
+cover: "@assets/blogs/packaging/cover.png"
+date: 2025-10-04
+tag: "Diseño"
+---
+
+# Ilustración para packaging: cómo diseñar envases que vendan
+
+Diseñar ilustraciones para packaging exige equilibrio entre estética, funcionalidad y manufacturabilidad. Un envase debe captar atención en segundos, comunicar la promesa del producto y respetar limitaciones técnicas de impresión y producción. En este artículo encontrarás un proceso práctico desde la lectura del brief hasta la entrega final, criterios de decisión visual, pruebas técnicas y ejemplos de presentaciones comerciales que aumentan tus posibilidades de venta.
+
+---
+
+## Entender el brief y el producto
+
+Antes de dibujar, entendé el producto, su audiencia y el canal de venta. No todos los envases compiten en la misma vitrina: una góndola de supermercado, una tienda boutique o una tienda online requieren lecturas distintas.
+
+Leé con foco:
+
+- ¿Qué problema resuelve el producto?
+- ¿Quién lo compra y por qué?
+- ¿En qué contexto se exhibirá?
+- ¿Existen restricciones legales o de información obligatoria?
+
+Una respuesta honesta a estas preguntas orienta la metáfora visual, la escala de elementos y el tono del diseño. Si el cliente no puede responder, proponé un mini‑brief de tres opciones conceptuales con justificación comercial.
+
+![mesa con brief impreso, muestras de producto y notas a mano resaltando público, canal y mensaje; estilo realista y profesional.](/src/assets/blogs/packaging/1.png)
+
+---
+
+## Conceptualización: idea central y metáfora
+
+Una buena etiqueta tiene una idea clara que se lee a primera vista. Elegí una metáfora visual fuerte y mantenela como eje: puede ser literal (ingredientes ilustrados), simbólica (metáforas que comunican beneficio) o abstracta (texturas y patrones que sugieren sensaciones).
+
+Trabajá con thumbnails y pitches cortos. Presentá 3 propuestas conceptuales distintas, cada una con una frase que explique la idea y su ventaja comercial. El editor o cliente preferirá opciones concretas y justificadas en lugar de un único camino abierto.
+
+![tres mini‑mockups de etiquetas con conceptos diferentes (literal, simbólico, abstracto) sobre una misma plantilla de envase; estilo editorial.](/src/assets/blogs/packaging/2.png)
+
+---
+
+## Jerarquía visual y legibilidad
+
+La información en packaging compite por la atención: marca, nombre del producto, claim y datos legales. Definí una jerarquía clara desde el boceto.
+
+Reglas prácticas:
+
+- Marca y nombre: legible a distancia; contraste alto con el fondo.
+- Claim secundario: lectura rápida, no competir con el nombre.
+- Información obligatoria: tamaño mínimo y posición segura.
+- Elementos gráficos: no tapar códigos, fechas o sellos regulatorios.
+
+Probalos rápidamente en miniatura: si el producto no se lee en una vista de 3×3 cm, re‑ajustá escala y contraste.
+
+![mockup de etiqueta con capas de jerarquía marcadas (marca, nombre, claim, datos legales), anotaciones sobre tamaños y contrastes; estilo instructivo.](/src/assets/blogs/packaging/3.png)
+
+---
+
+## Paleta y tono: coherencia con marca y uso
+
+La paleta define percepción: colores cálidos para cercanía, fríos para tecnología, neutros para premium. Elegí una paleta funcional con uno o dos colores de impacto y tonos neutros para balance.
+
+Consejos:
+
+- Limitá la paleta a 3–5 colores funcionales.
+- Considerá contraste para lectura en distintos acabados (brillo, mate, metalizado).
+- Tené en cuenta la traducción de color en los perfiles de impresión del proveedor.
+
+![tarjeta con swatches, notas de intención por color y mini‑mockup aplicando la paleta a la etiqueta; estilo clean studio.](/src/assets/blogs/packaging/4.png)
+
+---
+
+## Técnicas de ilustración según material y escala
+
+La técnica debe responder a soporte y escalas de producción. Un trazo muy detallado puede perderse en etiquetas pequeñas; texturas sutiles pueden añadirse en papeles de alta gama.
+
+Opciones prácticas:
+
+- Vector art: ideal para líneas claras, reducción sin pérdida y control de color plano.
+- Ilustración raster: buen rendimiento para texturas y degradados, requiere pruebas de resolución.
+- Híbrido: vector base para formas y raster para texturas localizadas.
+- Tramados y reducción de color: tené en cuenta limitaciones de su imprenta (indexado, PMS).
+
+![comparación lado a lado de la misma ilustración en vector, raster y híbrido, con notas sobre ventajas y limitaciones; estilo técnico.](/src/assets/blogs/packaging/5.png)
+
+---
+
+## Archivo y especificaciones técnicas
+
+Preparar archivos correctamente evita costos y retrasos. Establecé un checklist técnico con el proveedor antes de generar finales.
+
+Checklist esencial:
+
+- Formato y perfil de color (CMYK o perfiles ICC específicos).
+- Resolución final 300 dpi para impresión.
+- Sangrado mínimo 3–5 mm y marcas de corte.
+- Capas separadas para textos, gráficos y elementos de tinta especial.
+- Versiones con y sin información legal o código de barras para maquetación final.
+- Conversión de tipografías a curvas cuando lo solicite la imprenta.
+
+![captura de pantalla de archivo PSD/AI con capas y guías de sangrado visibles; estilo profesional.](/src/assets/blogs/packaging/6.png)
+
+---
+
+## Probar prototipos y hacer QA
+
+Nunca publiques sin pruebas. Hacé mockups digitales y, cuando el presupuesto lo permita, pruebas físicas. La misma ilustración puede cambiar según el papel, el acabado y la tinta.
+
+Pruebas recomendadas:
+
+- Mockup digital en contexto para validar lectura y estética.
+- Prueba de color (proof) con la imprenta para validar reproducción.
+- Prototipo físico si el envase tiene plegados o cortes especiales.
+- Revisión de legibilidad con la información obligatoria y códigos.
+
+![fotografía de pruebas físicas de etiqueta y caja, con notas y una lupa; estilo realista.](/src/assets/blogs/packaging/7.png)
+
+---
+
+## Packaging estructural y comunicación con diseñadores de troqueles
+
+La forma del envase condiciona la composición. Colaborá con quien diseña el troquel para saber dónde aparecen pliegues, solapas y áreas que no deben llevar información clave.
+
+Puntos a coordinar:
+
+- Zonas de doblado que afectan ilustraciones.
+- Áreas de visibilidad en estantería (frontal, lateral, tapa).
+- Espacios técnicos para pegado y ensamblado.
+- Consideraciones para embalaje secundario (cajas, displays).
+
+![plano técnico de troquel con áreas marcadas y ejemplo de etiqueta adaptada al plegado; estilo arquitectónico técnico.](/src/assets/blogs/packaging/8.png)
+
+---
+
+## Presentación comercial: cómo vender la idea
+
+Una buena presentación aumenta las probabilidades de aprobación. Entregá mockups en contexto, una breve justificación del concepto y variantes de color/acabado.
+
+Formato recomendado para propuestas:
+
+- Portada con imagen principal y concepto en una frase.
+- 3–4 mockups contextuales (frontal, estantería, detalle).
+- Paleta y muestras de color con códigos.
+- Nota técnica con formatos de archivo y especificaciones para imprenta.
+- Opciones de acabado (mate, brillo, barniz selectivo, relieve).
+
+![PDF mockup con la estructura de propuesta mostrada en pantalla; estilo profesional y elegante.](/src/assets/blogs/packaging/9.png)
+
+---
+
+## Tendencias y diferenciación comercial
+
+Estar al tanto de tendencias ayuda, pero la diferenciación viene de la decisión estratégica. Observá categorías y detectá oportunidades: combinación de ilustración manual con tipografía atrevida, uso de texturas artesanales en segmentos premium, o ilustraciones informativas en packaging funcional.
+
+Estrategia de diferenciación:
+
+- Identificá huecos visuales en la categoría.
+- Propone materiales o acabados que refuercen la narrativa.
+- Usa series de envases coherentes para fortalecer presencia de marca.
+
+![moodboard de tendencias en packaging con ejemplos destacables y notas de oportunidades; estilo collage editorial.](/src/assets/blogs/packaging/10.png)
+
+---
+
+## Entregables y mantenimiento de versiones
+
+Al finalizar, entregá un paquete claro que facilite producción y futuras actualizaciones.
+
+Entregables recomendados:
+
+- Archivos master editables (AI/PSD) con capas nombradas.
+- PDFs listos para imprenta con perfiles ICC.
+- Imágenes de alta resolución para web (JPG/PNG).
+- Mockups y guías de uso de la ilustración en distintos formatos.
+- Registro de versiones y changelog si hubo iteraciones.
+
+![carpeta de entrega organizada en pantalla con archivos listados; estilo limpio y profesional.](/src/assets/blogs/packaging/11.png)
+
+---
+
+## Conclusión
+
+Ilustrar para packaging combina creatividad y rigor técnico. Un proceso sólido que integra lectura del brief, opciones conceptuales justificadas, pruebas técnicas y entregables ordenados reduce iteraciones y mejora resultados comerciales. Si querés que transforme un brief real en tres propuestas visuales listas para presentar, traeme el producto y te preparo el pack de entrega profesional.
+
+![estantería con productos ilustrados coherentes en una línea de venta, iluminación comercial y etiqueta visible; estilo semi‑realista, atmósfera de vitrina.](/src/assets/blogs/packaging/12.png)
+
+---

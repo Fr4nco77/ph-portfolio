@@ -1,0 +1,112 @@
+---
+title: "Beyond the Studio"
+description: "Creative proposals beyond traditional commissions: collaborations, local activations, experimental products, and projects that expand your practice."
+cover: "@assets/blogs/beyond/cover.png"
+date: 2025-10-04
+tag: "Productivity"
+---
+
+# Beyond the Studio: Alternative Ideas and Projects for Illustrators
+
+Many illustrators limit themselves to commissions and portfolios when, in reality, there's a universe of side projects that expand your practice, generate diverse income, and build an audience. This article gathers concrete proposals, practical examples, and actionable steps to turn a lateral idea into a real project: from community collaborations to experimental products, public space activations, and educational formats. It's not about giving up commercial illustration, but about diversifying your practice to gain creative independence and sustainability.
+
+---
+
+## Why Explore Alternative Projects
+
+Opening your practice to "other" projects has three clear effects: diversifies income, expands your audience, and nurtures your creative voice. Alternative projects work as labs to test techniques, themes, and formats without the pressure of a commission. Plus, many interesting opportunities arise at the intersection with other sectors — gastronomy, tourism, education, product design — and become recurring commissions when the artist shows vision and commitment.
+
+![collage of alternative projects: plaza workshop, printed zine, sticker series in a shop window, and a small mural installation; editorial style, warm colors.](/src/assets/blogs/beyond/1.png)
+
+---
+
+## Types of Projects That Truly Work
+
+Here are six formats with high impact potential and practical viability. Each includes a note on why it works and a first step to get started.
+
+1. Local collaborations with shops: illustrations for menus, labels, or storefronts. Why it works: local visibility and cross-sales. First step: pitch a mini visual concept and mockup to 3 aligned shops in your neighborhood.
+
+2. In-person and online workshops: micro-workshops on technique, visual storytelling, or zine creation. Why it works: direct income and audience loyalty. First step: design a 2-hour workshop with clear objectives and a simple landing page for sign-ups.
+
+3. Thematic print series and limited editions: small collections with cohesive narrative. Why it works: scalability and merchandising potential. First step: define 6 short pieces (A4/A3), prototype 2 prints, and test sales at a meetup or local shop.
+
+4. Independent publications (zines, fanzines, artist books): control content, format, and distribution. Why it works: creative autonomy and gateway to festivals. First step: create a 16-page zine with 2 final pieces + process; print 50 copies for direct sale.
+
+5. Public space activations or pop-ups: temporary interventions that spark conversation. Why it works: high visual impact and social content generation. First step: contact a community space or local fair and propose a 1-day intervention with printable formats.
+
+6. Educational and collaborative projects: short residencies, co-creations with schools or cultural programs. Why it works: institutional funding and community reach. First step: write a brief proposal (goal, audience, materials) and send it to 3 cultural centers.
+
+![board with mini-cards for the six projects, each card with title, benefit, and first step; infographic style.](/src/assets/blogs/beyond/2.png)
+
+---
+
+## How to Choose the Right Idea for Your Context
+
+Not all ideas work everywhere. Choose projects that align with your environment, available time, and network. Evaluate three variables: potential impact (visibility, income), real cost (time, materials, logistics), and personal affinity (long-term motivation). Prioritize projects that gain traction with a small, scalable first effort.
+
+Quick exercise: list 5 ideas; rate them 1–10 in impact, cost, and affinity; choose the one with the best balance and design a 3-step plan for the first month.
+
+![evaluation sheet with columns Impact; Cost; Affinity and annotated examples; practical style.](/src/assets/blogs/beyond/3.png)
+
+---
+
+## 30-Day Practical Action Plan
+
+An alternative project should move fast in its initial phase. Here's a clear and replicable plan:
+
+Week 1 — Validation:
+
+- Days 1–3: one-sentence project description; goal and audience.
+- Days 4–7: minimal mockups (1 main image) and value proposition for 3 recipients (shops, organizers, clients).
+
+Week 2 — Minimum Viable Production:
+
+- Days 8–12: prototype 1–2 pieces or prepare workshop materials.
+- Days 13–14: quick feedback from 3 trusted people; adjustments.
+
+Week 3 — Soft Launch:
+
+- Days 15–18: prepare channels (event, page, social media, shop listing).
+- Days 19–21: soft launch (small event, newsletter, or local collab).
+
+Week 4 — Measure and Scale:
+
+- Days 22–24: gather simple metrics (attendees, sales, leads).
+- Days 25–30: improvement plan and next steps: edit, repeat, or scale.
+
+![30-day calendar with weekly milestones and visual examples; minimalist style.](/src/assets/blogs/beyond/4.png)
+
+---
+
+## How to Pitch Your Project for Support
+
+Presentation makes the difference. Create a brief proposal that answers: what is it?, why does it matter?, what do I ask for (space, sponsor, collaboration)?, what do I offer (visibility, product, workshop)? Include a visual mockup, approximate budget, and two collaboration options (low and medium involvement) to ease the recipient’s decision.
+
+One-line pitch template: "I propose [activity] at [place] for [audience] during [duration]; I offer [visibility/products/workshop] and need [space/funding/logistics]."
+
+![example of short pitch email with attached mockup, professional style.](/src/assets/blogs/beyond/5.png)
+
+---
+
+## Common Risks and How to Reduce Them
+
+Side projects carry risks: miscalculated time, misaligned expectations with collaborators, and lack of return. Mitigate them with simple rules: start with small pilots, document agreements in writing (even emails count), and calculate a realistic time margin. Prioritize quality over quantity and don’t sacrifice paid projects for experiments without a plan.
+
+Brief mitigation checklist:
+
+- Small pilot before scaling.
+- Minimum contracts or agreements.
+- Time and budget contingency.
+- Early and measurable feedback.
+
+![icons representing risk and mitigations (clock, contract, checklist); educational style.](/src/assets/blogs/beyond/6.png)
+
+---
+
+## Conclusion
+
+Exploring "Other" projects is a strategic way to grow your illustration practice: diversifies income, expands networks, and gives you space to experiment. Choose an idea you can validate quickly, prototype a minimum viable version, and launch with a clear proposal. If you want, tell me your context (city, available time, resources) and I’ll create a 30-day plan tailored to your reality.
+
+![pop-up scene with people buying prints, workshop in progress, and a small mural; semi-realistic style, warm light, and community vibe.](/src/assets/blogs/beyond/7.png)
+
+---

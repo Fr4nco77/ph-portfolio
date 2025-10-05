@@ -1,0 +1,111 @@
+---
+title: "Traveling Illustrator"
+description: "How to plan, document and turn travel experiences into sellable, meaningful illustration series."
+cover: "@assets/blogs/travel/cover.png"
+date: 2025-10-04
+tag: "Travel"
+---
+
+# Traveling Illustrator: Turn Trips into Illustration Projects
+
+Travel feeds illustration practice with encounters, atmospheres and different routines. Turning a trip into an artistic project requires intention before departure, methods during the journey and a closing strategy on return. This practical guide shows how to get the most creative and professional value from your travels: what to bring, how to document, quick daily exercises, and ways to turn material into a coherent series for a portfolio or sale.
+
+---
+
+## Preparation before leaving
+
+Choosing destination and purpose clarifies what you'll look for with your eye. Not every trip demands the same approach: a research trip for an editorial commission is not the same as a residency or a personal getaway.
+
+- Define an intention: theme (landscape, urban portraits, local rituals), final format (prints, editorial series, zine) and concrete goals (number of pieces, style, deadline).
+- Make a mini resource list: visual references that inspire you, possible color palettes and notes on tools you want to try.
+- Pack light and functional: small sketchbook, pen/pencil, tablet or small tablet with stylus, compact camera or smartphone with a good camera, power banks, and sleeves or waterproof covers to protect paper work.
+
+![open backpack with organized items: sketchbook, tablet, camera, chargers and waterproof pouch; warm practical photographic style.](/src/assets/blogs/travel/1.png)
+
+---
+
+## On-site documentation that fuels the work
+
+The quality of gathered material determines the project's richness. It's not about hoarding photos, but capturing essentials: patterns, gestures, textures, colors and fleeting moments.
+
+- Take photos with intent: look for contrasts, natural compositions and details that explain the place (labels, typography, textile patterns).
+- Sketch quickly each day: 3–5 thumbnails exploring compositions and readings; don't get stuck on detail.
+- Record sounds and short notes: a sentence about context, a temperature, a smell or an anecdote that can later accompany the series.
+- Collect physical materials if possible: tickets, papers, texture samples or labels that feed collages or digital textures.
+
+![sketchbook with thumbnails, printed photos and a list of quick notes on a café table; intimate documentary style.](/src/assets/blogs/travel/2.png)
+
+---
+
+## Quick exercises to produce while traveling
+
+Turn travel time into small productive routines that don't block the experience but accumulate coherent work.
+
+- 7-day micro-series: each day make a small illustration (A5) based on an emotion or detail from the place.
+- Thematic thumbnails: 12 mini-sketches in 30 minutes about the same idea to explore different readings.
+- Palette of the place: pick 3 representative colors per day and do a quick scene using only those tones.
+- Texture collage: scan or photograph local surfaces (walls, fabrics, labels) and combine them in a digital composition.
+
+![seven A5 mini-illustrations in a row, each with a different palette; editorial colorful style.](/src/assets/blogs/travel/3.png)
+
+---
+
+## Organize and transform material on return
+
+When you get back, the work is sorting, selecting and transforming raw material into pieces with a distinct voice.
+
+- Initial review: create a folder per day and filter what's useful. Keep 20–30% of original material as a working base.
+- Critical selection: choose 8–12 images or sketches that together tell a coherent story.
+- Piece development: decide final format, apply a consistent palette and select techniques (vector, raster, hybrid).
+- Document the process: include thumbnails, travel notes and reference photos in each project entry for the portfolio.
+
+![computer screen with folders organized by day and thumbnails, physical sketchbook and coffee cups; realistic tidy style.](/src/assets/blogs/travel/4.png)
+
+---
+
+## Output formats and monetization options
+
+A trip can generate multiple products if you plan variants and usage rights from the start.
+
+- Limited print series: numbered editions with certificate and contextual mockups.
+- Zine or artist book: mix images, travel texts and process material.
+- Editorial illustration: pitch articles or supplements with illustrated mini-features.
+- Licenses and commissions: sell licenses for editorial use, merchandising or local campaigns.
+- Workshops and talks: offer residencies, workshops or talks based on your travel experience.
+
+![mockups of framed prints, open zine and editorial page mockup; commercial elegant style.](/src/assets/blogs/travel/5.png)
+
+---
+
+## Portfolio presentation and promotion
+
+How you present the series determines its impact. Tell the story without over-explaining: let images and a few contextual lines guide the reader.
+
+- Create a dedicated entry: cover, process gallery, 8–12 featured pieces and a short note explaining intention and method.
+- Use micro-stories on social: carousels showing before/after, palettes and snippets of travel notes.
+- Prepare press materials: a short project bio, high-res images and a PDF with the process to send to media or galleries.
+
+![web portfolio mockup with gallery and project text; minimal UI style.](/src/assets/blogs/travel/6.png)
+
+---
+
+## Practical survival and travel ethics tips
+
+Traveling as a creator implies responsibility and care for places and people you represent.
+
+- Respect and consent: ask permission when depicting people and respect cultural sensitivities.
+- Protect your health: set limits, rest and don't sacrifice wellbeing for production.
+- Sustainability: avoid collecting protected objects or damaging spaces; prefer photographic documentation and digital samples when possible.
+- Budget and time: include rest days in the travel plan; an overly tight itinerary kills depth of observation.
+
+![illustration showing best practices: asking permission, giving space and taking notes; didactic humane style.](/src/assets/blogs/travel/7.png)
+
+---
+
+## Closing and calls to action
+
+A well-documented trip becomes a meaningful series only if you close it intentionally. Plan post-trip time for selection, production and launch. If you want, share your destination and goals and I'll propose a 10-piece plan with palette, size and production schedule.
+
+![worktable on return with maps, sketchbooks, printed photos and the first finished illustration in the center; warm narrative style.](/src/assets/blogs/travel/8.png)
+
+---
