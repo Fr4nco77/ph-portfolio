@@ -1,7 +1,7 @@
 ---
 title: "Construir tu marca"
 description: "Cómo definir voz visual, posicionarte en el mercado y convertir proyectos en oportunidades recurrentes."
-cover: "@assets/blogs/branding/cover.png"
+cover: "@assets/blogs/branding/cover.jpeg"
 date: 2025-10-04
 tag: "Diseño"
 ---

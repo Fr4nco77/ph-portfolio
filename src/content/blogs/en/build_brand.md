@@ -1,7 +1,7 @@
 ---
 title: "Building Your Brand"
 description: "How to define your visual voice, position yourself in the market, and turn projects into recurring opportunities."
-cover: "@assets/blogs/branding/cover.png"
+cover: "@assets/blogs/branding/cover.jpeg"
 date: 2025-10-04
 tag: "Design"
 ---
