@@ -1,12 +1,13 @@
 ---
 import Arrow from "@assets/icons/Arrow.astro";
 import { Image } from "astro:assets";
+import type { CollectionEntry } from "astro:content";
 import { getRelativeLocaleUrl } from "astro:i18n";
 
 interface Props {
   lang: string;
   texts: { more: string };
-  blogs: any;
+  blogs: CollectionEntry<"blogs">[];
 }
 
 const { lang, texts, blogs } = Astro.props;
@@ -14,44 +15,44 @@ const { lang, texts, blogs } = Astro.props;
 
 <section class="grid gap-8 md:grid-cols-2">
   {
-    blogs.map((post, index) => (
-      <article
-        class="group animate-slideUp flex flex-col overflow-hidden opacity-0"
-        style={{ animationDelay: `${index * 0.3}s` }}
-      >
-        <a
-          href={getRelativeLocaleUrl(lang, `blog/${post.id}`)}
-          class="flex h-full flex-col"
-          aria-label={`Read more about ${post.title}`}
+    blogs.map(({ id, data }, index) => {
+      const { title, description, cover, date, tag } = data;
+
+      return (
+        <article
+          class="group animate-slideUp flex flex-col overflow-hidden opacity-0"
+          style={{ animationDelay: `${index * 125}ms` }}
         >
-          <div class="relative overflow-hidden">
-            <Image
-              src={post.image}
-              alt={`Featured image for ${post.title}`}
-              height={320}
-              width={272}
-              widths={[272, 344, 472, 600]}
-              sizes="(max-width: 320px) 272px, (max-width: 720px) 344px, (max-width: 1024px) 472px, 600px"
-              loading="eager"
-              class="h-80 w-full object-cover transition-transform duration-500 group-hover:scale-105 md:h-[28rem]"
-            />
-            <div class="absolute inset-0 bg-black/10 opacity-0 transition-opacity duration-300 group-hover:opacity-100" />
-          </div>
-          <div class="mt-6 flex flex-1 flex-col">
-            <span class="mb-2 block text-xs tracking-widest uppercase">
-              {post.category}
-            </span>
-            <h2 class="mb-3 text-3xl font-bold uppercase md:text-4xl">
-              {post.title}
-            </h2>
-            <p class="mb-4 opacity-75 md:text-lg">{post.excerpt}</p>
-            <span class="group-hover:text-accent mt-auto inline-flex items-center gap-2 text-xs tracking-wide uppercase transition-colors duration-500">
-              {texts.more}
-              <Arrow styles="size-4 group-hover:translate-x-1 transition-transform duration-500" />
-            </span>
-          </div>
-        </a>
-      </article>
-    ))
+          <a
+            href={getRelativeLocaleUrl(lang, `blog/${id.split("/")[1]}`)}
+            class="flex h-full flex-col"
+            aria-label={title}
+          >
+            <div class="relative overflow-hidden">
+              <Image
+                src={cover}
+                alt={title}
+                loading="eager"
+                class="h-80 w-full object-cover transition-transform duration-500 group-hover:scale-105 md:h-[28rem]"
+              />
+              <div class="absolute inset-0 bg-black/10 opacity-0 transition-opacity duration-300 group-hover:opacity-100" />
+            </div>
+            <div class="mt-6 flex flex-1 flex-col">
+              <span class="mb-2 block text-xs tracking-widest uppercase">
+                {tag}
+              </span>
+              <h2 class="mb-3 text-3xl font-bold uppercase md:text-4xl">
+                {title}
+              </h2>
+              <p class="mb-4 opacity-75 md:text-lg">{description}</p>
+              <button class="group-hover:text-primary border-secondary group-hover:border-accent group-hover:bg-accent mt-auto inline-flex w-max cursor-pointer items-center gap-1 rounded-full border px-4 py-2 text-xs tracking-wide uppercase transition-colors duration-500">
+                {texts.more}
+                <Arrow styles="size-4 group-hover:translate-x-1 transition-transform duration-500" />
+              </button>
+            </div>
+          </a>
+        </article>
+      );
+    })
   }
 </section>

@@ -1,0 +1,43 @@
+---
+import { getRelativeLocaleUrl } from "astro:i18n";
+
+interface Props {
+  pathname: string;
+  currentLang: string;
+  categories: string[];
+  all: string;
+}
+
+const { pathname, currentLang, categories, all } = Astro.props;
+---
+
+<div class="flex w-full items-center gap-3 overflow-x-auto sm:justify-end">
+  <a
+    href={getRelativeLocaleUrl(currentLang, "blog/1")}
+    class:list={[
+      "border-secondary hover:bg-secondary hover:text-primary rounded-full border px-4 py-2 whitespace-nowrap transition-colors duration-300",
+      new RegExp(`^/${currentLang}/blog/\\d+/?$`).test(pathname) &&
+        "bg-secondary text-primary",
+    ]}
+  >
+    {all}
+  </a>
+  {
+    categories.map((category) => (
+      <a
+        href={getRelativeLocaleUrl(
+          currentLang,
+          `blog/${category.toLowerCase()}/1`,
+        )}
+        class:list={[
+          "border-secondary hover:bg-secondary hover:text-primary rounded-full border px-4 py-2 whitespace-nowrap transition-colors duration-300",
+          new RegExp(
+            `^/${currentLang}/blog/${category.toLowerCase()}/\\d+/?$`,
+          ).test(pathname) && "bg-secondary text-primary",
+        ]}
+      >
+        {category}
+      </a>
+    ))
+  }
+</div>

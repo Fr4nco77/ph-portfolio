@@ -1,0 +1,67 @@
+---
+import Header from "@components/ui/Header.astro";
+import Layout from "./Layout.astro";
+import Featured from "@components/blog/Featured.astro";
+import Categories from "@components/blog/Categories.astro";
+import Posts from "@components/blog/Posts.astro";
+import Pagination from "@components/ui/pagination/Pagination.astro";
+import type { locales } from "@i18n/utils";
+import type { CollectionEntry } from "astro:content";
+import type { Blog, Urls } from "@lib/types";
+
+interface Props {
+  t: Blog;
+  currentLocale: keyof typeof locales;
+  pathname: string;
+  currentCategory?: string;
+  categories: string[];
+  featuredBlogs: CollectionEntry<"blogs">[];
+  blogs: CollectionEntry<"blogs">[];
+  page: {
+    currentPage: number;
+    lastPage: number;
+    url: Urls;
+  };
+}
+
+const {
+  t,
+  currentLocale,
+  pathname,
+  currentCategory,
+  categories,
+  featuredBlogs,
+  blogs,
+  page,
+} = Astro.props;
+const base = currentCategory ? `blog/${currentCategory}` : "blog";
+---
+
+<Layout title={t.title} description={t.description}>
+  <main class="space-y-8 px-6 pt-24 pb-8 lg:pb-12">
+    <Header title={t.header.title} subtitle={t.header.subtitle} />
+    <Featured
+      lang={currentLocale}
+      texts={t.featuredProjects}
+      blogs={featuredBlogs}
+    />
+    <Categories
+      pathname={pathname}
+      currentLang={currentLocale}
+      categories={categories}
+      all={t.category.all}
+    />
+    <Posts
+      currentLang={currentLocale}
+      posts={blogs}
+      more={t.featuredProjects.more}
+    />
+    <Pagination
+      base={base}
+      lang={currentLocale}
+      currentPage={page.currentPage}
+      lastPage={page.lastPage}
+      url={page.url}
+    />
+  </main>
+</Layout>
