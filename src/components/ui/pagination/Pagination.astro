@@ -2,14 +2,7 @@
 import Arrow from "@assets/icons/Arrow.astro";
 import ArrowPagination from "./ButtonPagination.astro";
 import { getRelativeLocaleUrl } from "astro:i18n";
-
-interface Urls {
-  current: string;
-  next?: string;
-  prev?: string;
-  first?: string;
-  last?: string;
-}
+import type { Urls } from "@lib/types";
 
 interface Props {
   lang: string;
