@@ -22,7 +22,7 @@ Key points:
 - Be legible across formats: column width, cover, social.
 - Provide variants and technical crops that ease layout.
 
-![series of mini mockups showing the same illustration applied to a column, a cover and a social post; editorial graphic style, clean and professional.](/src/assets/blogs/editorial/1.png)
+![series of mini mockups showing the same illustration applied to a column, a cover and a social post; editorial graphic style, clean and professional.](/src/assets/blogs/editorial/1.webp)
 
 ---
 
@@ -37,7 +37,7 @@ Minimal script to respond to a brief:
 3. Palette and style direction (e.g., vector, collage, digital watercolor).
 4. Deliverables and proposed size crops.
 
-![illustration of an email tray with an editorial brief open and handwritten notes with concept alternatives; realistic with graphic elements.](/src/assets/blogs/editorial/2.png)
+![illustration of an email tray with an editorial brief open and handwritten notes with concept alternatives; realistic with graphic elements.](/src/assets/blogs/editorial/2.webp)
 
 ---
 
@@ -51,7 +51,7 @@ Effective examples:
 - Topic: "artificial intelligence" → metaphor: automatons with gears reading human books.
 - Topic: "mental health" → metaphor: a house with rooms representing emotional states.
 
-![three conceptual vignettes showing the previous metaphors in editorial style; sober palette and clear composition.](/src/assets/blogs/editorial/3.png)
+![three conceptual vignettes showing the previous metaphors in editorial style; sober palette and clear composition.](/src/assets/blogs/editorial/3.webp)
 
 ---
 
@@ -65,7 +65,7 @@ Recommended submission format:
 - Short text (1–2 sentences) per proposal.
 - Indication of preference and brief justification.
 
-![PDF mockup with numbered thumbnails and short text notes; clean professional style.](/src/assets/blogs/editorial/4.png)
+![PDF mockup with numbered thumbnails and short text notes; clean professional style.](/src/assets/blogs/editorial/4.webp)
 
 ---
 
@@ -80,7 +80,7 @@ Technical checklist:
 - Aspect ratio variants for social and web.
 - CMYK and RGB versions if applicable.
 
-![visual table with common sizes (column, half page, cover) and crop examples; instructive clear style.](/src/assets/blogs/editorial/5.png)
+![visual table with common sizes (column, half page, cover) and crop examples; instructive clear style.](/src/assets/blogs/editorial/5.webp)
 
 ---
 
@@ -97,7 +97,7 @@ Suggested production flow:
 5. Textures, typography and accents.
 6. Exports and color checks.
 
-![screenshot of a PSD file organized with named colored layers; realistic professional style.](/src/assets/blogs/editorial/6.png)
+![screenshot of a PSD file organized with named colored layers; realistic professional style.](/src/assets/blogs/editorial/6.webp)
 
 ---
 
@@ -111,7 +111,7 @@ Practical tip:
 - Provide mockups with sample headlines.
 - Avoid high visual contrast in text zones.
 
-![layout mockup with areas marked for headline, subtitle and body; editorial style, clear lines.](/src/assets/blogs/editorial/7.png)
+![layout mockup with areas marked for headline, subtitle and body; editorial style, clear lines.](/src/assets/blogs/editorial/7.webp)
 
 ---
 
@@ -127,7 +127,7 @@ Example delivery package:
 - thumbnails_process.pdf
 - notes.txt (palette and short justification)
 
-![organized folder on screen with files named as in the example; realistic workspace style.](/src/assets/blogs/editorial/8.png)
+![organized folder on screen with files named as in the example; realistic workspace style.](/src/assets/blogs/editorial/8.webp)
 
 ---
 
@@ -142,7 +142,7 @@ Negotiation points:
 - Included revisions and extra-rate for additions.
 - Copyright and temporary or exclusive cession.
 
-![quotation document with sections for usage, times and prices; professional minimalist style.](/src/assets/blogs/editorial/9.png)
+![quotation document with sections for usage, times and prices; professional minimalist style.](/src/assets/blogs/editorial/9.webp)
 
 ---
 
@@ -158,7 +158,7 @@ Ideal structure for each entry:
 - Final image in context (mocked in layout).
 - Technical note and authorized usage.
 
-![editorial portfolio entry mockup with all elements above; elegant UI style.](/src/assets/blogs/editorial/10.png)
+![editorial portfolio entry mockup with all elements above; elegant UI style.](/src/assets/blogs/editorial/10.webp)
 
 ---
 
@@ -170,7 +170,7 @@ Ideal structure for each entry:
 4. Not clarifying licenses → define usage and fees in writing.
 5. Delivering disorganized files → name and document each file.
 
-![illustration with five icons representing each mistake; didactic clear style.](/src/assets/blogs/editorial/11.png)
+![illustration with five icons representing each mistake; didactic clear style.](/src/assets/blogs/editorial/11.webp)
 
 ---
 
@@ -184,7 +184,7 @@ Recommended resources for learning:
 - Follow art directors and editors on social media.
 - Practice mock briefs with size and time limits.
 
-![board with articles, thumbnails and the final version of an exercise; creative workshop style.](/src/assets/blogs/editorial/12.png)
+![board with articles, thumbnails and the final version of an exercise; creative workshop style.](/src/assets/blogs/editorial/12.webp)
 
 ---
 
@@ -192,6 +192,6 @@ Recommended resources for learning:
 
 Editorial illustration is a craft that blends conceptual synthesis, visual clarity and technical professionalism. The best illustrators are those who understand the medium, communicate with editors and deliver pieces that amplify a story's impact. Practice brief reading, refine your delivery kit and document your process: that will make you a valuable resource for any newsroom.
 
-![final illustration mocked on a magazine cover on a worktable; semi-realistic editorial layout style.](/src/assets/blogs/editorial/13.png)
+![final illustration mocked on a magazine cover on a worktable; semi-realistic editorial layout style.](/src/assets/blogs/editorial/13.webp)
 
 ---

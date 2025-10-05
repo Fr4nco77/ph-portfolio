@@ -18,7 +18,7 @@ Your visual voice is born from repeated decisions: palettes, line treatments, te
 
 Start by choosing themes you’re passionate about and that have an audience. Then test variations until you identify a palette and formal treatment that work both in thumbnail and large formats. Document these decisions in a visual style sheet you can share with clients and collaborators.
 
-![sample board with 3–4 representative pieces, palettes, and brief notes on visual decisions; clean studio-style.](/src/assets/blogs/branding/1.png)
+![sample board with 3–4 representative pieces, palettes, and brief notes on visual decisions; clean studio-style.](/src/assets/blogs/branding/1.webp)
 
 ---
 
@@ -28,7 +28,7 @@ A weak brand in the market often stems from a confusing offer. Clarify what you 
 
 Offer simple packages that make client decisions easier: for example, “Editorial Illustration (concept + color + 2 revisions),” “Limited Edition Print (signed + certificate),” “Social Media Pack (4 adapted illustrations).” This reduces negotiations and enhances professionalism.
 
-![visual table with 3 service packages, reference prices, and usage examples; professional infographic style.](/src/assets/blogs/branding/2.png)
+![visual table with 3 service packages, reference prices, and usage examples; professional infographic style.](/src/assets/blogs/branding/2.webp)
 
 ---
 
@@ -38,7 +38,7 @@ A strong portfolio isn’t the biggest—it’s the most representative. Select 
 
 Include a “Featured Works” section with pieces that reflect the type of commission you want to repeat. Maintain a lightweight version for quick consultations and a more complete one with process files for clients who want to dive deeper.
 
-![portfolio page mockup with featured section and process gallery; minimalist UI style.](/src/assets/blogs/branding/3.png)
+![portfolio page mockup with featured section and process gallery; minimalist UI style.](/src/assets/blogs/branding/3.webp)
 
 ---
 
@@ -48,7 +48,7 @@ How you speak to clients sells as much as your work. Summarize proposals in clea
 
 Respond quickly and clearly: a professional reply within 24–48 hours builds trust. When clients request changes, translate those into concrete tasks and send a new version with notes on what was adjusted.
 
-![email inbox with open budget and handwritten notes; realistic and professional style.](/src/assets/blogs/branding/4.png)
+![email inbox with open budget and handwritten notes; realistic and professional style.](/src/assets/blogs/branding/4.webp)
 
 ---
 
@@ -58,7 +58,7 @@ Social media is a channel, not the whole strategy. Choose 1–2 platforms where 
 
 Create recurring formats that show your thinking: “before/after” process series, carousels explaining color decisions, or posts documenting a production day. Turn content into blog entries or newsletters to control your audience and open direct sales channels.
 
-![content calendar with weekly ideas and formats (post, carousel, newsletter); minimalist and colorful style.](/src/assets/blogs/branding/5.png)
+![content calendar with weekly ideas and formats (post, carousel, newsletter); minimalist and colorful style.](/src/assets/blogs/branding/5.webp)
 
 ---
 
@@ -68,7 +68,7 @@ Recurring work comes from relationships, not occasional ads. Identify editors, g
 
 Keep a simple database with contacts, interaction dates, and notes on interests. Revisit it periodically to rekindle relationships and propose updates.
 
-![contact notebook with cards and interaction notes; warm and human style.](/src/assets/blogs/branding/6.png)
+![contact notebook with cards and interaction notes; warm and human style.](/src/assets/blogs/branding/6.webp)
 
 ---
 
@@ -78,7 +78,7 @@ Set prices that cover costs and perceived value. For each type of use (social me
 
 Consider base rates and additional charges for extra revisions, rush jobs, or broad rights transfers. A clear policy reduces misunderstandings and eases negotiations.
 
-![pricing sheet with usage examples and prices; professional and organized style.](/src/assets/blogs/branding/7.png)
+![pricing sheet with usage examples and prices; professional and organized style.](/src/assets/blogs/branding/7.webp)
 
 ---
 
@@ -88,7 +88,7 @@ Your brand is fueled by consistent work. Set a routine that combines paid produc
 
 Schedule time for continuous learning: one micro-course per quarter, monthly experiments, and portfolio review every six months.
 
-![monthly calendar with work blocks for commissions, experimentation, and study; clean and functional style.](/src/assets/blogs/branding/8.png)
+![monthly calendar with work blocks for commissions, experimentation, and study; clean and functional style.](/src/assets/blogs/branding/8.webp)
 
 ---
 
@@ -98,7 +98,7 @@ Use simple data to make decisions: which pieces generate the most inquiries, whi
 
 Document repeatable processes (file prep, packaging, post-sale communication) so you can delegate without losing quality.
 
-![simple dashboard with key metrics (monthly inquiries, conversions, income by channel); infographic style.](/src/assets/blogs/branding/9.png)
+![simple dashboard with key metrics (monthly inquiries, conversions, income by channel); infographic style.](/src/assets/blogs/branding/9.webp)
 
 ---
 
@@ -106,6 +106,6 @@ Document repeatable processes (file prep, packaging, post-sale communication) so
 
 Building a brand as an illustrator is a mix of visual judgment, commercial discipline, and well-managed relationships. It’s not about going viral overnight, but about making consistent, repeatable decisions that build credibility and opportunities. Apply the steps in this guide with patience and focus—the sum of conscious iterations is what turns an artist into a reference.
 
-![final composition showing studio, sales packaging, web mockup, and framed piece; semi-realistic style, professional atmosphere.](/src/assets/blogs/branding/10.png)
+![final composition showing studio, sales packaging, web mockup, and framed piece; semi-realistic style, professional atmosphere.](/src/assets/blogs/branding/10.webp)
 
 ---

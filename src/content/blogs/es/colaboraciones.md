@@ -16,7 +16,7 @@ Las colaboraciones entre ilustradores y músicos pueden producir proyectos memor
 
 La música aporta narrativa temporal y emoción, la ilustración aporta identidad visual y lectura inmediata. Cuando ambas disciplinas dialogan con criterio, el resultado excede la suma de sus partes: la canción gana un mundo visual y la imagen gana movimiento y contexto sonoro. Además, las colaboraciones amplían audiencias: fans de la música descubren ilustradores y seguidores de la ilustración se acercan a la música.
 
-![composición con vinilo, portada ilustrada y una pantalla mostrando la onda sonora; estilo editorial, colores cálidos y contraste.](/src/assets/blogs/collaborations/1.png)
+![composición con vinilo, portada ilustrada y una pantalla mostrando la onda sonora; estilo editorial, colores cálidos y contraste.](/src/assets/blogs/collaborations/1.webp)
 
 ---
 
@@ -26,7 +26,7 @@ No hace falta buscar estrellas; hace falta afinidad. Identificá músicos cuyo u
 
 Consejo práctico: prepara 3 referencias visuales y 3 propuestas conceptuales breves para acercarte: una opción literal (ilustrar la letra), una metafórica (traducir la emoción en símbolos) y una experimental (visuales iterativos para shows).
 
-![tablero con perfiles de músicos, portadas inspiradoras y notas de afinidad; estilo de investigación visual.](/src/assets/blogs/collaborations/2.png)
+![tablero con perfiles de músicos, portadas inspiradoras y notas de afinidad; estilo de investigación visual.](/src/assets/blogs/collaborations/2.webp)
 
 ---
 
@@ -41,7 +41,7 @@ Las colaboraciones pueden tomar muchas formas según objetivos y presupuesto. Aq
 - Zines o libretos: obra gráfica que acompaña letra y proceso creativo.
 - Ediciones físicas limitadas: vinilos o CDs con arte exclusivo y extras (prints, postcards).
 
-![grid con mini‑mockups de cada formato (portada, visuales, zine, poster, vinilo); estilo profesional y variado.](/src/assets/blogs/collaborations/3.png)
+![grid con mini‑mockups de cada formato (portada, visuales, zine, poster, vinilo); estilo profesional y variado.](/src/assets/blogs/collaborations/3.webp)
 
 ---
 
@@ -58,7 +58,7 @@ Plantilla breve de briefing compartido:
 - Plazos y rondas de revisión.
 - Derechos y licencias acordadas.
 
-![documento de brief con secciones claras y ejemplos adjuntos; estilo editorial.](/src/assets/blogs/collaborations/4.png)
+![documento de brief con secciones claras y ejemplos adjuntos; estilo editorial.](/src/assets/blogs/collaborations/4.webp)
 
 ---
 
@@ -75,7 +75,7 @@ Un flujo ordenado acelera la producción y reduce revisiones innecesarias.
 
 Incluí checkpoints técnicos: versiones optimizadas para plataformas de streaming, mockups para merchandising y archivos de alta resolución para impresiones.
 
-![diagrama de flujo con las 6 etapas y ejemplos visuales en cada paso; estilo infográfico.](/src/assets/blogs/collaborations/5.png)
+![diagrama de flujo con las 6 etapas y ejemplos visuales en cada paso; estilo infográfico.](/src/assets/blogs/collaborations/5.webp)
 
 ---
 
@@ -92,7 +92,7 @@ Modelos prácticos:
 
 Documento mínimo a firmar: entregables, uso permitido, duración de la licencia, remuneración y cláusula de crédito.
 
-![ejemplo de contrato simple con secciones de licencia y pagos; estilo profesional.](/src/assets/blogs/collaborations/6.png)
+![ejemplo de contrato simple con secciones de licencia y pagos; estilo profesional.](/src/assets/blogs/collaborations/6.webp)
 
 ---
 
@@ -107,7 +107,7 @@ Recomendaciones:
 - Prepara versiones a 1080p y 4K según la pantalla.
 - Coordina cues con el equipo de sonido o VJ para transiciones.
 
-![mockup de pantalla de concierto con visuales en loop y capa de control visible; estilo nocturno y cinematográfico.](/src/assets/blogs/collaborations/7.png)
+![mockup de pantalla de concierto con visuales en loop y capa de control visible; estilo nocturno y cinematográfico.](/src/assets/blogs/collaborations/7.webp)
 
 ---
 
@@ -122,7 +122,7 @@ Checklist de lanzamiento:
 - Evento de lanzamiento online/offline.
 - Material para prensa y kits de prensa digitales.
 
-![calendar de lanzamiento con contenidos por canal y ejemplos de assets; estilo UI.](/src/assets/blogs/collaborations/8.png)
+![calendar de lanzamiento con contenidos por canal y ejemplos de assets; estilo UI.](/src/assets/blogs/collaborations/8.webp)
 
 ---
 
@@ -150,7 +150,7 @@ Paquete premium (gira / álbum físico):
 - Edición limitada física con arte exclusivo.
 - Pago por fases + royalties por ventas físicas; entrega 6–10 semanas.
 
-![tabla visual con los tres paquetes y elementos incluidos; estilo comercial.](/src/assets/blogs/collaborations/9.png)
+![tabla visual con los tres paquetes y elementos incluidos; estilo comercial.](/src/assets/blogs/collaborations/9.webp)
 
 ---
 
@@ -166,7 +166,7 @@ Sugerencia de entrada de portafolio:
 - Clips de visuales en uso.
 - Detalles de entregables y rol en el proyecto.
 
-![mockup web de entrada de portafolio con video embed y galería de proceso; estilo UI editorial.](/src/assets/blogs/collaborations/10.png)
+![mockup web de entrada de portafolio con video embed y galería de proceso; estilo UI editorial.](/src/assets/blogs/collaborations/10.webp)
 
 ---
 
@@ -174,6 +174,6 @@ Sugerencia de entrada de portafolio:
 
 Las colaboraciones entre ilustradores y músicos abren caminos creativos y comerciales. Con un brief claro, un flujo ordenado, licencias bien definidas y una estrategia de lanzamiento compartida, podés construir proyectos que emocionen y que tengan impacto real. Si querés, dame un ejemplo de canción o artista y te propongo 3 conceptos visuales listos para pitchar.
 
-![estudio compartido con equipo de trabajo, bocetos pegados en la pared y monitores mostrando ondas y arte finalizado; estilo semi‑realista, atmósfera creativa.](/src/assets/blogs/collaborations/11.png)
+![estudio compartido con equipo de trabajo, bocetos pegados en la pared y monitores mostrando ondas y arte finalizado; estilo semi‑realista, atmósfera creativa.](/src/assets/blogs/collaborations/11.webp)
 
 ---

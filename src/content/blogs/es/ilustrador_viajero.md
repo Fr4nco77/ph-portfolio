@@ -20,7 +20,7 @@ Elegir destino y propósito clarifica lo que vas a buscar con la mirada. No todo
 - Haz una mini‑lista de recursos: referencias visuales que te inspiran, paletas de color posibles y notas de herramientas que querés probar.
 - Empaca ligero y funcional: cuaderno de bocetos pequeño, pluma/lápiz, tablet o tabletita con lápiz, cámara compacta o smartphone con buena cámara, cargadores portátiles, y sobres o fundas para proteger trabajos en papel.
 
-![mochila abierta con elementos organizados: cuaderno, tablet, cámara, cargadores y funda impermeable; estilo fotográfico cálido y práctico.](/src/assets/blogs/travel/1.png)
+![mochila abierta con elementos organizados: cuaderno, tablet, cámara, cargadores y funda impermeable; estilo fotográfico cálido y práctico.](/src/assets/blogs/travel/1.webp)
 
 ---
 
@@ -33,7 +33,7 @@ La calidad del material recogido condiciona la riqueza del proyecto. No se trata
 - Registra sonidos y notas cortas: una frase sobre el contexto, una temperatura, un olor o una anécdota que luego pueda convertirse en texto para acompañar la serie.
 - Reúne materiales físicos si es posible: tickets, papeles, muestras de textura o etiquetas que alimenten collages o texturas digitales.
 
-![cuaderno con thumbnails, fotos impresas y una lista de notas rápidas en una mesa de café; estilo íntimo y documental.](/src/assets/blogs/travel/2.png)
+![cuaderno con thumbnails, fotos impresas y una lista de notas rápidas en una mesa de café; estilo íntimo y documental.](/src/assets/blogs/travel/2.webp)
 
 ---
 
@@ -46,7 +46,7 @@ Convertí el tiempo de viaje en pequeñas rutinas productivas que no bloqueen la
 - Paleta del lugar: elige 3 colores representativos por día y hacé una versión rápida de una escena usando solo esos tonos.
 - Collage de texturas: escanea o fotografía superficies locales (paredes, telas, etiquetas) y combinalas en una composición digital.
 
-![siete mini‑ilustraciones A5 dispuestas en fila, cada una con paleta distinta; estilo editorial y colorido.](/src/assets/blogs/travel/3.png)
+![siete mini‑ilustraciones A5 dispuestas en fila, cada una con paleta distinta; estilo editorial y colorido.](/src/assets/blogs/travel/3.webp)
 
 ---
 
@@ -59,7 +59,7 @@ Al regresar, el trabajo está en ordenar, seleccionar y transformar la materia p
 - Desarrollo de piezas: decide formato final, aplica paleta consistente y selecciona técnicas (vector, raster, mixto).
 - Documenta proceso: incluye thumbnails, notas de viaje y fotos de referencia en cada entrada del proyecto para el portafolio.
 
-![pantalla de ordenador con carpeta organizada por días y miniaturas, cuaderno físico y tazas de café; estilo realista y ordenado.](/src/assets/blogs/travel/4.png)
+![pantalla de ordenador con carpeta organizada por días y miniaturas, cuaderno físico y tazas de café; estilo realista y ordenado.](/src/assets/blogs/travel/4.webp)
 
 ---
 
@@ -73,7 +73,7 @@ Un viaje puede generar múltiples productos si planificás variantes y derechos 
 - Licencias y comisiones: vende licencias para uso editorial, merchandising o campañas locales.
 - Talleres y charlas: ofrece residencias, workshops o charlas basadas en la experiencia del viaje.
 
-![mockups de print enmarcado, zine abierto y mockup de página editorial; estilo comercial y elegante.](/src/assets/blogs/travel/5.png)
+![mockups de print enmarcado, zine abierto y mockup de página editorial; estilo comercial y elegante.](/src/assets/blogs/travel/5.webp)
 
 ---
 
@@ -85,7 +85,7 @@ La forma en que presentás la serie determina su impacto. Contá la historia sin
 - Usa micro‑historias en redes: carruseles que muestren antes/después, paletas y snippets de notas de viaje.
 - Prepara materiales de prensa: una breve bio del proyecto, imágenes en alta resolución y un PDF con el proceso para enviar a medios o galerías.
 
-![mockup web de entrada de portafolio con galería y texto de proyecto; estilo UI minimalista.](/src/assets/blogs/travel/6.png)
+![mockup web de entrada de portafolio con galería y texto de proyecto; estilo UI minimalista.](/src/assets/blogs/travel/6.webp)
 
 ---
 
@@ -98,7 +98,7 @@ Viajar como creador implica responsabilidad y cuidado por los lugares y las pers
 - Sostenibilidad: evita recoger objetos protegidos o dañar espacios; opta por documentación fotográfica y muestras digitales cuando sea posible.
 - Presupuesto y tiempo: incluye días de descanso en el plan de viaje; un itinerario demasiado apretado mata la profundidad de observación.
 
-![ilustración que muestre buenas prácticas: pedir permiso, dejar espacio y tomar nota; estilo didáctico y humano.](/src/assets/blogs/travel/7.png)
+![ilustración que muestre buenas prácticas: pedir permiso, dejar espacio y tomar nota; estilo didáctico y humano.](/src/assets/blogs/travel/7.webp)
 
 ---
 
@@ -106,6 +106,6 @@ Viajar como creador implica responsabilidad y cuidado por los lugares y las pers
 
 Un viaje bien documentado se transforma en una serie significativa solo si hay intención de cierre. Planificá el post viaje: tiempos para selección, producción y lanzamiento. Si querés, compartime destino y objetivos y te propongo un plan de 10 piezas con paleta, tamaño y calendario de producción.
 
-![mesa de trabajo al volver con mapas, cuadernos, fotos impresas y la primera ilustración terminada en el centro; estilo cálido y narrativo.](/src/assets/blogs/travel/8.png)
+![mesa de trabajo al volver con mapas, cuadernos, fotos impresas y la primera ilustración terminada en el centro; estilo cálido y narrativo.](/src/assets/blogs/travel/8.webp)
 
 ---

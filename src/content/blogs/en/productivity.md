@@ -16,7 +16,7 @@ Creative productivity is not corporate productivity force-applied: it's designin
 
 The foundation of any useful system is clear principles. First: less noise, more focus; reduce friction in repetitive tasks so creative energy concentrates where it matters. Second: healthy boundaries; defining times for creative work, admin and rest prevents burnout. Third: small metrics; measure effort and outcome with simple indicators (productive hours per week, pieces completed, minutes of daily sketching) so you can correct course without bureaucracy.
 
-![minimalist diagram with three principles (Focus, Boundaries, Metrics) represented by icons and brief notes; clean editorial style.](/src/assets/blogs/productivity/1.png)
+![minimalist diagram with three principles (Focus, Boundaries, Metrics) represented by icons and brief notes; clean editorial style.](/src/assets/blogs/productivity/1.webp)
 
 ---
 
@@ -24,7 +24,7 @@ The foundation of any useful system is clear principles. First: less noise, more
 
 An effective routine combines rituals that trigger creativity with protected blocks for deep production. Start the day with a high-impact task (for example: advance a paid project or solve a creative block) and reserve the afternoon for lower cognitive demand tasks (emails, admin, image editing). Plan the week on Sunday night: three real priorities for the week, assigned to specific days.
 
-![aerial view of a desk with a weekly planner open, tablet showing a calendar and a cup of coffee; semi-realistic warm light style.](/src/assets/blogs/productivity/2.png)
+![aerial view of a desk with a weekly planner open, tablet showing a calendar and a cup of coffee; semi-realistic warm light style.](/src/assets/blogs/productivity/2.webp)
 
 Suggested routine (example):
 
@@ -42,7 +42,7 @@ Implementation exercise: apply this routine for 2 weeks and record how many comp
 
 Reducing indecision accelerates production without sacrificing quality. Use rules and visual templates to make quick choices: limit palettes, pick three composition frameworks, or define a list of approved microdetails. These templates act as "creative contracts" between you and the piece.
 
-![visual decision cards (palette, composition, microdetails) arranged on a table; graphic functional style.](/src/assets/blogs/productivity/3.png)
+![visual decision cards (palette, composition, microdetails) arranged on a table; graphic functional style.](/src/assets/blogs/productivity/3.webp)
 
 Concrete techniques:
 
@@ -57,7 +57,7 @@ Concrete techniques:
 
 Interruptions fragment flow. Protect your creative blocks with clear signals: visible hours on your profile, "do not disturb" periods and automatic messages with response times. For clients, propose a standard process: written brief, thumbnails for direction, 1–2 review rounds included and fees for extras. This reduces back-and-forth and preserves creative time.
 
-![calendar notification on screen showing block "Do Not Disturb: creative work" and an email with an approved brief; realistic professional style.](/src/assets/blogs/productivity/4.png)
+![calendar notification on screen showing block "Do Not Disturb: creative work" and an email with an approved brief; realistic professional style.](/src/assets/blogs/productivity/4.webp)
 
 Quick communication template:
 
@@ -73,7 +73,7 @@ Quick communication template:
 
 Choose tools that reduce repetitive tasks: file templates, export presets, actions to resize and rename files, and custom keyboard shortcuts. Automate backups and create a "final assets" folder with exported versions for web and print.
 
-![screen with a tools board (presets, actions, shortcuts) and a sync cloud; professional UI style.](/src/assets/blogs/productivity/5.png)
+![screen with a tools board (presets, actions, shortcuts) and a sync cloud; professional UI style.](/src/assets/blogs/productivity/5.webp)
 
 Practical suggestions:
 
@@ -110,7 +110,7 @@ Week 4 — Presentation and continuous improvement
 - Day 29: Review simple metrics.
 - Day 30: Adjust the routine based on results and plan the next month.
 
-![monthly calendar with daily tasks and visual examples; minimalist colorful style.](/src/assets/blogs/productivity/6.png)
+![monthly calendar with daily tasks and visual examples; minimalist colorful style.](/src/assets/blogs/productivity/6.webp)
 
 Extra exercises:
 
@@ -124,7 +124,7 @@ Extra exercises:
 
 Measure what matters: productive hours, finished pieces, number of sketches and time spent learning. Avoid vanity metrics (likes) as your main indicator; use data that reflects productive capacity and skill growth.
 
-![simple dashboard with 4 metrics charts (productive hours, finished pieces, minutes of daily sketching, weekly admin tasks); clear infographic style.](/src/assets/blogs/productivity/7.png)
+![simple dashboard with 4 metrics charts (productive hours, finished pieces, minutes of daily sketching, weekly admin tasks); clear infographic style.](/src/assets/blogs/productivity/7.webp)
 
 Simple suggestion: keep a weekly sheet with three columns: objective, actual time spent, result. Review every Sunday and adjust the next week.
 
@@ -134,6 +134,6 @@ Simple suggestion: keep a weekly sheet with three columns: objective, actual tim
 
 Productivity for illustrators is about protecting creative time, reducing administrative friction and sustaining practices that produce repeatable progress. Implement a realistic routine, use templates for visual decisions, automate what you can and measure with meaningful indicators. Small consistent improvements produce more work with less wear.
 
-![studio at dusk with productivity elements visible (planner, timer, tablet) and a finished illustration on the screen; semi-realistic tranquil atmosphere.](/src/assets/blogs/productivity/8.png)
+![studio at dusk with productivity elements visible (planner, timer, tablet) and a finished illustration on the screen; semi-realistic tranquil atmosphere.](/src/assets/blogs/productivity/8.webp)
 
 ---

@@ -16,7 +16,7 @@ Selling prints is one of the most sustainable ways to turn personal work into re
 
 Selling prints allows you to separate pieces meant for exhibitions from those intended for the market, expand your audience, and create a passive income stream if you manage production and distribution well. Prints are also a great way to validate style and themes: if a series sells, you have real evidence of what works in the market.
 
-![visual comparison chart: original artwork vs framed sold print in different contexts (living room, office, gift); photographic style with editorial composition.](/src/assets/blogs/sell/1.png)
+![visual comparison chart: original artwork vs framed sold print in different contexts (living room, office, gift); photographic style with editorial composition.](/src/assets/blogs/sell/1.webp)
 
 ---
 
@@ -33,7 +33,7 @@ Minimum checklist before printing:
 - Color conversion and proofing according to provider (CMYK or ICC profile).
 - Marked margins and safe zones if the design has elements near the edge.
 
-![screenshot of PSD file with bleed guides and named layers; realistic and professional style.](/src/assets/blogs/sell/2.png)
+![screenshot of PSD file with bleed guides and named layers; realistic and professional style.](/src/assets/blogs/sell/2.webp)
 
 ---
 
@@ -50,7 +50,7 @@ Quick options table:
 - Heavyweight matte — versatile and affordable.
 - Satin/glossy — more vibrant colors, less tactility.
 
-![paper samples with labels (cotton rag, cold‑press, matte, satin) and texture close-ups; editorial style, soft lighting.](/src/assets/blogs/sell/3.png)
+![paper samples with labels (cotton rag, cold‑press, matte, satin) and texture close-ups; editorial style, soft lighting.](/src/assets/blogs/sell/3.webp)
 
 ---
 
@@ -67,7 +67,7 @@ Catalog recommendation:
 - Large (30×40 cm)
 - XL (50×70 cm)
 
-![mockup with the four sizes framed on a neutral wall; interior photography style.](/src/assets/blogs/sell/4.png)
+![mockup with the four sizes framed on a neutral wall; interior photography style.](/src/assets/blogs/sell/4.webp)
 
 ---
 
@@ -80,7 +80,7 @@ Suggested price = (Production cost + Packaging costs + Shipping costs + Sales co
 
 Calculate unit cost (printing, paper, ink), add materials (envelope, sleeve, tape, card), include personal time (an hourly rate multiplied by prep hours), and add the sales platform commission and average shipping expenses. Set a minimum margin to cover reinvestment and profit (e.g., 30–50%).
 
-![printed sheet showing cost breakdown and formula; realistic and professional style.](/src/assets/blogs/sell/5.png)
+![printed sheet showing cost breakdown and formula; realistic and professional style.](/src/assets/blogs/sell/5.webp)
 
 ---
 
@@ -97,7 +97,7 @@ Checklist of items to include in each shipment:
 - Letter or card with signature and edition number.
 - Optional: brand sticker or mini-print gift.
 
-![packaging scene with hands placing print in sleeve and custom box; warm photographic style.](/src/assets/blogs/sell/6.png)
+![packaging scene with hands placing print in sleeve and custom box; warm photographic style.](/src/assets/blogs/sell/6.webp)
 
 ---
 
@@ -114,7 +114,7 @@ Photography checklist:
 - Contextual: print on a realistic wall.
 - Mockups: framing and size variations.
 
-![photo set with print on wall, close-up, and mockup on screen; commercial style.](/src/assets/blogs/sell/7.png)
+![photo set with print on wall, close-up, and mockup on screen; commercial style.](/src/assets/blogs/sell/7.webp)
 
 ---
 
@@ -130,7 +130,7 @@ Suggested strategy:
 - Scale: add quarterly fairs and deals with 2 local shops.
 - Loyalty: mailing list with launches and exclusive discounts.
 
-![multichannel diagram with own store, marketplace, and physical points connected; clean infographic style.](/src/assets/blogs/sell/8.png)
+![multichannel diagram with own store, marketplace, and physical points connected; clean infographic style.](/src/assets/blogs/sell/8.webp)
 
 ---
 
@@ -147,7 +147,7 @@ Logistics checklist:
 - Insurance for high-value shipments.
 - Written and visible return policy.
 
-![package ready for shipping with label, tape, and documentation; professional photographic style.](/src/assets/blogs/sell/9.png)
+![package ready for shipping with label, tape, and documentation; professional photographic style.](/src/assets/blogs/sell/9.webp)
 
 ---
 
@@ -164,7 +164,7 @@ Basic launch calendar:
 - Launch day: open store + live or main post.
 - 1 week after: repost buyers and reviews.
 
-![launch calendar with key dates and post examples; editorial UI style.](/src/assets/blogs/sell/10.png)
+![launch calendar with key dates and post examples; editorial UI style.](/src/assets/blogs/sell/10.webp)
 
 ---
 
@@ -180,7 +180,7 @@ Loyalty actions:
 - Referral program with shareable code.
 - Care and preservation guide with each purchase.
 
-![thank-you message printed on card next to print and seal; warm and personal style.](/src/assets/blogs/sell/11.png)
+![thank-you message printed on card next to print and seal; warm and personal style.](/src/assets/blogs/sell/11.webp)
 
 ---
 
@@ -197,7 +197,7 @@ Scaling checklist:
 - Automation of confirmations and tracking.
 - Random post-print quality checks.
 
-![printed dossier with specs and samples on worktable; professional style.](/src/assets/blogs/sell/12.png)
+![printed dossier with specs and samples on worktable; professional style.](/src/assets/blogs/sell/12.webp)
 
 ---
 
@@ -205,6 +205,6 @@ Scaling checklist:
 
 Selling prints is a blend of craftsmanship and systems. Excellence in files and materials, paired with thoughtful presentation and a multichannel strategy, turns an illustration into a sellable and memorable product. Start with small runs, care for the buying experience, and document every step to scale wisely.
 
-![stacked print collection with labels and custom shipping box; warm and professional photographic style.](/src/assets/blogs/sell/13.png)
+![stacked print collection with labels and custom shipping box; warm and professional photographic style.](/src/assets/blogs/sell/13.webp)
 
 ---

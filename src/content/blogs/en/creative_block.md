@@ -22,7 +22,7 @@ If you produce but are dissatisfied with the result, there may be a disconnect b
 
 5-minute exercise: write down the last time you worked well, note the context (time, music, priorities) and compare it to your current situation; the pattern will tell you whether the block is emotional, technical, or logistical.
 
-![handwritten list in a notebook with three columns (avoid starting; struggle to progress; produce but unsatisfied) and ticks; intimate realistic style.](/src/assets/blogs/creative_block/1.png)
+![handwritten list in a notebook with three columns (avoid starting; struggle to progress; produce but unsatisfied) and ticks; intimate realistic style.](/src/assets/blogs/creative_block/1.webp)
 
 ---
 
@@ -36,7 +36,7 @@ Technique 3 — Change of medium (20–30 minutes): draw with something you don'
 
 Useful rule: do not judge what you produce in the initial session; the goal is movement, not perfection.
 
-![hand drawing a thumbnail with an hourglass next to it; dynamic close style.](/src/assets/blogs/creative_block/2.png)
+![hand drawing a thumbnail with an hourglass next to it; dynamic close style.](/src/assets/blogs/creative_block/2.webp)
 
 ---
 
@@ -53,7 +53,7 @@ Recommended structure:
 
 Before entering the block define the criterion of "enough" for the session (for example, "I must have the composition blocked and three lighting solutions") to avoid indefinite work.
 
-![visual timeline of a 120-minute session with colored blocks and short objectives; clean functional style.](/src/assets/blogs/creative_block/3.png)
+![visual timeline of a 120-minute session with colored blocks and short objectives; clean functional style.](/src/assets/blogs/creative_block/3.webp)
 
 ---
 
@@ -73,7 +73,7 @@ Weekly routine:
 - 1 critical review session with distance (24–48 hours pause beforehand).
 - 1 micro-course or technical reading each month to break conceptual stagnation.
 
-![weekly calendar with blocks marked: sketching, deep work, rest, experimentation; minimalist style.](/src/assets/blogs/creative_block/4.png)
+![weekly calendar with blocks marked: sketching, deep work, rest, experimentation; minimalist style.](/src/assets/blogs/creative_block/4.webp)
 
 ---
 
@@ -85,7 +85,7 @@ System 1 — Decision templates: keep 3 predefined palettes, 3 compositions and 
 System 2 — R‑A‑D Matrix (Relevance, Appeal, Difficulty): quickly score options to prioritize.  
 System 3 — First-verdict rule: if after 3 versions there is no clear difference, pick the first that passed the filter and move on.
 
-![visual cards with palettes and compositions ready to choose; practical style.](/src/assets/blogs/creative_block/5.png)
+![visual cards with palettes and compositions ready to choose; practical style.](/src/assets/blogs/creative_block/5.webp)
 
 ---
 
@@ -101,7 +101,7 @@ Guide to request effective feedback:
 
 Ideal timing to receive feedback: after a 24–48 hour pause; perception is more objective and suggestions are actionable.
 
-![screenshot of a clear feedback message with intention and 2 questions; human direct style.](/src/assets/blogs/creative_block/6.png)
+![screenshot of a clear feedback message with intention and 2 questions; human direct style.](/src/assets/blogs/creative_block/6.webp)
 
 ---
 
@@ -115,7 +115,7 @@ Day 5: Distant review and targeted fixes.
 Day 6: Focused production on the main piece (120 minutes).  
 Day 7: Document the process and plan next steps.
 
-![7-day calendar with a task per day and tracking boxes; functional style.](/src/assets/blogs/creative_block/7.png)
+![7-day calendar with a task per day and tracking boxes; functional style.](/src/assets/blogs/creative_block/7.webp)
 
 ---
 
@@ -123,4 +123,4 @@ Day 7: Document the process and plan next steps.
 
 Creative block is not a moral failure; it is a symptom of concrete variables that can be diagnosed and adjusted. Use immediate tactics to regain movement, long blocks for depth, and routines that protect energy in the medium term. Implement one or two changes this week — daily micro-sketches and one protected deep block — and you'll see flow return sooner than you think.
 
-![studio with several sketch sheets, an illustration in progress and a cup of tea; warm realistic style.](/src/assets/blogs/creative_block/8.png)
+![studio with several sketch sheets, an illustration in progress and a cup of tea; warm realistic style.](/src/assets/blogs/creative_block/8.webp)

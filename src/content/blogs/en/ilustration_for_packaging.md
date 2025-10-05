@@ -25,7 +25,7 @@ Read with focus:
 
 An honest answer to these questions guides the visual metaphor, element scale and design tone. If the client can't answer, propose a mini-brief with three conceptual options and commercial justification.
 
-![table with printed brief, product samples and handwritten notes highlighting audience, channel and message; realistic professional style.](/src/assets/blogs/packaging/1.png)
+![table with printed brief, product samples and handwritten notes highlighting audience, channel and message; realistic professional style.](/src/assets/blogs/packaging/1.webp)
 
 ---
 
@@ -35,7 +35,7 @@ A good label has a clear idea that reads at first glance. Choose a strong visual
 
 Work with thumbnails and short pitches. Present 3 distinct conceptual proposals, each with a sentence explaining the idea and its commercial advantage. The editor or client will prefer concrete, justified options instead of a single open path.
 
-![three mini mockups of labels with different concepts (literal, symbolic, abstract) on the same package template; editorial style.](/src/assets/blogs/packaging/2.png)
+![three mini mockups of labels with different concepts (literal, symbolic, abstract) on the same package template; editorial style.](/src/assets/blogs/packaging/2.webp)
 
 ---
 
@@ -52,7 +52,7 @@ Practical rules:
 
 Test them quickly in miniature: if the product is not readable at a 3×3 cm view, readjust scale and contrast.
 
-![label mockup with hierarchy layers marked (brand, name, claim, legal data), annotations on sizes and contrasts; instructive style.](/src/assets/blogs/packaging/3.png)
+![label mockup with hierarchy layers marked (brand, name, claim, legal data), annotations on sizes and contrasts; instructive style.](/src/assets/blogs/packaging/3.webp)
 
 ---
 
@@ -66,7 +66,7 @@ Tips:
 - Consider contrast for readability on different finishes (gloss, matte, metallic).
 - Take into account color translation in the printer's color profiles.
 
-![card with swatches, intention notes per color and mini mockup applying the palette to the label; clean studio style.](/src/assets/blogs/packaging/4.png)
+![card with swatches, intention notes per color and mini mockup applying the palette to the label; clean studio style.](/src/assets/blogs/packaging/4.webp)
 
 ---
 
@@ -81,7 +81,7 @@ Practical options:
 - Hybrid: vector base for shapes and raster for localized textures.
 - Halftones and color reduction: consider your printer's limitations (indexed, PMS).
 
-![side-by-side comparison of the same illustration in vector, raster and hybrid, with notes on advantages and limitations; technical style.](/src/assets/blogs/packaging/5.png)
+![side-by-side comparison of the same illustration in vector, raster and hybrid, with notes on advantages and limitations; technical style.](/src/assets/blogs/packaging/5.webp)
 
 ---
 
@@ -98,7 +98,7 @@ Essential checklist:
 - Versions with and without legal info or barcode for final layout.
 - Convert fonts to outlines when requested by the printer.
 
-![screenshot of PSD/AI file with layers and bleed guides visible; professional style.](/src/assets/blogs/packaging/6.png)
+![screenshot of PSD/AI file with layers and bleed guides visible; professional style.](/src/assets/blogs/packaging/6.webp)
 
 ---
 
@@ -113,7 +113,7 @@ Recommended tests:
 - Physical prototype if the package has folds or special cuts.
 - Readability check with mandatory information and codes.
 
-![photo of physical label and box proofs, with notes and a magnifying glass; realistic style.](/src/assets/blogs/packaging/7.png)
+![photo of physical label and box proofs, with notes and a magnifying glass; realistic style.](/src/assets/blogs/packaging/7.webp)
 
 ---
 
@@ -128,7 +128,7 @@ Points to coordinate:
 - Technical spaces for gluing and assembly.
 - Considerations for secondary packaging (boxes, displays).
 
-![technical dieline plan with marked areas and example label adapted to folding; architectural technical style.](/src/assets/blogs/packaging/8.png)
+![technical dieline plan with marked areas and example label adapted to folding; architectural technical style.](/src/assets/blogs/packaging/8.webp)
 
 ---
 
@@ -144,7 +144,7 @@ Recommended proposal format:
 - Technical note with file formats and printer specifications.
 - Finish options (matte, gloss, spot varnish, embossing).
 
-![PDF mockup with the proposal structure shown on screen; professional elegant style.](/src/assets/blogs/packaging/9.png)
+![PDF mockup with the proposal structure shown on screen; professional elegant style.](/src/assets/blogs/packaging/9.webp)
 
 ---
 
@@ -158,7 +158,7 @@ Differentiation strategy:
 - Propose materials or finishes that reinforce the narrative.
 - Use coherent series of packages to strengthen brand presence.
 
-![packaging trends moodboard with standout examples and opportunity notes; collage editorial style.](/src/assets/blogs/packaging/10.png)
+![packaging trends moodboard with standout examples and opportunity notes; collage editorial style.](/src/assets/blogs/packaging/10.webp)
 
 ---
 
@@ -174,7 +174,7 @@ Recommended deliverables:
 - Mockups and usage guides for the illustration in different formats.
 - Version log and changelog if iterations occurred.
 
-![organized delivery folder on screen with files listed; clean professional style.](/src/assets/blogs/packaging/11.png)
+![organized delivery folder on screen with files listed; clean professional style.](/src/assets/blogs/packaging/11.webp)
 
 ---
 
@@ -182,6 +182,6 @@ Recommended deliverables:
 
 Illustrating for packaging combines creativity and technical rigor. A solid process that integrates brief reading, justified conceptual options, technical tests and organized deliverables reduces iterations and improves commercial results. If you want me to transform a real brief into three visual proposals ready to present, bring me the product and I'll prepare the professional delivery pack.
 
-![shelf with coherently illustrated products on a sales line, commercial lighting and visible label; semi-realistic display style.](/src/assets/blogs/packaging/12.png)
+![shelf with coherently illustrated products on a sales line, commercial lighting and visible label; semi-realistic display style.](/src/assets/blogs/packaging/12.webp)
 
 ---

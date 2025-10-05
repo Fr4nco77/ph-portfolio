@@ -20,7 +20,7 @@ Choosing destination and purpose clarifies what you'll look for with your eye. N
 - Make a mini resource list: visual references that inspire you, possible color palettes and notes on tools you want to try.
 - Pack light and functional: small sketchbook, pen/pencil, tablet or small tablet with stylus, compact camera or smartphone with a good camera, power banks, and sleeves or waterproof covers to protect paper work.
 
-![open backpack with organized items: sketchbook, tablet, camera, chargers and waterproof pouch; warm practical photographic style.](/src/assets/blogs/travel/1.png)
+![open backpack with organized items: sketchbook, tablet, camera, chargers and waterproof pouch; warm practical photographic style.](/src/assets/blogs/travel/1.webp)
 
 ---
 
@@ -33,7 +33,7 @@ The quality of gathered material determines the project's richness. It's not abo
 - Record sounds and short notes: a sentence about context, a temperature, a smell or an anecdote that can later accompany the series.
 - Collect physical materials if possible: tickets, papers, texture samples or labels that feed collages or digital textures.
 
-![sketchbook with thumbnails, printed photos and a list of quick notes on a café table; intimate documentary style.](/src/assets/blogs/travel/2.png)
+![sketchbook with thumbnails, printed photos and a list of quick notes on a café table; intimate documentary style.](/src/assets/blogs/travel/2.webp)
 
 ---
 
@@ -46,7 +46,7 @@ Turn travel time into small productive routines that don't block the experience 
 - Palette of the place: pick 3 representative colors per day and do a quick scene using only those tones.
 - Texture collage: scan or photograph local surfaces (walls, fabrics, labels) and combine them in a digital composition.
 
-![seven A5 mini-illustrations in a row, each with a different palette; editorial colorful style.](/src/assets/blogs/travel/3.png)
+![seven A5 mini-illustrations in a row, each with a different palette; editorial colorful style.](/src/assets/blogs/travel/3.webp)
 
 ---
 
@@ -59,7 +59,7 @@ When you get back, the work is sorting, selecting and transforming raw material 
 - Piece development: decide final format, apply a consistent palette and select techniques (vector, raster, hybrid).
 - Document the process: include thumbnails, travel notes and reference photos in each project entry for the portfolio.
 
-![computer screen with folders organized by day and thumbnails, physical sketchbook and coffee cups; realistic tidy style.](/src/assets/blogs/travel/4.png)
+![computer screen with folders organized by day and thumbnails, physical sketchbook and coffee cups; realistic tidy style.](/src/assets/blogs/travel/4.webp)
 
 ---
 
@@ -73,7 +73,7 @@ A trip can generate multiple products if you plan variants and usage rights from
 - Licenses and commissions: sell licenses for editorial use, merchandising or local campaigns.
 - Workshops and talks: offer residencies, workshops or talks based on your travel experience.
 
-![mockups of framed prints, open zine and editorial page mockup; commercial elegant style.](/src/assets/blogs/travel/5.png)
+![mockups of framed prints, open zine and editorial page mockup; commercial elegant style.](/src/assets/blogs/travel/5.webp)
 
 ---
 
@@ -85,7 +85,7 @@ How you present the series determines its impact. Tell the story without over-ex
 - Use micro-stories on social: carousels showing before/after, palettes and snippets of travel notes.
 - Prepare press materials: a short project bio, high-res images and a PDF with the process to send to media or galleries.
 
-![web portfolio mockup with gallery and project text; minimal UI style.](/src/assets/blogs/travel/6.png)
+![web portfolio mockup with gallery and project text; minimal UI style.](/src/assets/blogs/travel/6.webp)
 
 ---
 
@@ -98,7 +98,7 @@ Traveling as a creator implies responsibility and care for places and people you
 - Sustainability: avoid collecting protected objects or damaging spaces; prefer photographic documentation and digital samples when possible.
 - Budget and time: include rest days in the travel plan; an overly tight itinerary kills depth of observation.
 
-![illustration showing best practices: asking permission, giving space and taking notes; didactic humane style.](/src/assets/blogs/travel/7.png)
+![illustration showing best practices: asking permission, giving space and taking notes; didactic humane style.](/src/assets/blogs/travel/7.webp)
 
 ---
 
@@ -106,6 +106,6 @@ Traveling as a creator implies responsibility and care for places and people you
 
 A well-documented trip becomes a meaningful series only if you close it intentionally. Plan post-trip time for selection, production and launch. If you want, share your destination and goals and I'll propose a 10-piece plan with palette, size and production schedule.
 
-![worktable on return with maps, sketchbooks, printed photos and the first finished illustration in the center; warm narrative style.](/src/assets/blogs/travel/8.png)
+![worktable on return with maps, sketchbooks, printed photos and the first finished illustration in the center; warm narrative style.](/src/assets/blogs/travel/8.webp)
 
 ---

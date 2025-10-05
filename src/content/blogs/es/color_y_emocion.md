@@ -16,7 +16,7 @@ El color es la herramienta más directa para manipular la emoción del espectado
 
 El color no es solo estética; es semántica visual. Un rojo puede sugerir calor, peligro o pasión dependiendo del contexto y los contrastes que lo rodean. Elegir una paleta sin propósito es como escribir sin tono: la pieza puede ser bella, pero difícil de leer. Cuando el color responde a una intención —emocional, narrativa o práctica— la ilustración comunica con precisión y gana consistencia en un portafolio o una serie.
 
-![tabla comparativa visual con tres mini‑ilustraciones iguales aplicadas a paletas emocionalmente distintas (cálida, fría, contrastada); estilo editorial, colores claros y etiquetas visibles.](/src/assets/blogs/color/1.png)
+![tabla comparativa visual con tres mini‑ilustraciones iguales aplicadas a paletas emocionalmente distintas (cálida, fría, contrastada); estilo editorial, colores claros y etiquetas visibles.](/src/assets/blogs/color/1.webp)
 
 ---
 
@@ -30,7 +30,7 @@ El color no es solo estética; es semántica visual. Un rojo puede sugerir calor
 
 Si buscas nostalgia, parte de una base cálida y atenuada; si buscas tensión, juega con contrastes fuertes y un color de acento saturado. Un color ancla aporta identidad, pero sin un contraste funcional la ilustración puede perder claridad en miniaturas o aplicaciones reales.
 
-![paleta en formato vertical con 5 swatches; cada swatch tiene nota corta (ej: "ancla: ocre cálido", "soporte: azul grisáceo", "acento: magenta saturado"); estilo limpio tipo estudio de diseño.](/src/assets/blogs/color/2.jpeg)
+![paleta en formato vertical con 5 swatches; cada swatch tiene nota corta (ej: "ancla: ocre cálido", "soporte: azul grisáceo", "acento: magenta saturado"); estilo limpio tipo estudio de diseño.](/src/assets/blogs/color/2.webp)
 
 ---
 
@@ -44,7 +44,7 @@ No todos los contrastes buscan belleza: muchos buscan legibilidad. Diferencia en
 
 Prueba siempre tu composición en escala de miniatura y en escala real. Una paleta con poco contraste de valor puede perder el punto focal cuando se reduce a thumbnails; una paleta con contrastes pensados para impresión puede saturarse en pantalla si no controlas perfiles.
 
-![misma ilustración reproducida en tres tamaños (thumbnail, pantalla, impresión) con notas sobre legibilidad; estilo instructivo y claro.](/src/assets/blogs/color/3.jpeg)
+![misma ilustración reproducida en tres tamaños (thumbnail, pantalla, impresión) con notas sobre legibilidad; estilo instructivo y claro.](/src/assets/blogs/color/3.webp)
 
 ---
 
@@ -54,7 +54,7 @@ El color gana personalidad cuando interactúa con texturas y materiales. Una sup
 
 Decide desde el principio si buscas una lectura "manual" o "limpia". Si optás por lo manual, incorpora uno o dos mapas de textura (papel, pincel seco, ruido) y piensa estos mapas como capas separadas que afectan saturación y brillo. Si optás por lo limpio, usa degradados sutiles y variaciones de saturación para evitar superficies planas.
 
-![comparación lado a lado de la misma composición con texturas manuales y con tratamiento limpio; estilo mixto, alto detalle en texturas.](/src/assets/blogs/color/4.jpeg)
+![comparación lado a lado de la misma composición con texturas manuales y con tratamiento limpio; estilo mixto, alto detalle en texturas.](/src/assets/blogs/color/4.webp)
 
 ---
 
@@ -68,7 +68,7 @@ Aquí hay cinco paletas aplicadas a objetivos diferentes. Para cada una incluyo 
 - Tensión moderna: base gris neutro, soporte cian frío, acento naranja saturado; perfecto para tecnología y temas críticos.
 - Minimal funcional: base negro carbón, soporte gris cálido, acento amarillo fluorescente; recomendado para info‑gráficas y señalética visual fuerte.
 
-![cinco tarjetas de paleta horizontales con mini‑mockup de aplicación (por ejemplo, portada o póster reducido) y breve nota; estilo UI editorial.](/src/assets/blogs/color/5.jpeg)
+![cinco tarjetas de paleta horizontales con mini‑mockup de aplicación (por ejemplo, portada o póster reducido) y breve nota; estilo UI editorial.](/src/assets/blogs/color/5.webp)
 
 ---
 
@@ -80,7 +80,7 @@ Entrenar la sensibilidad al color requiere práctica deliberada. Aquí van tres 
 2. Ejercicio de 2 horas — La paleta restringida: rehace una ilustración usando solo 3 colores + neutrales; observa cómo cambian la jerarquía y la narrativa.
 3. Ejercicio mensual — Serie limitada: produce 3 piezas con la misma paleta para explorar coherencia y límites creativos.
 
-![tablero con los tres ejercicios descritos, con ejemplos de mini‑resultados; estilo taller creativo.](/src/assets/blogs/color/6.jpeg)
+![tablero con los tres ejercicios descritos, con ejemplos de mini‑resultados; estilo taller creativo.](/src/assets/blogs/color/6.webp)
 
 ---
 
@@ -92,7 +92,7 @@ Evitar errores frecuentes acelera el aprendizaje. Aquí explico tres errores y s
 - Error: ignorar pruebas en escala → Solución: valida siempre en thumbnail y en mockup de uso final.
 - Error: elegir colores por moda sin coherencia narrativa → Solución: define la emoción antes de elegir el ancla cromática.
 
-![ilustración con tres iconos de advertencia y ejemplos visuales de cada error; estilo didáctico y claro.](/src/assets/blogs/color/7.jpeg)
+![ilustración con tres iconos de advertencia y ejemplos visuales de cada error; estilo didáctico y claro.](/src/assets/blogs/color/7.webp)
 
 ---
 
@@ -107,7 +107,7 @@ Checklist de presentación:
 - Nota de intención (1–2 líneas) por paleta.
 - Variante en blanco y negro para verificar lectura sin color.
 
-![mockup de entrada de portafolio con swatches, códigos y mini‑mockups; estilo UI profesional.](/src/assets/blogs/color/8.jpeg)
+![mockup de entrada de portafolio con swatches, códigos y mini‑mockups; estilo UI profesional.](/src/assets/blogs/color/8.webp)
 
 ---
 
@@ -121,7 +121,7 @@ Recursos sugeridos:
 - Plugins de extracción de color en el software de ilustración.
 - Bibliotecas personales sincronizadas entre dispositivos.
 
-![captura de pantalla estilo mockup de herramientas digitales de paletas y extracción de color; estilo realista, interfaz visible.](/src/assets/blogs/color/9.jpeg)
+![captura de pantalla estilo mockup de herramientas digitales de paletas y extracción de color; estilo realista, interfaz visible.](/src/assets/blogs/color/9.webp)
 
 ---
 
@@ -138,4 +138,4 @@ Plan de acción 7 días:
 - Día 5: Añade texturas y prueba versiones limpia/manual.
 - Día 6: Valida en thumbnail y mockup de uso.
 - Día 7: Documenta el proceso en una entrada de portafolio con swatches y notas de intención.
-  ![calendario semanal con tareas y mini‑resultados ilustrativos; estilo minimalista y colorido.](/src/assets/blogs/color/10.jpeg)
+  ![calendario semanal con tareas y mini‑resultados ilustrativos; estilo minimalista y colorido.](/src/assets/blogs/color/10.webp)

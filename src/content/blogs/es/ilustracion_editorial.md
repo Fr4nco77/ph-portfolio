@@ -22,7 +22,7 @@ Puntos clave:
 - Ser legible en distintos formatos: column width, portada, redes.
 - Proveer variantes y cortes técnicos que faciliten la maquetación.
 
-![serie de mini‑mockups mostrando la misma ilustración aplicada a una columna, una portada y una publicación en redes; estilo gráfico editorial, limpio y profesional.](/src/assets/blogs/editorial/1.png)
+![serie de mini‑mockups mostrando la misma ilustración aplicada a una columna, una portada y una publicación en redes; estilo gráfico editorial, limpio y profesional.](/src/assets/blogs/editorial/1.webp)
 
 ---
 
@@ -37,7 +37,7 @@ Guion mínimo para responder un brief:
 3. Paleta y dirección de estilo (ej.: vector, collage, acuarela digital).
 4. Entregables y recortes de tamaño propuestos.
 
-![ilustración de una bandeja de email con un brief editorial abierto y notas a mano con alternativas de concepto; estilo realista con elementos gráficos.](/src/assets/blogs/editorial/2.png)
+![ilustración de una bandeja de email con un brief editorial abierto y notas a mano con alternativas de concepto; estilo realista con elementos gráficos.](/src/assets/blogs/editorial/2.webp)
 
 ---
 
@@ -51,7 +51,7 @@ Ejemplos efectivos:
 - Tema: “inteligencia artificial” → metáfora: autómatas con engranajes que leen libros humanos.
 - Tema: “salud mental” → metáfora: una casa con habitaciones que representan estados emocionales.
 
-![tres viñetas conceptuales mostrando las metáforas anteriores en estilo editorial; paleta sobria y composición clara.](/src/assets/blogs/editorial/3.png)
+![tres viñetas conceptuales mostrando las metáforas anteriores en estilo editorial; paleta sobria y composición clara.](/src/assets/blogs/editorial/3.webp)
 
 ---
 
@@ -65,7 +65,7 @@ Formato recomendado para el envío:
 - Texto corto (1–2 frases) por propuesta.
 - Indicación de preferencia y justificación breve.
 
-![PDF mockup con thumbnails numerados y notas de texto breves; estilo limpio y profesional.](/src/assets/blogs/editorial/4.png)
+![PDF mockup con thumbnails numerados y notas de texto breves; estilo limpio y profesional.](/src/assets/blogs/editorial/4.webp)
 
 ---
 
@@ -80,7 +80,7 @@ Checklist técnico:
 - Variantes en relación de aspecto para redes y web.
 - Versiones en CMYK y RGB si corresponde.
 
-![tabla visual con tamaños comunes (columna, media página, portada) y ejemplos de recortes; estilo instructivo y claro.](/src/assets/blogs/editorial/5.png)
+![tabla visual con tamaños comunes (columna, media página, portada) y ejemplos de recortes; estilo instructivo y claro.](/src/assets/blogs/editorial/5.webp)
 
 ---
 
@@ -97,7 +97,7 @@ Flujo de producción sugerido:
 5. Texturas, tipografías y acentos.
 6. Exportes y pruebas de color.
 
-![captura de pantalla de un archivo PSD organizado por capas con nombre y color; estilo realista y profesional.](/src/assets/blogs/editorial/6.png)
+![captura de pantalla de un archivo PSD organizado por capas con nombre y color; estilo realista y profesional.](/src/assets/blogs/editorial/6.webp)
 
 ---
 
@@ -111,7 +111,7 @@ Consejo práctico:
 - Proveer mockups con títulos de ejemplo.
 - Evitar altos contrastes visuales en zonas de texto.
 
-![mockup de maquetación con áreas marcadas para título, subtítulo y cuerpo; estilo editorial, líneas claras.](/src/assets/blogs/editorial/7.png)
+![mockup de maquetación con áreas marcadas para título, subtítulo y cuerpo; estilo editorial, líneas claras.](/src/assets/blogs/editorial/7.webp)
 
 ---
 
@@ -127,7 +127,7 @@ Ejemplo de paquete de entrega:
 - thumbnails_proceso.pdf
 - notas.txt (paleta y justificación breve)
 
-![carpeta organizada en pantalla con los archivos nombrados según el ejemplo; estilo realista, workspace.](/src/assets/blogs/editorial/8.png)
+![carpeta organizada en pantalla con los archivos nombrados según el ejemplo; estilo realista, workspace.](/src/assets/blogs/editorial/8.webp)
 
 ---
 
@@ -142,7 +142,7 @@ Puntos de negociación:
 - Revisiones incluidas y tarifa por extras.
 - Derechos de autor y cedencia temporal o exclusiva.
 
-![documento de cotización con secciones de uso, tiempos y precios; estilo profesional y minimalista.](/src/assets/blogs/editorial/9.png)
+![documento de cotización con secciones de uso, tiempos y precios; estilo profesional y minimalista.](/src/assets/blogs/editorial/9.webp)
 
 ---
 
@@ -158,7 +158,7 @@ Estructura ideal para cada entrada:
 - Imagen final en contexto (maquetada).
 - Nota técnica y uso autorizado.
 
-![mockup de entrada de portafolio editorial con todos los elementos anteriores; estilo UI elegante.](/src/assets/blogs/editorial/10.png)
+![mockup de entrada de portafolio editorial con todos los elementos anteriores; estilo UI elegante.](/src/assets/blogs/editorial/10.webp)
 
 ---
 
@@ -170,7 +170,7 @@ Estructura ideal para cada entrada:
 4. No aclarar licencias → definir uso y tarifas por escrito.
 5. Entregar archivos desorganizados → nombrar y documentar cada archivo.
 
-![ilustración con cinco iconos que representen cada error; estilo didáctico y claro.](/src/assets/blogs/editorial/11.png)
+![ilustración con cinco iconos que representen cada error; estilo didáctico y claro.](/src/assets/blogs/editorial/11.webp)
 
 ---
 
@@ -184,7 +184,7 @@ Recursos recomendados para formarte:
 - Seguir editores y directores de arte en redes.
 - Practicar briefs ficticios con límites de tamaño y tiempo.
 
-![tablero con artículos, thumbnails y la versión final de un ejercicio; estilo de taller creativo.](/src/assets/blogs/editorial/12.png)
+![tablero con artículos, thumbnails y la versión final de un ejercicio; estilo de taller creativo.](/src/assets/blogs/editorial/12.webp)
 
 ---
 
@@ -192,6 +192,6 @@ Recursos recomendados para formarte:
 
 La ilustración editorial es un oficio que mezcla síntesis conceptual, claridad visual y profesionalismo técnico. Los mejores ilustradores son quienes entienden el medio, se comunican con los editores y entregan piezas que multiplican la potencia de una historia. Practicá la lectura de briefs, perfeccioná tu kit de entregables y documentá tu proceso: eso te convertirá en un recurso valioso para cualquier redacción.
 
-![ilustración final maquetada en una portada de revista sobre una mesa de trabajo; estilo semi‑realista con layout editorial.](/src/assets/blogs/editorial/13.png)
+![ilustración final maquetada en una portada de revista sobre una mesa de trabajo; estilo semi‑realista con layout editorial.](/src/assets/blogs/editorial/13.webp)
 
 ---

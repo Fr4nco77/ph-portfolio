@@ -16,7 +16,7 @@ Collaborations between illustrators and musicians can produce memorable projects
 
 Music brings temporal narrative and emotion, illustration brings visual identity and immediate legibility. When both disciplines converse with purpose, the result exceeds the sum of its parts: the song gains a visual world and the image gains movement and sonic context. Collaborations also expand audiences: music fans discover illustrators and illustration followers get closer to the music.
 
-![composition with vinyl, illustrated cover and a screen showing the waveform; editorial style, warm colors and contrast.](/src/assets/blogs/collaborations/1.png)
+![composition with vinyl, illustrated cover and a screen showing the waveform; editorial style, warm colors and contrast.](/src/assets/blogs/collaborations/1.webp)
 
 ---
 
@@ -26,7 +26,7 @@ You don't need to look for stars; you need affinity. Identify musicians whose th
 
 Practical tip: prepare 3 visual references and 3 brief conceptual proposals to approach them: a literal option (illustrate the lyrics), a metaphoric option (translate the emotion into symbols) and an experimental option (iterative visuals for shows).
 
-![board with musician profiles, inspiring covers and affinity notes; visual research style.](/src/assets/blogs/collaborations/2.png)
+![board with musician profiles, inspiring covers and affinity notes; visual research style.](/src/assets/blogs/collaborations/2.webp)
 
 ---
 
@@ -41,7 +41,7 @@ Collaborations can take many forms depending on goals and budget. Here are prove
 - Zines or booklets: graphic work that accompanies lyrics and creative process.
 - Limited physical editions: vinyl or CDs with exclusive art and extras (prints, postcards).
 
-![grid with mini mockups of each format (cover, visuals, zine, poster, vinyl); professional varied style.](/src/assets/blogs/collaborations/3.png)
+![grid with mini mockups of each format (cover, visuals, zine, poster, vinyl); professional varied style.](/src/assets/blogs/collaborations/3.webp)
 
 ---
 
@@ -58,7 +58,7 @@ Short shared brief template:
 - Deadlines and review rounds.
 - Agreed rights and licenses.
 
-![brief document with clear sections and attached examples; editorial style.](/src/assets/blogs/collaborations/4.png)
+![brief document with clear sections and attached examples; editorial style.](/src/assets/blogs/collaborations/4.webp)
 
 ---
 
@@ -75,7 +75,7 @@ An orderly workflow speeds production and reduces unnecessary revisions.
 
 Include technical checkpoints: optimized versions for streaming platforms, mockups for merchandising and high-resolution files for print.
 
-![flowchart with the 6 stages and visual examples at each step; infographic style.](/src/assets/blogs/collaborations/5.png)
+![flowchart with the 6 stages and visual examples at each step; infographic style.](/src/assets/blogs/collaborations/5.webp)
 
 ---
 
@@ -92,7 +92,7 @@ Practical models:
 
 Minimum document to sign: deliverables, permitted use, license duration, compensation and credit clause.
 
-![example of a simple contract with license and payment sections; professional style.](/src/assets/blogs/collaborations/6.png)
+![example of a simple contract with license and payment sections; professional style.](/src/assets/blogs/collaborations/6.webp)
 
 ---
 
@@ -107,7 +107,7 @@ Recommendations:
 - Prepare 1080p and 4K versions depending on screen.
 - Coordinate cues with sound team or VJ for transitions.
 
-![concert screen mockup with looping visuals and visible control layer; nocturnal cinematic style.](/src/assets/blogs/collaborations/7.png)
+![concert screen mockup with looping visuals and visible control layer; nocturnal cinematic style.](/src/assets/blogs/collaborations/7.webp)
 
 ---
 
@@ -122,7 +122,7 @@ Launch checklist:
 - Online/offline launch event.
 - Press materials and digital press kits.
 
-![launch calendar with content per channel and asset examples; UI style.](/src/assets/blogs/collaborations/8.png)
+![launch calendar with content per channel and asset examples; UI style.](/src/assets/blogs/collaborations/8.webp)
 
 ---
 
@@ -150,7 +150,7 @@ Premium package (tour / physical album):
 - Limited physical edition with exclusive art.
 - Phased payments + royalties on physical sales; delivery 6–10 weeks.
 
-![visual table with the three packages and included elements; commercial style.](/src/assets/blogs/collaborations/9.png)
+![visual table with the three packages and included elements; commercial style.](/src/assets/blogs/collaborations/9.webp)
 
 ---
 
@@ -166,7 +166,7 @@ Portfolio entry suggestion:
 - Clips of visuals in use.
 - Deliverable details and your role.
 
-![web portfolio mockup with embedded video and process gallery; editorial UI style.](/src/assets/blogs/collaborations/10.png)
+![web portfolio mockup with embedded video and process gallery; editorial UI style.](/src/assets/blogs/collaborations/10.webp)
 
 ---
 
@@ -174,6 +174,6 @@ Portfolio entry suggestion:
 
 Collaborations between illustrators and musicians open creative and commercial paths. With a clear brief, an orderly workflow, well-defined licenses and a shared launch strategy, you can build projects that move people and have real impact. If you want, give me an example of a song or artist and I'll propose 3 ready-to-pitch visual concepts.
 
-![shared studio with a working team, sketches pinned on the wall and monitors showing waveforms and finished art; semi-realistic creative atmosphere.](/src/assets/blogs/collaborations/11.png)
+![shared studio with a working team, sketches pinned on the wall and monitors showing waveforms and finished art; semi-realistic creative atmosphere.](/src/assets/blogs/collaborations/11.webp)
 
 ---

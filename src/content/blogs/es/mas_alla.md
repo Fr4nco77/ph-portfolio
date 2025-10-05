@@ -16,7 +16,7 @@ Muchos ilustradores se limitan a comisiones y portafolios cuando, en realidad, h
 
 Abrir la práctica a proyectos "otros" tiene tres efectos claros: diversifica ingresos, expande la audiencia y nutre la voz creativa. Los proyectos alternativos funcionan como laboratorios donde probar técnicas, temas y formatos sin la presión de un encargo. Además, muchas oportunidades interesantes nacen en la intersección con otros sectores —gastronomía, turismo, educación, diseño de producto— y se convierten en encargos recurrentes cuando el artista demuestra criterio y compromiso.
 
-![collage de proyectos alternativos: workshop en plaza, zine impreso, serie de stickers en vitrina y una pequeña instalación mural; estilo editorial, colores cálidos.](/src/assets/blogs/beyond/1.png)
+![collage de proyectos alternativos: workshop en plaza, zine impreso, serie de stickers en vitrina y una pequeña instalación mural; estilo editorial, colores cálidos.](/src/assets/blogs/beyond/1.webp)
 
 ---
 
@@ -36,7 +36,7 @@ A continuación, seis formatos con alto potencial de impacto y viabilidad práct
 
 6. Proyectos educativos y colaborativos: residencias cortas, co‑creaciones con escuelas o programas culturales. Por qué funciona: financiación vía instituciones y alcance comunitario. Primer paso: redacta una propuesta breve (objetivo, público, materiales) y enviala a 3 centros culturales.
 
-![tablero con mini‑fichas de los seis proyectos, cada ficha con título, beneficio y primer paso; estilo infográfico.](/src/assets/blogs/beyond/2.png)
+![tablero con mini‑fichas de los seis proyectos, cada ficha con título, beneficio y primer paso; estilo infográfico.](/src/assets/blogs/beyond/2.webp)
 
 ---
 
@@ -46,7 +46,7 @@ No todas las ideas funcionan en todos los lugares. Elegí proyectos que converse
 
 Ejercicio rápido: lista 5 ideas; puntualas 1–10 en impacto, coste y afinidad; elige la que tenga mejor balance y diseña un plan de 3 pasos para el primer mes.
 
-![ hoja de evaluación con columnas Impacto; Coste; Afinidad y ejemplos anotados; estilo práctico.](/src/assets/blogs/beyond/3.png)
+![ hoja de evaluación con columnas Impacto; Coste; Afinidad y ejemplos anotados; estilo práctico.](/src/assets/blogs/beyond/3.webp)
 
 ---
 
@@ -74,7 +74,7 @@ Semana 4 — Medir y escalar:
 - Día 22–24: recopila métricas simples (asistentes, ventas, leads).
 - Día 25–30: plan de mejoras y próximos pasos: edición, repetición o escalado.
 
-![ calendario de 30 días con hitos marcados por semana y ejemplos visuales; estilo minimalista.](/src/assets/blogs/beyond/4.png)
+![ calendario de 30 días con hitos marcados por semana y ejemplos visuales; estilo minimalista.](/src/assets/blogs/beyond/4.webp)
 
 ---
 
@@ -84,7 +84,7 @@ La presentación hace la diferencia. Armá una propuesta breve que responda: ¿q
 
 Plantilla de una línea para pitch inicial: "Propongo [actividad] en [lugar] para [audiencia] durante [duración]; ofrezco [visibilidad/productos/taller] y necesito [espacio/financiación/logística]."
 
-![ejemplo de email corto de pitch con mockup adjunto, estilo profesional.](/src/assets/blogs/beyond/5.png)
+![ejemplo de email corto de pitch con mockup adjunto, estilo profesional.](/src/assets/blogs/beyond/5.webp)
 
 ---
 
@@ -99,7 +99,7 @@ Lista breve de mitigaciones:
 - Contingencia de tiempo y presupuesto.
 - Feedback temprano y medible.
 
-![iconos representando riesgo y mitigaciones (reloj, contrato, checklist); estilo didáctico.](/src/assets/blogs/beyond/6.png)
+![iconos representando riesgo y mitigaciones (reloj, contrato, checklist); estilo didáctico.](/src/assets/blogs/beyond/6.webp)
 
 ---
 
@@ -107,6 +107,6 @@ Lista breve de mitigaciones:
 
 Explorar proyectos "Otros" es una forma estratégica de hacer crecer tu práctica como ilustrador: diversifica ingresos, expande redes y te da espacio para experimentar. Elige una idea que puedas validar rápido, prototipa con una versión mínima viable y lanza con una propuesta clara. Si querés, dime tu contexto (ciudad, tiempo disponible, recursos) y te armo un plan de 30 días ajustado a tu realidad.
 
-![escena de pop‑up con gente comprando prints, taller en curso y un mural pequeño; estilo semi‑realista, luz cálida y sensación de comunidad.](/src/assets/blogs/beyond/7.png)
+![escena de pop‑up con gente comprando prints, taller en curso y un mural pequeño; estilo semi‑realista, luz cálida y sensación de comunidad.](/src/assets/blogs/beyond/7.webp)
 
 ---

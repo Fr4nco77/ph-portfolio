@@ -25,7 +25,7 @@ Leé con foco:
 
 Una respuesta honesta a estas preguntas orienta la metáfora visual, la escala de elementos y el tono del diseño. Si el cliente no puede responder, proponé un mini‑brief de tres opciones conceptuales con justificación comercial.
 
-![mesa con brief impreso, muestras de producto y notas a mano resaltando público, canal y mensaje; estilo realista y profesional.](/src/assets/blogs/packaging/1.png)
+![mesa con brief impreso, muestras de producto y notas a mano resaltando público, canal y mensaje; estilo realista y profesional.](/src/assets/blogs/packaging/1.webp)
 
 ---
 
@@ -35,7 +35,7 @@ Una buena etiqueta tiene una idea clara que se lee a primera vista. Elegí una m
 
 Trabajá con thumbnails y pitches cortos. Presentá 3 propuestas conceptuales distintas, cada una con una frase que explique la idea y su ventaja comercial. El editor o cliente preferirá opciones concretas y justificadas en lugar de un único camino abierto.
 
-![tres mini‑mockups de etiquetas con conceptos diferentes (literal, simbólico, abstracto) sobre una misma plantilla de envase; estilo editorial.](/src/assets/blogs/packaging/2.png)
+![tres mini‑mockups de etiquetas con conceptos diferentes (literal, simbólico, abstracto) sobre una misma plantilla de envase; estilo editorial.](/src/assets/blogs/packaging/2.webp)
 
 ---
 
@@ -52,7 +52,7 @@ Reglas prácticas:
 
 Probalos rápidamente en miniatura: si el producto no se lee en una vista de 3×3 cm, re‑ajustá escala y contraste.
 
-![mockup de etiqueta con capas de jerarquía marcadas (marca, nombre, claim, datos legales), anotaciones sobre tamaños y contrastes; estilo instructivo.](/src/assets/blogs/packaging/3.png)
+![mockup de etiqueta con capas de jerarquía marcadas (marca, nombre, claim, datos legales), anotaciones sobre tamaños y contrastes; estilo instructivo.](/src/assets/blogs/packaging/3.webp)
 
 ---
 
@@ -66,7 +66,7 @@ Consejos:
 - Considerá contraste para lectura en distintos acabados (brillo, mate, metalizado).
 - Tené en cuenta la traducción de color en los perfiles de impresión del proveedor.
 
-![tarjeta con swatches, notas de intención por color y mini‑mockup aplicando la paleta a la etiqueta; estilo clean studio.](/src/assets/blogs/packaging/4.png)
+![tarjeta con swatches, notas de intención por color y mini‑mockup aplicando la paleta a la etiqueta; estilo clean studio.](/src/assets/blogs/packaging/4.webp)
 
 ---
 
@@ -81,7 +81,7 @@ Opciones prácticas:
 - Híbrido: vector base para formas y raster para texturas localizadas.
 - Tramados y reducción de color: tené en cuenta limitaciones de su imprenta (indexado, PMS).
 
-![comparación lado a lado de la misma ilustración en vector, raster y híbrido, con notas sobre ventajas y limitaciones; estilo técnico.](/src/assets/blogs/packaging/5.png)
+![comparación lado a lado de la misma ilustración en vector, raster y híbrido, con notas sobre ventajas y limitaciones; estilo técnico.](/src/assets/blogs/packaging/5.webp)
 
 ---
 
@@ -98,7 +98,7 @@ Checklist esencial:
 - Versiones con y sin información legal o código de barras para maquetación final.
 - Conversión de tipografías a curvas cuando lo solicite la imprenta.
 
-![captura de pantalla de archivo PSD/AI con capas y guías de sangrado visibles; estilo profesional.](/src/assets/blogs/packaging/6.png)
+![captura de pantalla de archivo PSD/AI con capas y guías de sangrado visibles; estilo profesional.](/src/assets/blogs/packaging/6.webp)
 
 ---
 
@@ -113,7 +113,7 @@ Pruebas recomendadas:
 - Prototipo físico si el envase tiene plegados o cortes especiales.
 - Revisión de legibilidad con la información obligatoria y códigos.
 
-![fotografía de pruebas físicas de etiqueta y caja, con notas y una lupa; estilo realista.](/src/assets/blogs/packaging/7.png)
+![fotografía de pruebas físicas de etiqueta y caja, con notas y una lupa; estilo realista.](/src/assets/blogs/packaging/7.webp)
 
 ---
 
@@ -128,7 +128,7 @@ Puntos a coordinar:
 - Espacios técnicos para pegado y ensamblado.
 - Consideraciones para embalaje secundario (cajas, displays).
 
-![plano técnico de troquel con áreas marcadas y ejemplo de etiqueta adaptada al plegado; estilo arquitectónico técnico.](/src/assets/blogs/packaging/8.png)
+![plano técnico de troquel con áreas marcadas y ejemplo de etiqueta adaptada al plegado; estilo arquitectónico técnico.](/src/assets/blogs/packaging/8.webp)
 
 ---
 
@@ -144,7 +144,7 @@ Formato recomendado para propuestas:
 - Nota técnica con formatos de archivo y especificaciones para imprenta.
 - Opciones de acabado (mate, brillo, barniz selectivo, relieve).
 
-![PDF mockup con la estructura de propuesta mostrada en pantalla; estilo profesional y elegante.](/src/assets/blogs/packaging/9.png)
+![PDF mockup con la estructura de propuesta mostrada en pantalla; estilo profesional y elegante.](/src/assets/blogs/packaging/9.webp)
 
 ---
 
@@ -158,7 +158,7 @@ Estrategia de diferenciación:
 - Propone materiales o acabados que refuercen la narrativa.
 - Usa series de envases coherentes para fortalecer presencia de marca.
 
-![moodboard de tendencias en packaging con ejemplos destacables y notas de oportunidades; estilo collage editorial.](/src/assets/blogs/packaging/10.png)
+![moodboard de tendencias en packaging con ejemplos destacables y notas de oportunidades; estilo collage editorial.](/src/assets/blogs/packaging/10.webp)
 
 ---
 
@@ -174,7 +174,7 @@ Entregables recomendados:
 - Mockups y guías de uso de la ilustración en distintos formatos.
 - Registro de versiones y changelog si hubo iteraciones.
 
-![carpeta de entrega organizada en pantalla con archivos listados; estilo limpio y profesional.](/src/assets/blogs/packaging/11.png)
+![carpeta de entrega organizada en pantalla con archivos listados; estilo limpio y profesional.](/src/assets/blogs/packaging/11.webp)
 
 ---
 
@@ -182,6 +182,6 @@ Entregables recomendados:
 
 Ilustrar para packaging combina creatividad y rigor técnico. Un proceso sólido que integra lectura del brief, opciones conceptuales justificadas, pruebas técnicas y entregables ordenados reduce iteraciones y mejora resultados comerciales. Si querés que transforme un brief real en tres propuestas visuales listas para presentar, traeme el producto y te preparo el pack de entrega profesional.
 
-![estantería con productos ilustrados coherentes en una línea de venta, iluminación comercial y etiqueta visible; estilo semi‑realista, atmósfera de vitrina.](/src/assets/blogs/packaging/12.png)
+![estantería con productos ilustrados coherentes en una línea de venta, iluminación comercial y etiqueta visible; estilo semi‑realista, atmósfera de vitrina.](/src/assets/blogs/packaging/12.webp)
 
 ---

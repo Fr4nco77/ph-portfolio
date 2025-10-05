@@ -22,7 +22,7 @@ Si producís pero no te satisface lo que haces, puede ser desconexión entre int
 
 Ejercicio de 5 minutos: anotá la última vez que trabajaste bien, qué contexto tenías (hora, música, prioridades) y comparalo con la situación actual; el patrón te dirá si el bloqueo es emocional, técnico o logístico.
 
-![lista manuscrita en una libreta con tres columnas (evitar empezar; avanzar con dificultad; producir pero insatisfacción) y ticks; estilo íntimo y realista.](/src/assets/blogs/creative_block/1.png)
+![lista manuscrita en una libreta con tres columnas (evitar empezar; avanzar con dificultad; producir pero insatisfacción) y ticks; estilo íntimo y realista.](/src/assets/blogs/creative_block/1.webp)
 
 ---
 
@@ -36,7 +36,7 @@ Técnica 3 — Cambio de medio (20–30 minutos): dibujá con lo que no usás no
 
 Regla útil: no juzgues lo producido en la sesión inicial; el objetivo es movimiento, no perfección.
 
-![mano dibujando thumbnail con reloj de arena al lado; estilo dinámico y cercano.](/src/assets/blogs/creative_block/2.png)
+![mano dibujando thumbnail con reloj de arena al lado; estilo dinámico y cercano.](/src/assets/blogs/creative_block/2.webp)
 
 ---
 
@@ -53,7 +53,7 @@ Estructura recomendada:
 
 Antes de entrar al bloque definí el criterio de "suficiente" para la sesión (p. ej., "tengo que tener la composición bloqueada y tres soluciones de iluminación") para evitar trabajo indefinido.
 
-![cronograma visual de una sesión de 120 minutos con bloques coloreados y objetivos breves; estilo limpio y funcional.](/src/assets/blogs/creative_block/3.png)
+![cronograma visual de una sesión de 120 minutos con bloques coloreados y objetivos breves; estilo limpio y funcional.](/src/assets/blogs/creative_block/3.webp)
 
 ---
 
@@ -73,7 +73,7 @@ Rutina semanal:
 - 1 sesión de revisión crítica con distancia (24–48 horas de pausa antes).
 - 1 microcurso o lectura técnica cada mes para romper estancamientos conceptuales.
 
-![calendario semanal con bloques marcados: bocetado, trabajo profundo, descanso y experimentación; estilo minimalista.](/src/assets/blogs/creative_block/4.png)
+![calendario semanal con bloques marcados: bocetado, trabajo profundo, descanso y experimentación; estilo minimalista.](/src/assets/blogs/creative_block/4.webp)
 
 ---
 
@@ -85,7 +85,7 @@ Sistema 1 — Plantillas de decisión: tené predefinidas 3 paletas, 3 composici
 Sistema 2 — Matriz R‑A‑D (Relevancia, Atractivo, Dificultad): puntuar rápidamente opciones para priorizar.  
 Sistema 3 — Regla del primer veredicto: si después de 3 versiones no hay diferencia clara, seleccioná la primera que pasó el filtro y avanza.
 
-![tarjetas visuales con paletas y composiciones listas para elegir; estilo práctico.](/src/assets/blogs/creative_block/5.png)
+![tarjetas visuales con paletas y composiciones listas para elegir; estilo práctico.](/src/assets/blogs/creative_block/5.webp)
 
 ---
 
@@ -101,7 +101,7 @@ Guía para pedir feedback eficaz:
 
 Tiempo ideal para recibir feedback: tras una pausa de 24–48 horas; así la percepción es más objetiva y las sugerencias son accionables.
 
-![captura de pantalla de mensaje de feedback claro con intención y 2 preguntas; estilo humano y directo.](/src/assets/blogs/creative_block/6.png)
+![captura de pantalla de mensaje de feedback claro con intención y 2 preguntas; estilo humano y directo.](/src/assets/blogs/creative_block/6.webp)
 
 ---
 
@@ -115,7 +115,7 @@ Día 5: Revisión a distancia y correcciones puntuales.
 Día 6: Producción enfocada en la pieza principal (120 minutos).  
 Día 7: Documentar proceso y planificar siguientes pasos.
 
-![calendario de 7 días con tarea por día y casillas de seguimiento; estilo funcional.](/src/assets/blogs/creative_block/7.png)
+![calendario de 7 días con tarea por día y casillas de seguimiento; estilo funcional.](/src/assets/blogs/creative_block/7.webp)
 
 ---
 
@@ -123,6 +123,6 @@ Día 7: Documentar proceso y planificar siguientes pasos.
 
 El bloqueo creativo no es un fallo moral; es un síntoma de variables concretas que se pueden diagnosticar y ajustar. Usá tácticas inmediatas para recuperar movimiento, bloques largos para profundidad y rutinas que protejan energía a mediano plazo. Implementá uno o dos cambios esta semana —microbocetos diarios y un bloque profundo protegido— y verás cómo el flujo vuelve antes de lo que pensás.
 
-! [estudio con varias hojas de bocetos, una ilustración en progreso y una taza de té; estilo cálido y realista.](/src/assets/blogs/creative_block/8.png)
+! [estudio con varias hojas de bocetos, una ilustración en progreso y una taza de té; estilo cálido y realista.](/src/assets/blogs/creative_block/8.webp)
 
 ---

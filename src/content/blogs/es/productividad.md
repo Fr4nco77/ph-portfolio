@@ -16,7 +16,7 @@ La productividad creativa no es productividad empresarial aplicada a la fuerza: 
 
 La base de cualquier sistema útil son principios claros. Primero: menor ruido, mayor foco; reduce fricción en tareas repetitivas para que la energía creativa se concentre donde importa. Segundo: límites sanos; definir tiempos para trabajo creativo, administración y descanso evita el agotamiento. Tercero: métricas pequeñas; medir esfuerzo y resultado con indicadores simples (horas productivas por semana, piezas completadas, minutos de bocetado diario) permite corregir rumbo sin burocracia.
 
-![diagrama minimalista con tres principios (Foco, Límites, Métricas) representados por íconos y breves notas; estilo editorial limpio.](/src/assets/blogs/productivity/1.png)
+![diagrama minimalista con tres principios (Foco, Límites, Métricas) representados por íconos y breves notas; estilo editorial limpio.](/src/assets/blogs/productivity/1.webp)
 
 ---
 
@@ -24,7 +24,7 @@ La base de cualquier sistema útil son principios claros. Primero: menor ruido, 
 
 Una rutina efectiva combina rituales que disparan la creatividad con bloques protegidos para producción profunda. Empieza el día con una tarea de alto impacto (por ejemplo: avanzar un proyecto pagado o resolver un bloqueo creativo) y reserva la tarde para tareas de menor exigencia cognitiva (emails, administración, edición de imágenes). Planifica la semana el domingo por la noche: tres prioridades reales para la semana, asignadas a días concretos.
 
-![vista aérea de un escritorio con planner semanal abierto, tablet mostrando calendario y una taza de café; estilo semi‑realista, luz cálida.](/src/assets/blogs/productivity/2.png)
+![vista aérea de un escritorio con planner semanal abierto, tablet mostrando calendario y una taza de café; estilo semi‑realista, luz cálida.](/src/assets/blogs/productivity/2.webp)
 
 Rutina sugerida (ejemplo):
 
@@ -42,7 +42,7 @@ Ejercicio de implementación: aplica esta rutina durante 2 semanas y registra cu
 
 Reducir indecisión acelera producción sin sacrificar calidad. Usa reglas y plantillas visuales para tomar decisiones rápidas: limitar paletas, elegir tres compases de composición, o definir una lista de microdetalles aprobados. Estas plantillas actúan como "contratos creativos" entre vos y la pieza.
 
-![tarjetas de decisión visual (paleta, composición, microdetalles) dispuestas en una mesa; estilo gráfico y funcional.](/src/assets/blogs/productivity/3.png)
+![tarjetas de decisión visual (paleta, composición, microdetalles) dispuestas en una mesa; estilo gráfico y funcional.](/src/assets/blogs/productivity/3.webp)
 
 Técnicas concretas:
 
@@ -57,7 +57,7 @@ Técnicas concretas:
 
 Las interrupciones fragmentan el flujo. Protegé tus bloques creativos con señales claras: horario visible en tu perfil, horario de "no molestar" y mensajes automáticos con tiempos de respuesta. Para clientes, proponé un proceso estándar: briefing escrito, thumbnails para dirección, 1–2 rondas de revisión incluidas y tarifas por extras. Esto reduce idas y vueltas y preserva el tiempo creativo.
 
-![notificación de calendario en pantalla mostrando bloque "No molestar: trabajo creativo" y un email con brief aprobado; estilo realista y profesional.](/src/assets/blogs/productivity/4.png)
+![notificación de calendario en pantalla mostrando bloque "No molestar: trabajo creativo" y un email con brief aprobado; estilo realista y profesional.](/src/assets/blogs/productivity/4.webp)
 
 Plantilla rápida de comunicación:
 
@@ -73,7 +73,7 @@ Plantilla rápida de comunicación:
 
 Elegí herramientas que reduzcan tareas repetitivas: plantillas de archivo, presets de exportación, acciones para redimensionar y nombrar archivos y atajos de teclado personalizados. Automatizá backups y cree una carpeta de "activo final" con versiones exportadas para web e impresión.
 
-![pantalla con tablero de herramientas (presets, acciones, atajos) y una nube de sincronización; estilo UI profesional.](/src/assets/blogs/productivity/5.png)
+![pantalla con tablero de herramientas (presets, acciones, atajos) y una nube de sincronización; estilo UI profesional.](/src/assets/blogs/productivity/5.webp)
 
 Sugerencias prácticas:
 
@@ -110,7 +110,7 @@ Semana 4 — Presentación y mejora continua
 - Día 29: Revisión de métricas simples.
 - Día 30: Ajustá la rutina según resultados y planificá el siguiente mes.
 
-![calendario mensual con tareas por día y ejemplos visuales; estilo minimalista y colorido.](/src/assets/blogs/productivity/6.png)
+![calendario mensual con tareas por día y ejemplos visuales; estilo minimalista y colorido.](/src/assets/blogs/productivity/6.webp)
 
 Ejercicios extra:
 
@@ -124,7 +124,7 @@ Ejercicios extra:
 
 Mide lo que importa: horas productivas, piezas terminadas, número de bocetos y tiempo destinado a aprendizaje. Evitá métricas vanidosas (likes) como principal indicador; usa datos que reflejen capacidad productiva y crecimiento de habilidades.
 
-![dashboard sencillo con 4 métricas gráficas (horas productivas, piezas terminadas, minutos de bocetado diario, tareas administrativas semanal); estilo infográfico claro.](/src/assets/blogs/productivity/7.png)
+![dashboard sencillo con 4 métricas gráficas (horas productivas, piezas terminadas, minutos de bocetado diario, tareas administrativas semanal); estilo infográfico claro.](/src/assets/blogs/productivity/7.webp)
 
 Sugerencia simple: lleva una hoja semanal con tres columnas: objetivo, tiempo real invertido, resultado. Revisa cada domingo y ajusta la siguiente semana.
 
@@ -134,6 +134,6 @@ Sugerencia simple: lleva una hoja semanal con tres columnas: objetivo, tiempo re
 
 La productividad para ilustradores se trata de proteger el tiempo creativo, reducir fricción administrativa y sostener prácticas que generen progreso repetible. Implementá una rutina realista, usa plantillas para decisiones visuales, automatizá lo que puedas y medí con indicadores que importen. Pequeñas mejoras consistentes producen más trabajo con menos desgaste.
 
-![estudio al atardecer con elementos de productividad visibles (planner, temporizador, tablet) y una ilustración terminada en la pantalla; estilo semi‑realista, atmósfera tranquila.](/src/assets/blogs/productivity/8.png)
+![estudio al atardecer con elementos de productividad visibles (planner, temporizador, tablet) y una ilustración terminada en la pantalla; estilo semi‑realista, atmósfera tranquila.](/src/assets/blogs/productivity/8.webp)
 
 ---

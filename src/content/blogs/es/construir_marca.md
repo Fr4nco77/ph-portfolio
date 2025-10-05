@@ -18,7 +18,7 @@ Tu voz visual nace de decisiones repetidas: paletas, tratamientos de línea, tex
 
 Comenzá por elegir temas que te apasionen y que tengan público. Luego, prueba variaciones hasta identificar una paleta y un tratamiento formal que funcionen tanto en thumbnail como en formatos grandes. Documentá esas decisiones en una hoja de estilo visual que puedas compartir con clientes y colaboradores.
 
-![tablero de muestras con 3‑4 piezas representativas, paletas y notas breves sobre decisiones visuales; estilo limpio tipo estudio.](/src/assets/blogs/branding/1.png)
+![tablero de muestras con 3‑4 piezas representativas, paletas y notas breves sobre decisiones visuales; estilo limpio tipo estudio.](/src/assets/blogs/branding/1.webp)
 
 ---
 
@@ -28,7 +28,7 @@ Una marca débil en el mercado suele ser producto de una oferta confusa. Clarifi
 
 Ofrecé paquetes simples que faciliten la decisión del cliente: por ejemplo, "Ilustración editorial (concepto + color + 2 revisiones)", "Print edición limitada (firma + certificado)", "Paquete redes (4 ilustraciones adaptadas)". Esto reduce negociaciones y mejora la percepción de profesionalismo.
 
-![tabla visual con 3 paquetes de servicios, precios orientativos y ejemplos de uso; estilo infográfico profesional.](/src/assets/blogs/branding/2.png)
+![tabla visual con 3 paquetes de servicios, precios orientativos y ejemplos de uso; estilo infográfico profesional.](/src/assets/blogs/branding/2.webp)
 
 ---
 
@@ -38,7 +38,7 @@ Un portafolio potente no es el más grande, es el más representativo. Seleccion
 
 Incluí una sección de "Trabajos destacados" con piezas que demuestren el tipo de encargo que querés repetir. Mantené una versión ligera del portafolio para consultas rápidas y otra más completa con archivos de proceso para clientes que pidan profundizar.
 
-![mockup de página de portafolio con sección destacada y galería de proceso; estilo UI minimalista.](/src/assets/blogs/branding/3.png)
+![mockup de página de portafolio con sección destacada y galería de proceso; estilo UI minimalista.](/src/assets/blogs/branding/3.webp)
 
 ---
 
@@ -47,7 +47,7 @@ Incluí una sección de "Trabajos destacados" con piezas que demuestren el tipo 
 La forma en que hablás con clientes vende tanto como tu trabajo. Resumí propuestas en frases claras, proponé alternativas y marcá límites de revisión desde el inicio. Usa una plantilla breve para presupuestos que incluya entregables, tiempos, revisiones y condiciones de uso de la imagen.
 
 Respondé con rapidez y claridad: una respuesta profesional en 24–48 horas genera confianza. Cuando el cliente solicita cambios, traducí esas solicitudes a tareas concretas y enviá una nueva versión con notas de qué se ajustó.
-![bandeja de correo con un presupuesto abierto y notas a mano; estilo realista y profesional.](/src/assets/blogs/branding/4.png)
+![bandeja de correo con un presupuesto abierto y notas a mano; estilo realista y profesional.](/src/assets/blogs/branding/4.webp)
 
 ---
 
@@ -57,7 +57,7 @@ Las redes son un canal, no la estrategia completa. Elegí 1–2 plataformas dond
 
 Crea formatos recurrentes que muestren tu criterio: series de "before/after" del proceso, carruseles que expliquen decisiones de color, o posts que documenten un día de producción. Convertí contenido en entradas de blog o newsletters para tener control sobre tu audiencia y abrir canales de venta directa.
 
-![calendario de contenidos con ideas semanales y formatos (post, carrusel, newsletter); estilo minimalista y colorido.](/src/assets/blogs/branding/5.png)
+![calendario de contenidos con ideas semanales y formatos (post, carrusel, newsletter); estilo minimalista y colorido.](/src/assets/blogs/branding/5.webp)
 
 ---
 
@@ -67,7 +67,7 @@ El trabajo recurrente llega por relaciones, no por publicidad ocasional. Identif
 
 Mantené una base de datos simple con contactos, fechas de interacción y notas sobre intereses. Revisitá esa lista periódicamente para reactivar relaciones y proponer novedades.
 
-![libreta de contactos con tarjetas y notas de interacciones; estilo cálido y humano.](/src/assets/blogs/branding/6.png)
+![libreta de contactos con tarjetas y notas de interacciones; estilo cálido y humano.](/src/assets/blogs/branding/6.webp)
 
 ---
 
@@ -77,7 +77,7 @@ Determiná precios que cubran costos y valor percibido. Para cada tipo de uso (r
 
 Considerá tarifas base y cargos adicionales por revisiones extra, urgencias o cesión amplia de derechos. Una política clara reduce malentendidos y facilita negociaciones.
 
-![hoja con tarifas y ejemplos de usos y precios; estilo profesional y ordenado.](/src/assets/blogs/branding/7.png)
+![hoja con tarifas y ejemplos de usos y precios; estilo profesional y ordenado.](/src/assets/blogs/branding/7.webp)
 
 ---
 
@@ -87,7 +87,7 @@ La marca se alimenta del trabajo constante. Fijá una rutina que combine producc
 
 Programá tiempo para aprendizaje continuo: un microcurso cada trimestre, experimentos mensuales y revisión de portafolio cada seis meses.
 
-![calendario mensual con bloques de trabajo para comisiones, experimentación y estudio; estilo limpio y funcional.](/src/assets/blogs/branding/8.png)
+![calendario mensual con bloques de trabajo para comisiones, experimentación y estudio; estilo limpio y funcional.](/src/assets/blogs/branding/8.webp)
 
 ---
 
@@ -97,7 +97,7 @@ Usá datos simples para tomar decisiones: qué piezas generan más consultas, qu
 
 Documentá procesos repetibles (preparar archivo, empaquetado, comunicación postventa) para poder delegar sin perder calidad.
 
-![dashboard sencillo con métricas clave (consultas mensuales, conversiones, ingresos por canal); estilo infográfico.](/src/assets/blogs/branding/9.png)
+![dashboard sencillo con métricas clave (consultas mensuales, conversiones, ingresos por canal); estilo infográfico.](/src/assets/blogs/branding/9.webp)
 
 ---
 
@@ -105,6 +105,6 @@ Documentá procesos repetibles (preparar archivo, empaquetado, comunicación pos
 
 Construir una marca como ilustrador es una mezcla de criterio visual, disciplina comercial y relaciones bien gestionadas. No se trata de volverse viral de la noche a la mañana, sino de tomar decisiones coherentes y repetibles que produzcan credibilidad y oportunidades. Aplicá los pasos de esta guía con paciencia y enfoque: la suma de iteraciones conscientes es lo que convierte a un artista en un referente.
 
-![composición final que muestre estudio, packaging de venta, mockup web y una pieza enmarcada; estilo semi‑realista, atmósfera profesional.](/src/assets/blogs/branding/10.png)
+![composición final que muestre estudio, packaging de venta, mockup web y una pieza enmarcada; estilo semi‑realista, atmósfera profesional.](/src/assets/blogs/branding/10.webp)
 
 ---

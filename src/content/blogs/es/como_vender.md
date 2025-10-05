@@ -16,7 +16,7 @@ Vender prints es una de las rutas más sostenibles para convertir trabajo person
 
 Vender prints te permite separar piezas destinadas a exposición de piezas destinadas a mercado, ampliar tu audiencia y crear una fuente de ingresos pasiva si trabajás bien la producción y la distribución. Además, los prints son una excelente forma de validar estilo y temas: si una serie se vende, tienes evidencia real de qué funciona en el mercado.
 
-![tabla visual comparativa: obra original vs print vendido enmarcado en distintos contextos (salón, oficina, regalo); estilo fotográfico con composición editorial.](/src/assets/blogs/sell/1.png)
+![tabla visual comparativa: obra original vs print vendido enmarcado en distintos contextos (salón, oficina, regalo); estilo fotográfico con composición editorial.](/src/assets/blogs/sell/1.webp)
 
 ---
 
@@ -33,7 +33,7 @@ Lista mínima de verificación antes de imprimir:
 - Conversión y prueba de color según el proveedor (CMYK o perfil ICC).
 - Márgenes y zonas seguras marcadas si el diseño tiene elementos cercanos al borde.
 
-![captura de pantalla de archivo PSD con guías de sangrado y capas nombradas; estilo realista y profesional.](/src/assets/blogs/sell/2.png)
+![captura de pantalla de archivo PSD con guías de sangrado y capas nombradas; estilo realista y profesional.](/src/assets/blogs/sell/2.webp)
 
 ---
 
@@ -50,7 +50,7 @@ Tabla de opciones rápidas:
 - Mate de alta gramaje — versátil y económico.
 - Satinado/brillante — colores más vivos, menos táctilidad.
 
-![muestras de papel con etiquetas (cotton rag, cold‑press, mate, satinado) y close‑ups de textura; estilo editorial, iluminación suave.](/src/assets/blogs/sell/3.png)
+![muestras de papel con etiquetas (cotton rag, cold‑press, mate, satinado) y close‑ups de textura; estilo editorial, iluminación suave.](/src/assets/blogs/sell/3.webp)
 
 ---
 
@@ -67,7 +67,7 @@ Recomendación de catálogo:
 - Large (30×40 cm)
 - XL (50×70 cm)
 
-![mockup con los cuatro tamaños enmarcados sobre pared neutra; estilo fotografía de interiores.](/src/assets/blogs/sell/4.png)
+![mockup con los cuatro tamaños enmarcados sobre pared neutra; estilo fotografía de interiores.](/src/assets/blogs/sell/4.webp)
 
 ---
 
@@ -80,7 +80,7 @@ Precio sugerido = (Costo de producción + Costos de empaquetado + Costos de env�
 
 Calculá el costo por unidad (impresión, papel, tinta), sumale materiales (sobre, protector, cinta, tarjeta), incluí el tiempo personal (un valor por hora multiplicado por horas de preparación), y agregá la comisión de la plataforma de venta y gastos de envío promedio. Fijá un margen mínimo para cubrir reinversión y ganancias (por ejemplo 30–50%).
 
-![hoja con cálculo impreso mostrando desglose de costos y fórmula; estilo realista y profesional.](/src/assets/blogs/sell/5.png)
+![hoja con cálculo impreso mostrando desglose de costos y fórmula; estilo realista y profesional.](/src/assets/blogs/sell/5.webp)
 
 ---
 
@@ -97,7 +97,7 @@ Lista de elementos para incluir en cada envío:
 - Carta o tarjeta con firma y número de edición.
 - Opcional: sticker de marca o mini‑print de regalo.
 
-![escena de empaquetado con manos colocando print en sleeve y caja personalizada; estilo fotográfico cálido.](/src/assets/blogs/sell/6.png)
+![escena de empaquetado con manos colocando print en sleeve y caja personalizada; estilo fotográfico cálido.](/src/assets/blogs/sell/6.webp)
 
 ---
 
@@ -114,7 +114,7 @@ Checklist fotográfico:
 - Contextual: el print en una pared realista.
 - Mockups: variantes de enmarcado y tamaños.
 
-![set fotográfico con print sobre pared, close‑up y mockup en pantalla; estilo comercial.](/src/assets/blogs/sell/7.png)
+![set fotográfico con print sobre pared, close‑up y mockup en pantalla; estilo comercial.](/src/assets/blogs/sell/7.webp)
 
 ---
 
@@ -130,7 +130,7 @@ Estrategia sugerida:
 - Escala: incorpora ferias trimestrales y acuerdos con 2 tiendas locales.
 - Fidelización: lista de correo con lanzamientos y descuentos exclusivos.
 
-![diagrama multicanal con tienda propia, marketplace y puntos físicos conectados; estilo infográfico limpio.](/src/assets/blogs/sell/8.png)
+![diagrama multicanal con tienda propia, marketplace y puntos físicos conectados; estilo infográfico limpio.](/src/assets/blogs/sell/8.webp)
 
 ---
 
@@ -147,7 +147,7 @@ Lista de control logística:
 - Seguro para envíos de alto valor.
 - Política de devoluciones escrita y visible.
 
-![paquete listo para envío con etiqueta, cinta y documentación; estilo fotográfico profesional.](/src/assets/blogs/sell/9.png)
+![paquete listo para envío con etiqueta, cinta y documentación; estilo fotográfico profesional.](/src/assets/blogs/sell/9.webp)
 
 ---
 
@@ -164,7 +164,7 @@ Calendario de lanzamiento básico:
 - Día del lanzamiento: abrir tienda + live o post principal.
 - 1 semana después: repost de compradores y reviews.
 
-![calendario de lanzamiento con fechas clave y ejemplos de posts; estilo UI editorial.](/src/assets/blogs/sell/10.png)
+![calendario de lanzamiento con fechas clave y ejemplos de posts; estilo UI editorial.](/src/assets/blogs/sell/10.webp)
 
 ---
 
@@ -180,7 +180,7 @@ Acciones de fidelización:
 - Programa de referidos con código compartible.
 - Envío de cuidado y conservación con cada compra.
 
-![mensaje de agradecimiento impreso en tarjeta junto a print y sello; estilo cálido y personal.](/src/assets/blogs/sell/11.png)
+![mensaje de agradecimiento impreso en tarjeta junto a print y sello; estilo cálido y personal.](/src/assets/blogs/sell/11.webp)
 
 ---
 
@@ -197,7 +197,7 @@ Checklist para escalar:
 - Automatización de confirmaciones y tracking.
 - Control de calidad aleatorio post‑impresión.
 
-![dossier impreso con especificaciones y muestras, sobre mesa de trabajo; estilo profesional.](/src/assets/blogs/sell/12.png)
+![dossier impreso con especificaciones y muestras, sobre mesa de trabajo; estilo profesional.](/src/assets/blogs/sell/12.webp)
 
 ---
 
@@ -205,6 +205,6 @@ Checklist para escalar:
 
 Vender prints es una mezcla de artesanía y sistemas. La excelencia en archivo y material, sumada a una presentación cuidadosa y una estrategia multicanal, convierte una ilustración en un producto vendible y memorable. Empieza con tiradas pequeñas, cuidá la experiencia de compra y documentá cada paso para escalar con criterio.
 
-![colección de prints apilados con etiquetas y caja de envío personalizada; estilo fotográfico cálido y profesional.](/src/assets/blogs/sell/13.png)
+![colección de prints apilados con etiquetas y caja de envío personalizada; estilo fotográfico cálido y profesional.](/src/assets/blogs/sell/13.webp)
 
 ---

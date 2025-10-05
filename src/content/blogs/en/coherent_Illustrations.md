@@ -16,7 +16,7 @@ Creating an illustration series that works as a unified whole requires more than
 
 Every effective series starts with a core idea that acts as a guiding thread. This idea can be thematic (memory, migration, domestic utopias), formal (mixed media, limited palette), or narrative (recurring characters or a temporal sequence). Define your intent in a clear sentence: that sentence will be your filter to accept or reject pieces throughout the process.
 
-![conceptual moodboard with keywords, photo references, and handwritten notes; editorial collage style.](/src/assets/blogs/coherent/1.png)
+![conceptual moodboard with keywords, photo references, and handwritten notes; editorial collage style.](/src/assets/blogs/coherent/1.webp)
 
 ---
 
@@ -24,7 +24,7 @@ Every effective series starts with a core idea that acts as a guiding thread. Th
 
 To make the series read as a cohesive set, establish formal rules to maintain throughout the project: format and orientation of pieces, main palette, line or texture treatment, and levels of detail. These rules shouldn’t stifle creativity but provide boundaries that allow coherent variation.
 
-![visual spec sheet with format, 4–5 color palette, and texture examples; clean studio-style layout.](/src/assets/blogs/coherent/2.png)
+![visual spec sheet with format, 4–5 color palette, and texture examples; clean studio-style layout.](/src/assets/blogs/coherent/2.webp)
 
 ---
 
@@ -32,7 +32,7 @@ To make the series read as a cohesive set, establish formal rules to maintain th
 
 Plan how many pieces will make up the series and in what timeframe. The decision should balance ambition with realistic production capacity. Work in blocks: ideation (thumbnails), fast execution (shape and color blocking), refinement (details and textures), and review. Reserve buffer time for external feedback and print or mounting tests.
 
-![visual timeline with phases and time per piece; infographic style.](/src/assets/blogs/coherent/3.png)
+![visual timeline with phases and time per piece; infographic style.](/src/assets/blogs/coherent/3.webp)
 
 ---
 
@@ -40,7 +40,7 @@ Plan how many pieces will make up the series and in what timeframe. The decision
 
 A rich collection alternates rhythms: more complex pieces alongside quieter ones, scale variations, and shifts in focal points to maintain interest. Design 2–3 internal “patterns” (e.g., close-up portraits, wide scenes, abstract pieces) that interact and ensure controlled diversity.
 
-![three mini-mockups showing proposed variations (close-up, wide, abstract); editorial style.](/src/assets/blogs/coherent/4.png)
+![three mini-mockups showing proposed variations (close-up, wide, abstract); editorial style.](/src/assets/blogs/coherent/4.webp)
 
 ---
 
@@ -48,7 +48,7 @@ A rich collection alternates rhythms: more complex pieces alongside quieter ones
 
 Before finalizing, validate how the pieces read at different scales. Stepping back reveals if hierarchy works; reducing to thumbnail checks legibility for social media and catalogs. Adjust contrast, silhouettes, and focal points as needed to maintain coherence both in gallery and online.
 
-![same illustration shown in three sizes (full screen, distant wall view, thumbnail) with legibility notes; instructional style.](/src/assets/blogs/coherent/5.png)
+![same illustration shown in three sizes (full screen, distant wall view, thumbnail) with legibility notes; instructional style.](/src/assets/blogs/coherent/5.webp)
 
 ---
 
@@ -56,7 +56,7 @@ Before finalizing, validate how the pieces read at different scales. Stepping ba
 
 Documenting the process (sketches, palettes, tests) enriches the presentation and helps the audience and buyers understand the creative journey. Select 3–5 process pieces per artwork to include in the physical exhibition or digital catalog.
 
-![process gallery with sketch, color study, and final version of a piece; mixed style.](/src/assets/blogs/coherent/6.png)
+![process gallery with sketch, color study, and final version of a piece; mixed style.](/src/assets/blogs/coherent/6.webp)
 
 ---
 
@@ -64,7 +64,7 @@ Documenting the process (sketches, palettes, tests) enriches the presentation an
 
 If the series will be exhibited physically, test materials and finishes. Not all papers, canvases, or prints convey the same as on screen. Run tests for color and texture, check how inks or pigments react, and choose based on aesthetic intent and budget.
 
-![print tests on different papers with texture close-ups; professional photographic style.](/src/assets/blogs/coherent/7.png)
+![print tests on different papers with texture close-ups; professional photographic style.](/src/assets/blogs/coherent/7.webp)
 
 ---
 
@@ -72,7 +72,7 @@ If the series will be exhibited physically, test materials and finishes. Not all
 
 The setup defines the collective reading. Decide the relationship between pieces: regular spacing for a neutral rhythm or clusters and focal points to create narratives within the space. Consider lighting that respects the palette and contrasts; avoid glare if using glass. Accompany the exhibition with brief texts that contextualize the series without overexplaining.
 
-![gallery layout plan with artwork distribution and lighting notes; minimalist architectural style.](/src/assets/blogs/coherent/8.png)
+![gallery layout plan with artwork distribution and lighting notes; minimalist architectural style.](/src/assets/blogs/coherent/8.webp)
 
 ---
 
@@ -80,7 +80,7 @@ The setup defines the collective reading. Decide the relationship between pieces
 
 Plan communication before, during, and after the exhibition. Create a catalog (printed or digital) that includes high-resolution images, process notes, and the sentence that defines the core idea. Prepare materials for press and social media: optimized images, thoughtful captions, and a clear press release.
 
-![catalog mockup with cover, index, and process page; elegant editorial style.](/src/assets/blogs/coherent/9.png)
+![catalog mockup with cover, index, and process page; elegant editorial style.](/src/assets/blogs/coherent/9.webp)
 
 ---
 
@@ -88,7 +88,7 @@ Plan communication before, during, and after the exhibition. Create a catalog (p
 
 If you plan to sell the series, define conditions: limited edition, price per piece, and whether you include a certificate of authenticity. Document interested contacts and maintain post-show communication with buyers and galleries. Offer framing and shipping options to facilitate purchases.
 
-![artwork sales sheet with title, size, technique, and price; professional and organized style.](/src/assets/blogs/coherent/10.png)
+![artwork sales sheet with title, size, technique, and price; professional and organized style.](/src/assets/blogs/coherent/10.webp)
 
 ---
 
@@ -96,7 +96,7 @@ If you plan to sell the series, define conditions: limited edition, price per pi
 
 At the end of the exhibition, gather data and reflections: which pieces resonated most with the audience, which channels brought visitors, and which processes were inefficient. This evaluation will guide your next collection and help optimize time, materials, and communication.
 
-![evaluation board with metrics, notes, and gallery photos; workshop style.](/src/assets/blogs/coherent/11.png)
+![evaluation board with metrics, notes, and gallery photos; workshop style.](/src/assets/blogs/coherent/11.webp)
 
 ---
 
@@ -104,6 +104,6 @@ At the end of the exhibition, gather data and reflections: which pieces resonate
 
 Designing a cohesive series is an exercise in creative restraint and strategic planning. Limiting some decisions to enhance others, testing readability at different scales, and documenting the process turns a collection into an integral experience for the public and a valuable asset for your career. Start with a sentence that summarizes your intent and let it guide every choice until the final setup.
 
-![panoramic view of the gallery with the full series hung and visitors interacting; semi-realistic style, contemplative atmosphere.](/src/assets/blogs/coherent/12.png)
+![panoramic view of the gallery with the full series hung and visitors interacting; semi-realistic style, contemplative atmosphere.](/src/assets/blogs/coherent/12.webp)
 
 ---

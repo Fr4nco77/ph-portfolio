@@ -23,7 +23,7 @@ Technique can be taught, talent can be developed, but without a process, product
 
 Having a process doesn’t limit creativity; it sustains it. It allows decisions to be intentional rather than reactive, and makes it possible to replicate excellent results without relying solely on momentary inspiration.
 
-![visual diagram of the creative process in four phases (inspiration, sketch, production, publication) with minimalist icons and work samples; modern editorial style, neutral colors with accents.](/src/assets/blogs/process_creative/1.png)
+![visual diagram of the creative process in four phases (inspiration, sketch, production, publication) with minimalist icons and work samples; modern editorial style, neutral colors with accents.](/src/assets/blogs/process_creative/1.webp)
 
 ---
 
@@ -39,7 +39,7 @@ Dedicate short, regular sessions to feed your reference bank. Look with intentio
 - Day 4: identify patterns; choose 3 recurring themes.
 - Days 5–7: create 3 quick moodboards, one per theme.
 
-![inspiration collages with photos, clippings, palettes, and handwritten notes; mixed editorial collage style, visible textures.](/src/assets/blogs/process_creative/2.png)
+![inspiration collages with photos, clippings, palettes, and handwritten notes; mixed editorial collage style, visible textures.](/src/assets/blogs/process_creative/2.webp)
 
 ---
 
@@ -56,7 +56,7 @@ Quick Criteria List for Choosing a Guide Sketch:
 3. Narrative potential with micro-details.
 4. Versatility for color or style changes.
 
-![open notebook with a grid of quick thumbnails, one marked with a red circle; graphic style, textured paper and loose strokes.](/src/assets/blogs/process_creative/3.png)
+![open notebook with a grid of quick thumbnails, one marked with a red circle; graphic style, textured paper and loose strokes.](/src/assets/blogs/process_creative/3.webp)
 
 ---
 
@@ -72,7 +72,7 @@ Functional Palette Checklist:
 - Enough contrast for thumbnail readability.
 - One color for shadows or atmosphere to unify.
 
-![color board with swatches, notes on sensations associated with each swatch, and sketch thumbnail applied to each palette; clean style, studio-like design.](/src/assets/blogs/process_creative/4.png)
+![color board with swatches, notes on sensations associated with each swatch, and sketch thumbnail applied to each palette; clean style, studio-like design.](/src/assets/blogs/process_creative/4.webp)
 
 ---
 
@@ -91,7 +91,7 @@ Recommended Workflow:
 - Narrative micro-details.
 - Readability review at scale.
 
-![illustration software screen showing layers and steps, drawing tablet and hand on stylus; realistic style with studio lighting.](/src/assets/blogs/process_creative/5.png)
+![illustration software screen showing layers and steps, drawing tablet and hand on stylus; realistic style with studio lighting.](/src/assets/blogs/process_creative/5.webp)
 
 ---
 
@@ -109,7 +109,7 @@ List of 5 efficient microdetails:
 - A handmade texture that contrasts with smooth areas.
 - A scale element to amplify the sense of space.
 
-![close-up of an illustration showing textures and small narrative elements; mixed high-resolution style.](/src/assets/blogs/process_creative/6.png)
+![close-up of an illustration showing textures and small narrative elements; mixed high-resolution style.](/src/assets/blogs/process_creative/6.webp)
 
 ---
 
@@ -124,7 +124,7 @@ Quick feedback template:
 - Confusing element:
 - Concrete suggestion:
 
-![person taking notes in front of a screen with the illustration; collaborative warm human style.](/src/assets/blogs/process_creative/7.png)
+![person taking notes in front of a screen with the illustration; collaborative warm human style.](/src/assets/blogs/process_creative/7.webp)
 
 ---
 
@@ -140,7 +140,7 @@ List of elements for each portfolio entry:
 - Intent text and challenges.
 - Contextual mockup when applicable.
 
-![web portfolio mockup with process gallery and notes, elegant minimalist UI style.](/src/assets/blogs/process_creative/8.png)
+![web portfolio mockup with process gallery and notes, elegant minimalist UI style.](/src/assets/blogs/process_creative/8.webp)
 
 ---
 
@@ -155,7 +155,7 @@ Suggested weekly routine:
 - Friday: focused production (2-hour block).
 - Sunday: review and organize files (30 minutes).
 
-![creative weekly calendar with time blocks and stickers, minimalist colorful style.](/src/assets/blogs/process_creative/9.png)
+![creative weekly calendar with time blocks and stickers, minimalist colorful style.](/src/assets/blogs/process_creative/9.webp)
 
 ---
 
@@ -183,7 +183,7 @@ Suggested weekly routine:
 20. List ideal clients and adapt one piece for them.
 21. Teach your process on social with a thread or carousel.
 
-![visual checklist with the 21 actions in attractive design; editorial style, contrasting colors.](/src/assets/blogs/process_creative/10.png)
+![visual checklist with the 21 actions in attractive design; editorial style, contrasting colors.](/src/assets/blogs/process_creative/10.webp)
 
 ---
 
@@ -191,6 +191,6 @@ Suggested weekly routine:
 
 A robust, deliberate creative process doesn't cancel surprise or intuition; it magnifies them. It gives you tools to repeat excellence, to communicate your intent clearly and to build a portfolio that shows not only skills but judgment. Apply the routines, exercises and lists from this article one by one, and in a few weeks you'll see your work gain consistency and voice.
 
-![illustrator's studio with the finished piece in the center, tools around and a window with late afternoon light; semi-realistic contemplative atmosphere.](/src/assets/blogs/process_creative/11.png)
+![illustrator's studio with the finished piece in the center, tools around and a window with late afternoon light; semi-realistic contemplative atmosphere.](/src/assets/blogs/process_creative/11.webp)
 
 ---

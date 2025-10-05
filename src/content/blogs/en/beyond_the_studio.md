@@ -16,7 +16,7 @@ Many illustrators limit themselves to commissions and portfolios when, in realit
 
 Opening your practice to "other" projects has three clear effects: diversifies income, expands your audience, and nurtures your creative voice. Alternative projects work as labs to test techniques, themes, and formats without the pressure of a commission. Plus, many interesting opportunities arise at the intersection with other sectors — gastronomy, tourism, education, product design — and become recurring commissions when the artist shows vision and commitment.
 
-![collage of alternative projects: plaza workshop, printed zine, sticker series in a shop window, and a small mural installation; editorial style, warm colors.](/src/assets/blogs/beyond/1.png)
+![collage of alternative projects: plaza workshop, printed zine, sticker series in a shop window, and a small mural installation; editorial style, warm colors.](/src/assets/blogs/beyond/1.webp)
 
 ---
 
@@ -36,7 +36,7 @@ Here are six formats with high impact potential and practical viability. Each in
 
 6. Educational and collaborative projects: short residencies, co-creations with schools or cultural programs. Why it works: institutional funding and community reach. First step: write a brief proposal (goal, audience, materials) and send it to 3 cultural centers.
 
-![board with mini-cards for the six projects, each card with title, benefit, and first step; infographic style.](/src/assets/blogs/beyond/2.png)
+![board with mini-cards for the six projects, each card with title, benefit, and first step; infographic style.](/src/assets/blogs/beyond/2.webp)
 
 ---
 
@@ -46,7 +46,7 @@ Not all ideas work everywhere. Choose projects that align with your environment,
 
 Quick exercise: list 5 ideas; rate them 1–10 in impact, cost, and affinity; choose the one with the best balance and design a 3-step plan for the first month.
 
-![evaluation sheet with columns Impact; Cost; Affinity and annotated examples; practical style.](/src/assets/blogs/beyond/3.png)
+![evaluation sheet with columns Impact; Cost; Affinity and annotated examples; practical style.](/src/assets/blogs/beyond/3.webp)
 
 ---
 
@@ -74,7 +74,7 @@ Week 4 — Measure and Scale:
 - Days 22–24: gather simple metrics (attendees, sales, leads).
 - Days 25–30: improvement plan and next steps: edit, repeat, or scale.
 
-![30-day calendar with weekly milestones and visual examples; minimalist style.](/src/assets/blogs/beyond/4.png)
+![30-day calendar with weekly milestones and visual examples; minimalist style.](/src/assets/blogs/beyond/4.webp)
 
 ---
 
@@ -84,7 +84,7 @@ Presentation makes the difference. Create a brief proposal that answers: what is
 
 One-line pitch template: "I propose [activity] at [place] for [audience] during [duration]; I offer [visibility/products/workshop] and need [space/funding/logistics]."
 
-![example of short pitch email with attached mockup, professional style.](/src/assets/blogs/beyond/5.png)
+![example of short pitch email with attached mockup, professional style.](/src/assets/blogs/beyond/5.webp)
 
 ---
 
@@ -99,7 +99,7 @@ Brief mitigation checklist:
 - Time and budget contingency.
 - Early and measurable feedback.
 
-![icons representing risk and mitigations (clock, contract, checklist); educational style.](/src/assets/blogs/beyond/6.png)
+![icons representing risk and mitigations (clock, contract, checklist); educational style.](/src/assets/blogs/beyond/6.webp)
 
 ---
 
@@ -107,6 +107,6 @@ Brief mitigation checklist:
 
 Exploring "Other" projects is a strategic way to grow your illustration practice: diversifies income, expands networks, and gives you space to experiment. Choose an idea you can validate quickly, prototype a minimum viable version, and launch with a clear proposal. If you want, tell me your context (city, available time, resources) and I’ll create a 30-day plan tailored to your reality.
 
-![pop-up scene with people buying prints, workshop in progress, and a small mural; semi-realistic style, warm light, and community vibe.](/src/assets/blogs/beyond/7.png)
+![pop-up scene with people buying prints, workshop in progress, and a small mural; semi-realistic style, warm light, and community vibe.](/src/assets/blogs/beyond/7.webp)
 
 ---

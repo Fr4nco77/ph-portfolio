@@ -16,7 +16,7 @@ Color is the most direct tool to manipulate the viewer's emotion, guide their ga
 
 Color is not just aesthetics; it's visual semantics. A red can suggest warmth, danger, or passion depending on context and surrounding contrasts. Choosing a palette without purpose is like writing without tone: the piece can be beautiful but hard to read. When color responds to an intention — emotional, narrative, or practical — the illustration communicates precisely and gains consistency across a portfolio or series.
 
-![comparative table with three identical mini-illustrations applied to emotionally different palettes (warm, cool, high-contrast); editorial style, light colors and visible labels.](/src/assets/blogs/color/1.png)
+![comparative table with three identical mini-illustrations applied to emotionally different palettes (warm, cool, high-contrast); editorial style, light colors and visible labels.](/src/assets/blogs/color/1.webp)
 
 ---
 
@@ -30,7 +30,7 @@ Color is not just aesthetics; it's visual semantics. A red can suggest warmth, d
 
 If you seek nostalgia, start from a warm, muted base; if you seek tension, play with strong contrasts and a saturated accent. An anchor color gives identity, but without functional contrast the illustration can lose clarity in thumbnails or real applications.
 
-![vertical palette with 5 swatches; each swatch has a short note (e.g., "anchor: warm ochre", "support: blue-gray", "accent: saturated magenta"); clean studio design style.](/src/assets/blogs/color/2.jpeg)
+![vertical palette with 5 swatches; each swatch has a short note (e.g., "anchor: warm ochre", "support: blue-gray", "accent: saturated magenta"); clean studio design style.](/src/assets/blogs/color/2.webp)
 
 ---
 
@@ -44,7 +44,7 @@ Not all contrasts aim for beauty: many aim for legibility. Distinguish between:
 
 Always test your composition at thumbnail scale and at real scale. A palette with low value contrast can lose the focal point when reduced to thumbnails; a palette optimized for print can oversaturate on screen if you don't control profiles.
 
-![same illustration reproduced in three sizes (thumbnail, screen, print) with notes on legibility; instructive clear style.](/src/assets/blogs/color/3.jpeg)
+![same illustration reproduced in three sizes (thumbnail, screen, print) with notes on legibility; instructive clear style.](/src/assets/blogs/color/3.webp)
 
 ---
 
@@ -54,7 +54,7 @@ Color gains personality when it interacts with textures and materials. A surface
 
 Decide from the start whether you want a "handmade" or "clean" reading. If you choose handmade, incorporate one or two texture maps (paper, dry brush, noise) and treat these maps as separate layers that affect saturation and brightness. If you choose clean, use subtle gradients and saturation variations to avoid flat surfaces.
 
-![side-by-side comparison of the same composition with handmade textures and clean treatment; mixed style, high texture detail.](/src/assets/blogs/color/4.jpeg)
+![side-by-side comparison of the same composition with handmade textures and clean treatment; mixed style, high texture detail.](/src/assets/blogs/color/4.webp)
 
 ---
 
@@ -68,7 +68,7 @@ Here are five palettes applied to different objectives. For each I include a bri
 - Modern tension: neutral gray base, cool cyan support, saturated orange accent; perfect for technology and critical themes.
 - Minimal functional: charcoal black base, warm gray support, fluorescent yellow accent; recommended for infographics and strong visual signage.
 
-![five horizontal palette cards with mini-application mockup (e.g., cover or reduced poster) and brief note; editorial UI style.](/src/assets/blogs/color/5.jpeg)
+![five horizontal palette cards with mini-application mockup (e.g., cover or reduced poster) and brief note; editorial UI style.](/src/assets/blogs/color/5.webp)
 
 ---
 
@@ -80,7 +80,7 @@ Training color sensitivity requires deliberate practice. Here are three exercise
 2. 2-hour exercise — Restricted palette: remake an illustration using only 3 colors + neutrals; observe how hierarchy and narrative change.
 3. Monthly exercise — Limited series: produce 3 pieces with the same palette to explore coherence and creative limits.
 
-![board with the three exercises described, showing examples of mini-results; creative workshop style.](/src/assets/blogs/color/6.jpeg)
+![board with the three exercises described, showing examples of mini-results; creative workshop style.](/src/assets/blogs/color/6.webp)
 
 ---
 
@@ -92,7 +92,7 @@ Avoiding frequent mistakes accelerates learning. Here are three errors and their
 - Error: ignoring scale tests → Solution: always validate in thumbnail and in final-use mockup.
 - Error: choosing colors by trend without narrative coherence → Solution: define the emotion before choosing the anchor color.
 
-![illustration with three warning icons and visual examples of each error; didactic clear style.](/src/assets/blogs/color/7.jpeg)
+![illustration with three warning icons and visual examples of each error; didactic clear style.](/src/assets/blogs/color/7.webp)
 
 ---
 

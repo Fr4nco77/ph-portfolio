@@ -23,7 +23,7 @@ La técnica puede enseñarse, el talento puede desarrollarse, pero sin un proces
 
 Tener un proceso no limita la creatividad; la sostiene. Permite que las decisiones sean intencionales en lugar de reactivas, y hace posible replicar resultados excelentes sin depender exclusivamente de la inspiración del momento.
 
-![diagrama visual del proceso creativo en cuatro fases (inspiración, boceto, producción, publicación) con iconos minimalistas y muestras de trabajo; estilo editorial moderno, colores neutros con acentos.](/src/assets/blogs/process_creative/1.png)
+![diagrama visual del proceso creativo en cuatro fases (inspiración, boceto, producción, publicación) con iconos minimalistas y muestras de trabajo; estilo editorial moderno, colores neutros con acentos.](/src/assets/blogs/process_creative/1.webp)
 
 ---
 
@@ -39,7 +39,7 @@ Ejercicio de 7 días:
 - Día 4: identifica patrones; elige 3 temas recurrentes.
 - Día 5 a 7: crea 3 moodboards rápidos, uno por cada tema.
 
-![collages de inspiración con fotos, recortes, paletas y notas a mano; estilo mixto collage editorial, texturas visibles.](/src/assets/blogs/process_creative/2.png)
+![collages de inspiración con fotos, recortes, paletas y notas a mano; estilo mixto collage editorial, texturas visibles.](/src/assets/blogs/process_creative/2.webp)
 
 ---
 
@@ -56,7 +56,7 @@ Lista de criterios rápidos para elegir un boceto guía:
 3. Potencial narrativo con microdetalles.
 4. Versatilidad para cambios de color o estilo.
 
-![cuaderno abierto con una cuadrícula de thumbnails rápidos, uno marcado con un círculo rojo; estilo gráfico, papel texturado y trazo suelto.](/src/assets/blogs/process_creative/3.png)
+![cuaderno abierto con una cuadrícula de thumbnails rápidos, uno marcado con un círculo rojo; estilo gráfico, papel texturado y trazo suelto.](/src/assets/blogs/process_creative/3.webp)
 
 ---
 
@@ -72,7 +72,7 @@ Checklist para paleta funcional:
 - Contraste suficiente para lectura en miniaturas.
 - Un color para sombras o atmósfera que unifique.
 
-![tablero de color con swatches, notas sobre sensaciones asociadas a cada swatch y miniatura del boceto aplicada a cada paleta; estilo limpio, diseño tipo estudio.](/src/assets/blogs/process_creative/4.png)
+![tablero de color con swatches, notas sobre sensaciones asociadas a cada swatch y miniatura del boceto aplicada a cada paleta; estilo limpio, diseño tipo estudio.](/src/assets/blogs/process_creative/4.webp)
 
 ---
 
@@ -91,7 +91,7 @@ Flujo de trabajo recomendado:
 - Microdetalles narrativos.
 - Revisión de legibilidad a escala.
 
-![pantalla con software de ilustración mostrando capas y pasos, tablet gráfica y mano sobre el lápiz; estilo realista con iluminación de estudio.](/src/assets/blogs/process_creative/5.png)
+![pantalla con software de ilustración mostrando capas y pasos, tablet gráfica y mano sobre el lápiz; estilo realista con iluminación de estudio.](/src/assets/blogs/process_creative/5.webp)
 
 ---
 
@@ -109,7 +109,7 @@ Lista de 5 microdetalles eficientes:
 - Una textura manual que contraste con áreas lisas.
 - Un elemento de escala para ampliar la sensación de espacio.
 
-![primer plano de una ilustración mostrando texturas y pequeños elementos narrativos; estilo mixto alta resolución.](/src/assets/blogs/process_creative/6.png)
+![primer plano de una ilustración mostrando texturas y pequeños elementos narrativos; estilo mixto alta resolución.](/src/assets/blogs/process_creative/6.webp)
 
 ---
 
@@ -124,7 +124,7 @@ Plantilla rápida para feedback:
 - Elemento confuso:
 - Sugerencia concreta:
 
-![persona tomando notas frente a una pantalla con la ilustración; ambiente colaborativo, estilo humano y cálido.](/src/assets/blogs/process_creative/7.png)
+![persona tomando notas frente a una pantalla con la ilustración; ambiente colaborativo, estilo humano y cálido.](/src/assets/blogs/process_creative/7.webp)
 
 ---
 
@@ -140,7 +140,7 @@ Lista de elementos para cada entrada de portafolio:
 - Texto de intención y desafíos.
 - Mockup contextual cuando aplique.
 
-![mockup web de portfolio con galería de proceso y notas, estilo UI elegante minimalista.](/src/assets/blogs/process_creative/8.png)
+![mockup web de portfolio con galería de proceso y notas, estilo UI elegante minimalista.](/src/assets/blogs/process_creative/8.webp)
 
 ---
 
@@ -155,7 +155,7 @@ Rutina semanal sugerida:
 - Viernes: producción enfocada (bloque de 2 horas).
 - Domingo: revisión y organización del archivo (30 minutos).
 
-![calendario semanal creativo con bloques de tiempo y stickers, estilo minimalista y colorido.](/src/assets/blogs/process_creative/9.png)
+![calendario semanal creativo con bloques de tiempo y stickers, estilo minimalista y colorido.](/src/assets/blogs/process_creative/9.webp)
 
 ---
 
@@ -183,7 +183,7 @@ Rutina semanal sugerida:
 20. Haz un listado de clientes ideales y adapta 1 pieza para ellos.
 21. Enseña tu proceso en redes con un hilo o carrusel.
 
-![checklist visual con las 21 acciones en diseño atractivo; estilo editorial, colores contrastantes.](/src/assets/blogs/process_creative/10.png)
+![checklist visual con las 21 acciones en diseño atractivo; estilo editorial, colores contrastantes.](/src/assets/blogs/process_creative/10.webp)
 
 ---
 
@@ -191,6 +191,6 @@ Rutina semanal sugerida:
 
 Un proceso creativo robusto y deliberado no anula la sorpresa ni la intuición; las magnifica. Te da herramientas para repetir excelencia, para comunicar tu intención con claridad y para construir un portafolio que no sólo muestra habilidades sino criterio. Aplica las rutinas, los ejercicios y las listas de este artículo una por una, y en pocas semanas verás cómo tu trabajo gana consistencia y voz.
 
-![estudio del ilustrador con la pieza terminada en el centro, herramientas alrededor y una ventana con luz de tarde; estilo semi‑realista, atmósfera contemplativa.](/src/assets/blogs/process_creative/11.png)
+![estudio del ilustrador con la pieza terminada en el centro, herramientas alrededor y una ventana con luz de tarde; estilo semi‑realista, atmósfera contemplativa.](/src/assets/blogs/process_creative/11.webp)
 
 ---
