@@ -1,0 +1,109 @@
+---
+title: "How to Create a Cohesive Illustration"
+description: "Practical methodology to design, produce, and present a series of works with a distinct voice and conceptual coherence."
+cover: "@assets/blogs/coherent/cover.png"
+date: 2025-10-04
+tag: "Design"
+---
+
+# How to Create a Cohesive Illustration Series for an Exhibition or Collection
+
+Creating an illustration series that works as a unified whole requires more than repeating a style: it demands thematic coherence, shared formal decisions, and a production and presentation strategy that enhances each piece without diluting the author’s voice. This guide offers a step-by-step process to turn an idea into a solid collection—from conceptual seed to final setup and public communication.
+
+---
+
+## Finding the Core Idea
+
+Every effective series starts with a core idea that acts as a guiding thread. This idea can be thematic (memory, migration, domestic utopias), formal (mixed media, limited palette), or narrative (recurring characters or a temporal sequence). Define your intent in a clear sentence: that sentence will be your filter to accept or reject pieces throughout the process.
+
+![conceptual moodboard with keywords, photo references, and handwritten notes; editorial collage style.](/src/assets/blogs/coherent/1.png)
+
+---
+
+## Shared Formal Decisions
+
+To make the series read as a cohesive set, establish formal rules to maintain throughout the project: format and orientation of pieces, main palette, line or texture treatment, and levels of detail. These rules shouldn’t stifle creativity but provide boundaries that allow coherent variation.
+
+![visual spec sheet with format, 4–5 color palette, and texture examples; clean studio-style layout.](/src/assets/blogs/coherent/2.png)
+
+---
+
+## Scale and Production Rhythm
+
+Plan how many pieces will make up the series and in what timeframe. The decision should balance ambition with realistic production capacity. Work in blocks: ideation (thumbnails), fast execution (shape and color blocking), refinement (details and textures), and review. Reserve buffer time for external feedback and print or mounting tests.
+
+![visual timeline with phases and time per piece; infographic style.](/src/assets/blogs/coherent/3.png)
+
+---
+
+## Creating Variations with Coherence
+
+A rich collection alternates rhythms: more complex pieces alongside quieter ones, scale variations, and shifts in focal points to maintain interest. Design 2–3 internal “patterns” (e.g., close-up portraits, wide scenes, abstract pieces) that interact and ensure controlled diversity.
+
+![three mini-mockups showing proposed variations (close-up, wide, abstract); editorial style.](/src/assets/blogs/coherent/4.png)
+
+---
+
+## Testing Readability at Distance and Thumbnail Size
+
+Before finalizing, validate how the pieces read at different scales. Stepping back reveals if hierarchy works; reducing to thumbnail checks legibility for social media and catalogs. Adjust contrast, silhouettes, and focal points as needed to maintain coherence both in gallery and online.
+
+![same illustration shown in three sizes (full screen, distant wall view, thumbnail) with legibility notes; instructional style.](/src/assets/blogs/coherent/5.png)
+
+---
+
+## Documenting the Process as Part of the Series
+
+Documenting the process (sketches, palettes, tests) enriches the presentation and helps the audience and buyers understand the creative journey. Select 3–5 process pieces per artwork to include in the physical exhibition or digital catalog.
+
+![process gallery with sketch, color study, and final version of a piece; mixed style.](/src/assets/blogs/coherent/6.png)
+
+---
+
+## Physical Production and Material Testing
+
+If the series will be exhibited physically, test materials and finishes. Not all papers, canvases, or prints convey the same as on screen. Run tests for color and texture, check how inks or pigments react, and choose based on aesthetic intent and budget.
+
+![print tests on different papers with texture close-ups; professional photographic style.](/src/assets/blogs/coherent/7.png)
+
+---
+
+## Setup and Presentation in the Gallery
+
+The setup defines the collective reading. Decide the relationship between pieces: regular spacing for a neutral rhythm or clusters and focal points to create narratives within the space. Consider lighting that respects the palette and contrasts; avoid glare if using glass. Accompany the exhibition with brief texts that contextualize the series without overexplaining.
+
+![gallery layout plan with artwork distribution and lighting notes; minimalist architectural style.](/src/assets/blogs/coherent/8.png)
+
+---
+
+## Communication and Catalog
+
+Plan communication before, during, and after the exhibition. Create a catalog (printed or digital) that includes high-resolution images, process notes, and the sentence that defines the core idea. Prepare materials for press and social media: optimized images, thoughtful captions, and a clear press release.
+
+![catalog mockup with cover, index, and process page; elegant editorial style.](/src/assets/blogs/coherent/9.png)
+
+---
+
+## Sales and Post-Exhibition Follow-Up
+
+If you plan to sell the series, define conditions: limited edition, price per piece, and whether you include a certificate of authenticity. Document interested contacts and maintain post-show communication with buyers and galleries. Offer framing and shipping options to facilitate purchases.
+
+![artwork sales sheet with title, size, technique, and price; professional and organized style.](/src/assets/blogs/coherent/10.png)
+
+---
+
+## Evaluate and Learn for the Next Series
+
+At the end of the exhibition, gather data and reflections: which pieces resonated most with the audience, which channels brought visitors, and which processes were inefficient. This evaluation will guide your next collection and help optimize time, materials, and communication.
+
+![evaluation board with metrics, notes, and gallery photos; workshop style.](/src/assets/blogs/coherent/11.png)
+
+---
+
+## Conclusion
+
+Designing a cohesive series is an exercise in creative restraint and strategic planning. Limiting some decisions to enhance others, testing readability at different scales, and documenting the process turns a collection into an integral experience for the public and a valuable asset for your career. Start with a sentence that summarizes your intent and let it guide every choice until the final setup.
+
+![panoramic view of the gallery with the full series hung and visitors interacting; semi-realistic style, contemplative atmosphere.](/src/assets/blogs/coherent/12.png)
+
+---
