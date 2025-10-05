@@ -107,5 +107,9 @@ export default {
     category: {
       all: "All",
     },
+    detail: {
+      recomended: "Recommended Posts",
+      more: "READ MORE",
+    }
   },
 };

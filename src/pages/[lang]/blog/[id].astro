@@ -1,0 +1,78 @@
+---
+import type { GetStaticPaths } from "astro";
+import { getRelativeLocaleUrl } from "astro:i18n";
+import Layout from "@layouts/Layout.astro";
+import { getCollection, render } from "astro:content";
+import { locales } from "@i18n/utils";
+import en from "@i18n/ui/en";
+import es from "@i18n/ui/es";
+import { Image } from "astro:assets";
+import Posts from "@components/blog/Posts.astro";
+import CTA from "@components/CTA.astro";
+import Button from "@components/main/Button.astro";
+import Arrow from "@assets/icons/Arrow.astro";
+
+export const getStaticPaths = (async () => {
+  const blogs = await getCollection("blogs");
+
+  return Object.keys(locales).flatMap((lang) =>
+    blogs.map((blog) => ({
+      params: { lang, id: blog.id.split("/")[1] },
+      props: {
+        blog,
+        recomended: blogs
+          .filter((b) => b.id !== blog.id && b.id.startsWith(`${lang}/`))
+          .slice(0, 3),
+      },
+    })),
+  );
+}) satisfies GetStaticPaths;
+
+const { id, lang } = Astro.params;
+const { blog, recomended } = Astro.props;
+
+const translations = { en, es };
+const t = translations[lang as keyof typeof locales];
+
+const { Content } = await render(blog);
+const { title, cover, tag, date } = blog.data;
+---
+
+<Layout>
+  <div class="px-6 pt-24 pb-8 lg:pb-12">
+    <div class="flex flex-col items-center justify-center gap-8">
+      <main class="prose prose-lg dark:prose-invert">
+        <Image
+          src={cover}
+          alt={title}
+          class="mb-8 h-64 w-full rounded-lg object-cover"
+          loading="eager"
+        />
+        <div class="flex items-center space-x-2">
+          <span>{date.toLocaleDateString("es-AR")}</span>
+          <span>{"|"}</span>
+          <a
+            class="no-underline hover:underline"
+            href={getRelativeLocaleUrl(lang, `blog/${tag}/1`)}>#{tag}</a
+          >
+        </div>
+        <Content />
+      </main>
+      <aside>
+        <h2 class="mb-4 text-3xl font-bold">{t.blog.detail.recomended}</h2>
+        <Posts
+          currentLang={lang}
+          posts={recomended}
+          more={t.blog.featuredProjects.more}
+        />
+        <Button lang={lang} to="blog" styles="mt-8">
+          {t.blog.detail.more}
+          <Arrow
+            styles="size-5 md:size-6 group-hover:translate-x-2 transition-tranform ease-in-out duration-300"
+          />
+        </Button>
+      </aside>
+    </div>
+    <CTA lang={lang} texts={t.cta} />
+  </div>
+</Layout>
