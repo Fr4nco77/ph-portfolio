@@ -110,6 +110,27 @@ export default {
     detail: {
       recomended: "Recommended Posts",
       more: "READ MORE",
-    }
+    },
+  },
+  about: {
+    title: "About",
+    description:
+      "Professional illustrator specialized in digital art and traditional techniques. My portfolio brings together unique illustrations inspired by nature, dreams, and visual storytelling. With experience in editorial projects, book covers, and collaborations with creative brands, my work combines artistic sensitivity and professionalism. Discover my creative universe and see how my illustrations can bring your ideas to life.",
+    subtitle: "I illustrate to give life to the invisible",
+    top: {
+      p1: "I’m an illustrator passionate about transforming emotions into images. My work is born at the intersection between the dreamlike and the tangible, where feminine characters dance among watercolors and inks, and nature becomes its own language.",
+      p2: "Each illustration I create is a window into worlds where poetry takes shape. I draw inspiration from everyday wonders: light filtering through leaves, the movement of fabric in the wind, the fleeting expression on a face.",
+    },
+    mid: {
+      h2: "My Journey",
+      p1: "My path in illustration began with a pencil and a notebook full of dreams. Over time, those first strokes evolved into a professional career that has led me to collaborate with publishers, cultural magazines, and independent brands.",
+      p2: "I’ve had the privilege of illustrating book covers that come to life in readers’ hands, creating pieces for magazines that celebrate creativity, and developing custom projects for brands that value authenticity.",
+    },
+    bottom: {
+      h2: "Style and Creative Philosophy",
+      p1: "My style is a dialogue between the delicate and the vibrant. I work with colorful palettes that evoke specific emotions: soft pinks that whisper tenderness, deep blues that invite introspection, greens that celebrate life.",
+      p2: "I’m fascinated by exploring the feminine figure in all its expressions: strong, vulnerable, dreamy, determined. My characters inhabit worlds where nature is not just a backdrop, but a protagonist that embraces, protects, and transforms.",
+      p3: "I believe art has the power to move, to pause time, to build bridges between people. My philosophy is simple: every illustration should tell a story, awaken an emotion, and invite the viewer to dive into a moment of beauty and reflection.",
+    },
   },
 };

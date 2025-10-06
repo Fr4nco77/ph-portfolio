@@ -112,4 +112,25 @@ export default {
       more: "LEER MÁS",
     },
   },
+  about: {
+    title: "About",
+    description:
+      "Ilustradora profesional especializada en arte digital y técnicas tradicionales. Mi portafolio reúne ilustraciones únicas inspiradas en la naturaleza, los sueños y la narrativa visual. Con experiencia en proyectos editoriales, portadas de libros y colaboraciones con marcas creativas, mi trabajo combina sensibilidad artística y profesionalismo. Descubre mi universo creativo y conoce cómo mis ilustraciones pueden dar vida a tus ideas.",
+    subtitle: "Ilustro para dar vida a lo invisible",
+    top: {
+      p1: "Soy una ilustradora apasionada por transformar emociones en imágenes. Mi trabajo nace de la intersección entre lo onírico y lo tangible, donde personajes femeninos danzan entre acuarelas y tintas, y la naturaleza se convierte en un lenguaje propio.",
+      p2: "Cada ilustración que creo es una ventana a mundos donde lo poético cobra forma. Me inspiro en las pequeñas maravillas cotidianas: la luz filtrada entre las hojas, el movimiento de una tela al viento, la expresión fugaz de un rostro.",
+    },
+    mid: {
+      h2: "Mi Trayectoria",
+      p1: "Mi camino en la ilustración comenzó con un lápiz y un cuaderno lleno de sueños. Con el tiempo, esos primeros trazos se transformaron en una carrera profesional que me ha llevado a colaborar con editoriales, revistas culturales y marcas independientes.",
+      p2: "He tenido el privilegio de ilustrar portadas de libros que cobran vida en las manos de los lectores, crear piezas para revistas que celebran la creatividad, y desarrollar proyectos personalizados para marcas que valoran la autenticidad.",
+    },
+    bottom: {
+      h2: "Estilo y Filosofía Creativa",
+      p1: "Mi estilo es un diálogo entre lo delicado y lo vibrante. Trabajo con paletas coloridas que evocan emociones específicas: rosas suaves que susurran ternura, azules profundos que invitan a la introspección, verdes que celebran la vida.",
+      p2: "Me fascina explorar la figura femenina en todas sus expresiones: fuerte, vulnerable, soñadora, decidida. Mis personajes habitan mundos donde la naturaleza no es solo un fondo, sino una protagonista que abraza, protege y transforma.",
+      p3: "Creo que el arte tiene el poder de emocionar, de hacer pausar el tiempo, de crear puentes entre personas. Mi filosofía es simple: cada ilustración debe contar una historia, despertar una emoción, invitar a quien la observa a sumergirse en un momento de belleza y reflexión.",
+    },
+  },
 };

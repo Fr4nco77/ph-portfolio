@@ -1,0 +1,105 @@
+---
+import Header from "@components/ui/Header.astro";
+import en from "@i18n/ui/en";
+import es from "@i18n/ui/es";
+import { locales } from "@i18n/utils";
+import Layout from "@layouts/Layout.astro";
+import type { GetStaticPaths } from "astro";
+import { Image } from "astro:assets";
+import aboutTop from "@assets/images/top_about.jpg";
+import character1 from "@assets/images/femine_character1.jpg";
+import character2 from "@assets/images/femine_character2.jpg";
+import character3 from "@assets/images/femine_character3.jpg";
+import dreamy from "@assets/images/dreamy.jpg";
+import supplies from "@assets/images/supplies.jpg";
+import nature from "@assets/images/nature.jpg";
+import CTA from "@components/CTA.astro";
+
+export const getStaticPaths = (() => {
+  return Object.keys(locales).map((lang) => {
+    return {
+      params: {
+        lang: lang,
+      },
+    };
+  });
+}) satisfies GetStaticPaths;
+
+const currentLang = Astro.currentLocale as keyof typeof locales;
+const translations = { en, es };
+const t = translations[currentLang];
+---
+
+<Layout title={t.about.title} description={t.about.description}>
+  <main class="space-y-8 px-6 pt-24 pb-8 lg:pb-12">
+    <Header title="Priscila Hope" subtitle={t.about.subtitle} />
+    <div class="prose dark:prose-invert prose-lg mx-auto">
+      <Image
+        src={aboutTop}
+        alt="Priscila Hop"
+        loading={"eager"}
+        class="max-h-96 rounded object-cover"
+      />
+      <div>
+        <p>
+          {t.about.top.p1}
+        </p>
+        <p>
+          {t.about.top.p2}
+        </p>
+      </div>
+      <div class="not-prose grid grid-cols-2 gap-6">
+        <Image
+          src={character1}
+          alt="Femine character in aquarelle"
+          class="hidden rounded object-cover sm:block"
+        />
+        <Image
+          src={dreamy}
+          alt="Dreamy land in aquarelle"
+          class="hidden rounded object-cover sm:block"
+        />
+        <Image
+          src={character3}
+          alt="Femine character in aquarelle"
+          class="col-span-2 rounded object-cover"
+        />
+      </div>
+      <div>
+        <h2>{t.about.mid.h2}</h2>
+        <p>
+          {t.about.mid.p1}
+        </p>
+        <p>
+          {t.about.mid.p2}
+        </p>
+        <Image src={supplies} alt="Art supplies" class="rounded object-cover" />
+      </div>
+      <div>
+        <h2>{t.about.bottom.h2}</h2>
+        <p>
+          {t.about.bottom.p1}
+        </p>
+        <p>
+          {t.about.bottom.p2}
+        </p>
+        <p>
+          {t.about.bottom.p3}
+        </p>
+      </div>
+      <div class="not-prose grid gap-6 sm:grid-cols-2">
+        <Image
+          src={character2}
+          alt="Femine character in aquarelle"
+          class="rounded object-cover"
+        />
+        <Image
+          src={nature}
+          alt="Nature in aquarelle"
+          class="rounded object-cover"
+        />
+      </div>
+    </div>
+    <CTA lang={currentLang} texts={t.cta} />
+  </main></Layout
+>
