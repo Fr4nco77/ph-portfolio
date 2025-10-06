@@ -1,0 +1,14 @@
+---
+import { locales } from "@i18n/utils";
+import type { GetStaticPaths } from "astro";
+import { getRelativeLocaleUrl } from "astro:i18n";
+
+export const getStaticPaths = (() => {
+  return Object.keys(locales).map((lang) => ({
+    params: { lang },
+  }));
+}) satisfies GetStaticPaths;
+
+const currentLocale = Astro.currentLocale;
+return Astro.redirect(getRelativeLocaleUrl(currentLocale, "/catalog/1"));
+---

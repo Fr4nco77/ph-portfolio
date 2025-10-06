@@ -21,10 +21,5 @@ export default defineConfig({
     },
   },
 
-  redirects: {
-    "/[lang]/catalog": "/[lang]/catalog/1",
-    "/[lang]/blog": "/[lang]/blog/1",
-  },
-
   adapter: vercel(),
 });
