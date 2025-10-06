@@ -52,6 +52,7 @@ export default {
         },
       ],
       button: "Conóceme",
+      button2: "Leer mi blog",
     },
     featuredProjects: {
       title: "Proyectos Destacados",

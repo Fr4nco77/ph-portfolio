@@ -52,6 +52,7 @@ export default {
         },
       ],
       button: "Get to Know Me",
+      button2: "Read my blog",
     },
     featuredProjects: {
       title: "Featured Projects",

@@ -35,6 +35,7 @@ export interface MainAbout {
     label: string;
   }[];
   button: string;
+  button2: string;
 }
 
 export interface MainFeatured {
