@@ -1,17 +1,18 @@
 // @ts-check
 import { defineConfig } from "astro/config";
-
 import tailwindcss from "@tailwindcss/vite";
-
 import sitemap from "@astrojs/sitemap";
+import vercel from "@astrojs/vercel";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "http://localhost:4321",
+  site: "https://ph-portafolio.vercel.app",
   integrations: [sitemap()],
+
   vite: {
     plugins: [tailwindcss()],
   },
+
   i18n: {
     defaultLocale: "en",
     locales: ["en", "es"],
@@ -19,8 +20,11 @@ export default defineConfig({
       prefixDefaultLocale: true,
     },
   },
+
   redirects: {
     "/[lang]/catalog": "/[lang]/catalog/1",
     "/[lang]/blog": "/[lang]/blog/1",
   },
+
+  adapter: vercel(),
 });
