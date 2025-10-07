@@ -12,9 +12,9 @@ import es from "@i18n/ui/es";
 import type { GetStaticPaths } from "astro";
 import { getCollection } from "astro:content";
 
-export const getStaticPaths = (async() => {
+export const getStaticPaths = (async () => {
   const projects = await getCollection("projects");
-  
+
   return Object.keys(locales).flatMap((lang) => {
     const filtered = projects.filter((project) =>
       project.id.startsWith(`${lang}/`),
@@ -35,14 +35,19 @@ const featuredProjects = projects.slice(13, 22);
 
 <Layout description={t.main.description}>
   <Hero texts={t.main.hero} />
-  <RecentProjects lang={currentLocale} texts={t.main.recentProjects} projects={recentProjects}/>
+  <RecentProjects
+    lang={currentLocale}
+    texts={t.main.recentProjects}
+    projects={recentProjects}
+  />
   <About lang={currentLocale} texts={t.main.about} />
-  <FeaturedProjects lang={currentLocale} texts={t.main.featuredProjects} projects={featuredProjects}/>
+  <FeaturedProjects
+    lang={currentLocale}
+    texts={t.main.featuredProjects}
+    projects={featuredProjects}
+  />
   <CTA lang={currentLocale} texts={t.cta} />
 
   <!-- Modal Global -->
-  <ModalProject lang={currentLocale}/>
+  <ModalProject lang={currentLocale} />
 </Layout>
-
-<!-- Setup Animations -->
-<script src="@lib/scripts/setupAnimations.js"></script>
