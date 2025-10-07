@@ -20,7 +20,7 @@ const { lang } = Astro.props;
   >
     {/* Tools */}
     <div
-      class="absolute top-2 right-2 z-51 flex flex-row-reverse sm:flex-col items-center gap-3 md:top-3 md:right-3 lg:top-4 lg:right-4"
+      class="absolute top-2 right-2 z-51 flex flex-row-reverse items-center gap-3 sm:flex-col md:top-3 md:right-3 lg:top-4 lg:right-4"
     >
       <button
         id="close-modal"
@@ -33,14 +33,14 @@ const { lang } = Astro.props;
         id="modal-download"
         href="/"
         aria-label="download project"
-        class="p-1 transition-transform duration-300 hover:scale-105 hover:text-accent"
+        class="hover:text-accent p-1 transition-transform duration-300 hover:scale-105"
       >
         <Download styles="size-6 md:size-7" />
       </a>
       <a
         aria-label="contact me"
         href={getRelativeLocaleUrl(lang, "contact")}
-        class="p-1 transition-transform duration-300 hover:scale-105 hover:text-accent"
+        class="hover:text-accent p-1 transition-transform duration-300 hover:scale-105"
       >
         <Mail styles="size-6 md:size-7" />
       </a>
@@ -88,21 +88,24 @@ const { lang } = Astro.props;
     function openModal(card) {
       const { title, description, image } = card.dataset;
 
-      modalImage.src = image;
-      modalImage.alt = title;
-      modalTitle.textContent = title;
-      modalDescription.textContent = description;
-      downloadBtn.href = image;
-      downloadBtn.download = `${title}.webp`;
+      const img = new Image();
+      img.src = image;
+      img.onload = () => {
+        modalImage.src = image;
+        modalImage.alt = title;
+        modalTitle.textContent = title;
+        modalDescription.textContent = description;
+        downloadBtn.href = image;
+        downloadBtn.download = `${title}.webp`;
 
-      modal.classList.remove("invisible", "opacity-0");
-      modal.classList.add("opacity-100");
+        modal.classList.remove("invisible", "opacity-0");
+        modal.classList.add("opacity-100");
 
-      // animación del contenedor
-      setTimeout(() => {
-        modalContent.classList.remove("scale-95", "opacity-0");
-        modalContent.classList.add("scale-100", "opacity-100");
-      }, 10);
+        setTimeout(() => {
+          modalContent.classList.remove("scale-95", "opacity-0");
+          modalContent.classList.add("scale-100", "opacity-100");
+        }, 10);
+      };
     }
 
     function closeModal() {
