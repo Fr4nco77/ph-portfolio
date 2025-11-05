@@ -1,7 +1,7 @@
 export default {
   nav: {
     home: "Inicio",
-    about: "Acerca de",
+    about: "Acerca",
     catalog: "Catálogo",
     blog: "Blog",
     contact: "Contacto",
