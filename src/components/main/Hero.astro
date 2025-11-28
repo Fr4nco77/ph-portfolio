@@ -29,8 +29,7 @@ const { texts } = Astro.props;
         <Image
           src={smallMosail}
           alt="decoration title"
-          loading="eager"
-          quality={"mid"}
+          priority
           class="size-full object-cover object-bottom"
         />
       </div>
@@ -51,8 +50,7 @@ const { texts } = Astro.props;
   <Image
     src={bigMosaic}
     alt="Collage of twelve painterly illustrations arranged in a 3x4 grid, featuring nature scenes, whimsical characters, portraits, futuristic cityscapes, and everyday moments, blending warm and cool tones in a variety of artistic styles."
-    loading="eager"
-    quality={"mid"}
+    priority
     data-animate="slideUp"
     class="mb-4 h-[400px] w-full rounded object-cover opacity-0 sm:h-[40vh] md:h-[50vh] lg:h-[60vh] xl:h-[70vh]"
   />

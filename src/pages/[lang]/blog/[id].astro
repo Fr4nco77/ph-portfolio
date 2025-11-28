@@ -46,7 +46,7 @@ const { title, cover, tag, date } = blog.data;
           src={cover}
           alt={title}
           class="mb-8 h-64 w-full rounded-lg object-cover"
-          loading="eager"
+          priority
         />
         <div class="flex items-center space-x-2">
           <span>{date.toLocaleDateString("es-AR")}</span>
